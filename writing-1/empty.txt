@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Free Web tutorials">
+  <meta name="keywords" content="HTML,CSS,XML,JavaScript">
+  <meta name="author" content="John Smith">
+  <title>Title of Document</title>
+</head>
+<body>
+  <h1>This is heading 1</h1>
+  <h2>This is heading 2</h2>
+  <h3>This is heading 3</h3>
+  <h4>This is heading 4</h4>
+  <h5>This is heading 5</h5>
+  <h6>This is heading 6</h6>
+  <p>
+    This paragraph
+    contains a lot of lines
+    in the source code,
+    but the browser 
+    ignores it.
+  </p>
+
+  <p>
+    This paragraph
+    contains      a lot of spaces
+    in the source     code,
+    but the    browser 
+    ignores it.
+  </p>
+
+  <p>
+    The number of lines in a paragraph depends on the size of your browser window. If you resize the browser window, the number of lines in this paragraph will change.
+  </p>
+</body>
+</html>

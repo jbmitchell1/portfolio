@@ -5,6 +5,12 @@ div {
   padding: 0px;
 
 }
+
+.alert {
+  background-color: yellow;
+  border:none;
+  outline:none;
+}
   
     h2 {
      color:mediumblue;

@@ -1,7 +1,7 @@
 div {
   border: 2px solid gray;
   outline: solid black 10px;
-  margin: auto; 
+  margin:  margin: auto; 
   padding: 0px;
 }
 
@@ -38,7 +38,8 @@ background-color: yellow;
     
    p2 {
        color: gray;
-        margin: 25px 50px 25px 20px;
+       display: block;
+        margin: 25px 50px 0px 20px;
    }
   
     p3 {
@@ -100,3 +101,5 @@ footer{
      background-color: black;
       color: white;
 }
+
+

@@ -1,0 +1,114 @@
+<html>
+	<body onload=>
+	
+<head>
+<link rel="stylesheet" href="C:\Users\benmi\Documents\gamestylesheet.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<title>Simple Text Based Game Using Conditional Statements</title>
+	<script type="text/javascript">
+
+
+	
+	alert('You find yourself at the entrance to a deep dark labrynth');
+
+alert('Upon entering the labrynth you find that the path splits into two directions')
+
+
+
+		var direction = prompt("Do you want to go left or right?");
+		
+		
+
+		if (direction=="left") {
+		
+
+  alert("You find your self in a well lit chamber")
+  
+  var direction1 = prompt("Do you want to look around or move on?");
+  
+  	if (direction=="move on") {
+			alert("You enter a new chamber containing 3 labled doorways")
+			}
+			var direction = prompt("Do you want to open door 1, door 2, or door 3?");
+			
+			if(direction=="door 1") {
+			alert("You find your self back at the labrynth's entrance")
+			}
+			if(direction== "door 2") {
+			alert("You find a treasure trove")
+			alert("GAME OVER You WIN")
+			}
+			if(direction=="door 3") {
+			alert("Turns out you were not in a labrynth at all but the engine room of a space craft and opening the door jettions you into space")
+			alert("GAME OVER")
+			}
+			
+			if(direction=="look around") {
+			alert("You find an old book")
+			var direction = prompt("Do you want to read from the book or look around some more?");
+			}
+			
+				
+				
+				if (direction=="read from book") {
+				alert("Your eyes begin to bleed")
+				alert("GAME OVER")
+				}
+				
+				if (direction=="look around some more") {
+				alert("You find a narrow crawspace that you can squeeze through")
+				var direction= prompt("Do you want to try and go through the crawlspace, look through opening, or go back to labrynth's entrance?")
+				}
+				
+				
+				if (direction=="go through the crawlspace") {
+				alert("You are attacked by something before you can make it all of the way through")
+				alert("GAME OVER")
+				}
+			if (direction=="look through opening") {
+			alert("You peer through the crawlspace and come face to face with a creature unlike anything you have ever seen")
+			}
+			if (direction=="go back") {
+			alert("You make your way back to the labrynth's entrance")
+			
+			}
+			
+			
+ } else if (direction=="right") {
+  alert("You find your self in a dimly lit chamber")
+  var direction1 = prompt("Do you want to go back or grope around in the dark?");
+  
+  	if (direction1=="grope around") {
+			alert("You bump into something furry and alive")
+						var direction = prompt("Do you want to try and fight the creature or run away?");
+						
+						if (direction=="fight")
+						alert("Without hesitation you leap forward and puch the creature as hard as you can")
+						
+						if (direction=="fight") {
+						alert("You get mauled because you punched a bear in the face")
+						alert("GAME OVER")
+						}
+						
+						if (direction=="run away") {
+						alert("You run back to the entrance of the labrynth")
+						}
+						
+
+			}
+			
+			
+			
+		
+}
+	
+			
+		
+	
+		
+	</script>
+</head>
+
+<h1>GAME OVER</h1>
+</body>
+</html>

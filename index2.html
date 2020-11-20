@@ -15,27 +15,44 @@
      <!-- Include JQuery to simplify AJAX call - See https://www.w3schools.com/jquery/jquery_get_started.asp -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     
+   
+
 </head>
 
 
 
 <body>
     
+    <div class="navbar">
+      <img class="logo" src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg">
+  <a href="#home">Home</a>
+  <a href="#news">Contact</a>
+
+  <div class="dropdown">
+    <button class="dropbtn">About 
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      <a href="#">Arkansas</a>
+      <a href="#">The Arkansas Movie DB Project</a>
+      <a href="#">Arkansas films</a>
+     
+    </div>
+  </div> 
+</div>
 
 
-<nav class="navigation-bar">
-    <img class="logo" src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_short-8e7b30f73a4020692ccca9c88bafe5dcb6f8a62a4c6bc55cd9ba82bb2cd95f6c.svg">
-    <a href="#">Contact</a>
-    <a href="#">About</a>
-    <a href="#">Home</a>
-   
+
+
+
 </nav>
+
+<h3>If possible I would like for the results to populate in a new tab. Maybe using onclick event?</h3>
 
  <p>Enter Movie Name: <input type="text" id="moviename"></p>
     
     <!-- Run the MoveSearch function when the button is clicked - See https://www.w3schools.com/js/js_events.asp-->
-    <p><button onclick="MovieSearch()">Search for Movie</button></p>
-
+         <p><button onclick="MovieSearch()">Search for Movie</button></p>
 
 
     
@@ -178,9 +195,24 @@ function MovieSearch() {
 
 
 <hr>
+<script src="https://www.w3schools.com/lib/w3.js"></script>
+<body>
+
+<h2>Testing Slideshow</h2>
+
+<img class="nature" src="https://i.pinimg.com/736x/fa/57/8f/fa578f584fe18e5d99964d9fed072ffe.jpg" width="50%">
+<img class="nature" src="http://1.bp.blogspot.com/-0Yd-9HVPLYw/T85h86xfuKI/AAAAAAAAASQ/ML55tAYr2qQ/s1600/P6031128.JPG" width="50%">
+<img class="nature" src="https://i.pinimg.com/originals/09/ed/7a/09ed7a0202b82362855c20d2b613f501.jpg" width="50%">
+
 <p>
-    "Can you see this text?"
+<button onclick="myShow.previous()">Previous</button>
+<button onclick="myShow.next()">Next</button>
 </p>
+
+<script>
+myShow = w3.slideshow(".nature", 0);
+</script>
+
 </hr>
 
 

@@ -159,6 +159,8 @@ function MovieSearch() {
                 
                 /* Display the result */
                 if (i < msg.results.length) {
+                    
+                    
 
                     /* Set the Title to Visible and set title to value in database */
                     document.getElementById("title" + i).style.display = "block";
@@ -198,19 +200,211 @@ function MovieSearch() {
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 <body>
 
+<h2>Testing Scrolling Text</h2>
+
+<marquee behavior="scroll" direction="left">This is where I will put a greeting or some type of message. Because Scrolling HTML Text is awsome</marquee>
+
+
 <h2>Testing Slideshow</h2>
 
-<img class="nature" src="https://i.pinimg.com/736x/fa/57/8f/fa578f584fe18e5d99964d9fed072ffe.jpg" width="50%">
-<img class="nature" src="http://1.bp.blogspot.com/-0Yd-9HVPLYw/T85h86xfuKI/AAAAAAAAASQ/ML55tAYr2qQ/s1600/P6031128.JPG" width="50%">
-<img class="nature" src="https://i.pinimg.com/originals/09/ed/7a/09ed7a0202b82362855c20d2b613f501.jpg" width="50%">
+<style>
+body {
+  font-family: Arial;
+  margin: 0;
+}
 
-<p>
-<button onclick="myShow.previous()">Previous</button>
-<button onclick="myShow.next()">Next</button>
-</p>
+* {
+  box-sizing: border-box;
+}
+
+img {
+  vertical-align: middle;
+}
+
+/* Position the image container (needed to position the left and right arrows) */
+.container {
+  position: relative;
+}
+
+/* Hide the images by default */
+.mySlides {
+  display: none;
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+  cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+  cursor: pointer;
+  position: absolute;
+  top: 40%;
+  width: auto;
+  padding: 16px;
+  margin-top: -50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  border-radius: 0 3px 3px 0;
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+
+/* On hover, add a black background color with a little bit see-through */
+.prev:hover,
+.next:hover {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+/* Number text (1/3 etc) */
+.numbertext {
+  color: #f2f2f2;
+  font-size: 12px;
+  padding: 8px 12px;
+  position: absolute;
+  top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+  text-align: center;
+  background-color: #222;
+  padding: 2px 16px;
+  color: white;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Six columns side by side */
+.column {
+  float: left;
+  width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+  opacity: 0.6;
+}
+
+.active,
+.demo:hover {
+  opacity: 1;
+}
+</style>
+<body>
+
+<h2 style="text-align:center">Slideshow Gallery</h2>
+
+<div class="container">
+  <div class="mySlides">
+    <div class="numbertext">1 / 7</div>
+    <img src="https://i.pinimg.com/736x/fa/57/8f/fa578f584fe18e5d99964d9fed072ffe.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">2 / 7</div>
+    <img src="https://arkokhiker.org/wp-content/uploads/2015/04/2015-04-11-petit-jean-080-81-Stitch.jpg" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">3 / 7</div>
+    <img src="https://bethhallphotography.com/wp-content/uploads/2012/11/White-Rock-Mountain-Arkansas-04.jpg" style="width:100%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">4 / 7</div>
+    <img src="https://www.arkansas.com/sites/default/files/styles/hero_image_mobile/public/2018-05/02_-_nc_-_blanchard-springs-caverns-1200x600.jpg?itok=Yn-Vpw75" style="width:100%">
+  </div>
+
+  <div class="mySlides">
+    <div class="numbertext">5 / 7</div>
+    <img src="https://www.nps.gov/buff/planyourvisit/images/Dale-in-the-UBD-CMS-Spring-2012.jpg" style="width:100%">
+  </div>
+    
+  <div class="mySlides">
+    <div class="numbertext">6 / 7</div>
+    <img src="https://cdn.onlyinyourstate.com/wp-content/uploads/2017/07/12891740_975625302487291_7977106028438299580_o-700x525-1.jpg" style="width:100%">
+  </div>
+  
+   <div class="mySlides">
+    <div class="numbertext">7 / 7</div>
+    <img src="https://www.stavislost.com/images/photography/2018/5b30ff6dc58cc.jpg" style="width:100%">
+  </div>
+    
+  <a class="prev" onclick="plusSlides(-1)">❮</a>
+  <a class="next" onclick="plusSlides(1)">❯</a>
+
+  <div class="caption-container">
+    <p id="caption"></p>
+  </div>
+
+  <div class="row">
+    <div class="column">
+      <img class="demo cursor" src="https://i.pinimg.com/736x/fa/57/8f/fa578f584fe18e5d99964d9fed072ffe.jpg" style="width:100%" onclick="currentSlide(1)" alt="Mirror Lake">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="https://arkokhiker.org/wp-content/uploads/2015/04/2015-04-11-petit-jean-080-81-Stitch.jpg" style="width:100%" onclick="currentSlide(2)" alt=" Cedar Falls at Petit Jean State Park">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="https://bethhallphotography.com/wp-content/uploads/2012/11/White-Rock-Mountain-Arkansas-04.jpg" style="width:100%" onclick="currentSlide(3)" alt="White Rock Mountain">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="https://www.arkansas.com/sites/default/files/styles/hero_image_mobile/public/2018-05/02_-_nc_-_blanchard-springs-caverns-1200x600.jpg?itok=Yn-Vpw75" style="width:100%" onclick="currentSlide(4)" alt=" Blanchard Springs Caverns">
+    </div>
+    <div class="column">
+      <img class="demo cursor" src="https://www.nps.gov/buff/planyourvisit/images/Dale-in-the-UBD-CMS-Spring-2012.jpg" style="width:100%" onclick="currentSlide(5)" alt="The Buffalo River">
+    </div>    
+    <div class="column">
+      <img class="demo cursor" src="https://cdn.onlyinyourstate.com/wp-content/uploads/2017/07/12891740_975625302487291_7977106028438299580_o-700x525-1.jpg" style="width:100%" onclick="currentSlide(6)" alt="Moro Bay">
+    </div>
+     <div class="column">
+      <img class="demo cursor" src="https://www.stavislost.com/images/photography/2018/5b30ff6dc58cc.jpg" style="width:100%" onclick="currentSlide(7)" alt="Hawksbill Crag">
+      </div>
+  </div>
+</div>
 
 <script>
-myShow = w3.slideshow(".nature", 0);
+var slideIndex = 1;
+showSlides(slideIndex);
+
+function plusSlides(n) {
+  showSlides(slideIndex += n);
+}
+
+function currentSlide(n) {
+  showSlides(slideIndex = n);
+}
+
+function showSlides(n) {
+  var i;
+  var slides = document.getElementsByClassName("mySlides");
+  var dots = document.getElementsByClassName("demo");
+  var captionText = document.getElementById("caption");
+  if (n > slides.length) {slideIndex = 1}
+  if (n < 1) {slideIndex = slides.length}
+  for (i = 0; i < slides.length; i++) {
+      slides[i].style.display = "none";
+  }
+  for (i = 0; i < dots.length; i++) {
+      dots[i].className = dots[i].className.replace(" active", "");
+  }
+  slides[slideIndex-1].style.display = "block";
+  dots[slideIndex-1].className += " active";
+  captionText.innerHTML = dots[slideIndex-1].alt;
+}
 </script>
 
 </hr>

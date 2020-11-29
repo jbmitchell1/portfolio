@@ -52,14 +52,25 @@
 
 <marquee behavior="scroll" direction="left">Welcome to the Arkansas Movie Database Project. This webpage will be updated periodically. Thank you for your visit!</marquee>
 
-<h3>If possible I would like for the results to populate in a new tab. Also I would Like for the search part to be seperate so that I can change its background color. This will help set it appart from everything else.</h3>
+<div class="container">
+  <img src="https://bostonraremaps.com/wp-content/uploads/2015/08/1767x2-tanner-arkansas-1839-1024x879.jpg" alt="Map of Arkansas" style="width:100%;">
+  <div class="bottom-left">Bottom Left</div>
+  <div class="top-left">Top Left</div>
+  <div class="top-right">Top Right</div>
+  <div class="bottom-right">Bottom Right</div>
+  <div class="centered"> <p>Enter Movie Name: <input type="text" id="moviename"></p> <p><button onclick="MovieSearch()">Search for Movie</button></p></div>
+</div>
 
- <p>Enter Movie Name: <input type="text" id="moviename"></p>
-    
+
+<h3>If possible I would like for the results to populate in a new tab.</h3>
+
+ 
+  
+ 
     <!-- Run the MoveSearch function when the button is clicked - See https://www.w3schools.com/js/js_events.asp-->
-         <p><button onclick="MovieSearch()">Search for Movie</button></p>
-
-<p>I would also like to get rid of all of the extra space below this sentence</p>
+       
+        <p><button onclick=window.open("")>display results in new page</button></p>
+      
     
     <div id="url1"></div>
     <div id="title0"></div>
@@ -114,7 +125,7 @@
     <img id="image24">
 
 <script>
-    
+
 /* Example URL for AJAX Call 
 var myURL = "https://api.themoviedb.org/3/search/movie?api_key=1c3df5b73705f054ad8dfe8bc03f7f33&language=en-US&query=Jack%20Reacher&page=1&include_adult=false";
 */
@@ -164,8 +175,6 @@ function MovieSearch() {
                 
                 /* Display the result */
                 if (i < msg.results.length) {
-                    
-                    
 
                     /* Set the Title to Visible and set title to value in database */
                     document.getElementById("title" + i).style.display = "block";
@@ -199,13 +208,11 @@ function MovieSearch() {
 </script>
 
 
-
-
 <script src="https://www.w3schools.com/lib/w3.js"></script>
 <body>
 
 
-<h2>All of the images in the slideshow need to all be the same size</h2>
+<h2>All of the images in the slideshow need to be the same size</h2>
 
 <style>
 body {
@@ -305,6 +312,8 @@ img {
 }
 </style>
 <body>
+  
+  
 
 <h2 style="text-align:center">Slideshow Gallery</h2>
 
@@ -407,7 +416,11 @@ function showSlides(n) {
 }
 </script>
 
-<hr></hr>
+<p>Click here to view entire gallery</p>
+
+<hr>
+
+</hr>
 
 <div align="center"><iframe src="https://maphub.net/embed/115757?legend=1&panel=1&panel_closed=1" frameborder="0"></iframe></div>
 

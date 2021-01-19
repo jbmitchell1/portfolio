@@ -19,8 +19,12 @@
 
     
     <div id="url1"></div>
-    <div id="title0"></div>
+    <div id="title0"></div> 
     <img id="image0">
+    <div id="overview0"></div>
+    
+    
+    
     <div id="title1"></div>
     <img id="image1">
     <div id="title2"></div>
@@ -125,6 +129,8 @@ function MovieSearch() {
                     /* Set the Title to Visible and set title to value in database */
                     document.getElementById("title" + i).style.display = "block";
                     document.getElementById("title" + i).innerHTML = i + ". " + msg.results[i].original_title;
+
+document.getElementById("overview" + i).innerHTML = i).innerHTML = i + ". " + msg.results[i].original_title;
 
                     /* Some movies don't have a poster - null is returned */
                     if (msg.results[i].poster_path != null) {

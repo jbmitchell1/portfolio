@@ -165,12 +165,17 @@ function MovieSearch() {
 					
 					  document.getElementById("overview" + i).style.display = "block";
                     document.getElementById("overview" + i).innerHTML = i + ". " + msg.results[i].overview;   <!--Here is where my code is messing up the loop. -->
+					
+						document.getElementById("overview" + i).style="color:red;border:1px solid #aaa;text-align:center;";
 
 					
                     /* Some movies don't have a poster - null is returned */
                     if (msg.results[i].poster_path != null) {
                         document.getElementById("image" + i).style.display = "block";
                         document.getElementById("image" + i).src = "https://image.tmdb.org/t/p/w500" + msg.results[i].poster_path;
+						
+						document.getElementById("image" + i).style="float:left;";
+						
                     }
                     else
 

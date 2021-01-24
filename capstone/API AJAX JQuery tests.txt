@@ -111,7 +111,7 @@ function MovieSearch() {
     var moviename = document.getElementById("moviename").value;
     
     /* Build up the parameters for the URL */
-    var api_key = "1c3df5b73705f054ad8dfe8bc03f7f33";
+    var api_key = "4f26000e2b0b01dd0cb364ac3f7a48a2";
     var language = "en-US";
     var page = "1";
     var include_adult = "false";

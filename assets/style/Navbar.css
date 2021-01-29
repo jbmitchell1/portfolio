@@ -193,12 +193,14 @@ html, body {
 form {
     width: 500px;
     margin: 50px auto;
+
 }
 
 .search {
     padding: 8px 15px;
     background: rgba(50, 50, 50, 0.2);
     border: 0px solid #dbdbdb;
+
 }
 
 .button {
@@ -318,4 +320,6 @@ body {
     background-color: #333;
     color: white;
     text-align: center;
+    overflow:hidden;
+    
 }

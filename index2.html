@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     
    
   <head>
@@ -112,9 +112,11 @@ function myFunction() {
 
 <marquee behavior="scroll" direction="left">Welcome to the Arkansas Movie Database Project. This webpage will be updated periodically. Thank you for your visit!</marquee>
 
-<form>
-                                <input type="text" id="moviename" placeholder="Enter Movie Name..." required>
-                                <input type="button" onclick="MovieSearch()" value="search">
+<form id="search-form">
+    <div class="search">
+      <input type="text" id = "moviename" name="search" class="round" />
+      <input type="button" onclick="MovieSearch()" class="corner" value=""/>
+    </div>
 </form>
 
 
@@ -127,10 +129,11 @@ function myFunction() {
   <div class="top-left">Top Left</div>
   <div class="top-right">Top Right</div>
   <div class="bottom-right">Bottom Right</div>
-  <div class="centered"> <p>Enter Movie Name: <input type="text" id="moviename"></p> <p><button onclick="MovieSearch()">Search for Movie</button></p></div>
+  <div class="centered"> <p>Enter Movie Name: <input type="text" id="moviename"></p> <p><input type="button" onclick="MovieSearch()"></button></p></div>
 </div>
 
 -->
+
     
 
  
@@ -141,59 +144,135 @@ function myFunction() {
   
       
      
-    
+ 
     <div id="url1"></div>
     <div id="title0"></div>
     <img id="image0">
+    <div id="overview0"></div>
+    <div id="release_date0"></div>
+
+
+
     <div id="title1"></div>
     <img id="image1">
+    <div id="overview1"></div>
+    <div id="release_date1"></div>
+
     <div id="title2"></div>
     <img id="image2">
+    <div id="overview2"></div>
+    <div id="release_date2"></div>
+
     <div id="title3"></div>
     <img id="image3">
+    <div id="overview3"></div>
+    <div id="release_date3"></div>
+
     <div id="title4"></div>
     <img id="image4">
+    <div id="overview4"></div>
+    <div id="release_date4"></div>
+
     <div id="title5"></div>
     <img id="image5">
+    <div id="overview5"></div>
+    <div id="release_date5"></div>
+
     <div id="title6"></div>
     <img id="image6">
+    <div id="overview6"></div>
+    <div id="release_date6"></div>
+
     <div id="title7"></div>
     <img id="image7">
+    <div id="overview7"></div>
+    <div id="release_date7"></div>
+
     <div id="title8"></div>
     <img id="image8">
+    <div id="overview8"></div>
+    <div id="release_date8"></div>
+
     <div id="title9"></div>
     <img id="image9">
+    <div id="overview9"></div>
+    <div id="release_date9"></div>
+
     <div id="title10"></div>
     <img id="image10">
+    <div id="overview10"></div>
+    <div id="release_date10"></div>
+
     <div id="title11"></div>
     <img id="image11">
+    <div id="overview11"></div>
+    <div id="release_date11"></div>
+
     <div id="title12"></div>
     <img id="image12">
+    <div id="overview12"></div>
+    <div id="release_date12"></div>
+
     <div id="title13"></div>
     <img id="image13">
+    <div id="overview13"></div>
+    <div id="release_date13"></div>
+
     <div id="title14"></div>
     <img id="image14">
+    <div id="overview14"></div>
+    <div id="release_date14"></div>
+
     <div id="title15"></div>
     <img id="image15">
+    <div id="overview15"></div>
+    <div id="release_date15"></div>
+
     <div id="title16"></div>
     <img id="image16">
+    <div id="overview16"></div>
+    <div id="release_date16"></div>
+
     <div id="title17"></div>
     <img id="image17">
+    <div id="overview17"></div>
+    <div id="release_date17"></div>
+
     <div id="title18"></div>
     <img id="image18">
+    <div id="overview18"></div>
+    <div id="release_date18"></div>
+
     <div id="title19"></div>
     <img id="image19">
+    <div id="overview19"></div>
+    <div id="release_date19"></div>
+
     <div id="title20"></div>
     <img id="image20">
+    <div id="overview20"></div>
+    <div id="release_date20"></div>
+
     <div id="title21"></div>
     <img id="image21">
+    <div id="overview21"></div>
+    <div id="release_date21"></div>
+
     <div id="title22"></div>
     <img id="image22">
+    <div id="overview22"></div>
+    <div id="release_date22"></div>
+
     <div id="title23"></div>
     <img id="image23">
+    <div id="overview23"></div>
+    <div id="release_date23"></div>
+
     <div id="title24"></div>
     <img id="image24">
-
+    <div id="overview24"></div>
+    <div id="release_date24"></div>
+	  
 <script>
 
 /* Example URL for AJAX Call 
@@ -250,10 +329,50 @@ function MovieSearch() {
                     document.getElementById("title" + i).style.display = "block";
                     document.getElementById("title" + i).innerHTML = i + ". " + msg.results[i].original_title;
 
+
+ 
+
+
+
                     /* Some movies don't have a poster - null is returned */
                     if (msg.results[i].poster_path != null) {
                         document.getElementById("image" + i).style.display = "block";
                         document.getElementById("image" + i).src = "https://image.tmdb.org/t/p/w500" + msg.results[i].poster_path;
+                  
+                  
+              document.getElementById("title" + i).style = "color:red;border:1px solid #aaa;text-align:center;";
+                                document.getElementById("title" + i).style.fontSize = "45px";
+
+
+
+
+                                document.getElementById("overview" + i).style.display = "block";
+                                document.getElementById("overview" + i).innerHTML = i + ". " + msg.results[i].overview;
+
+
+
+                                document.getElementById("overview" + i).style = "color:blue;border:1px solid #aaa;text-align:center;";
+                                document.getElementById("overview" + i).style.fontSize = "35px";
+                                document.getElementById("overview" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
+
+
+
+
+
+
+                                document.getElementById("release_date" + i).style.display = "block";
+                                document.getElementById("release_date" + i).innerHTML = i + ". " + msg.results[i].release_date;
+
+
+                                document.getElementById("release_date" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
+
+
+                                document.getElementById("image" + i).style = "float:left;";
+
+						
+                  
+                  
+                  
                     }
                     else
 

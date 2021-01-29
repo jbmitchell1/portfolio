@@ -4,7 +4,7 @@
    
   <head>
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+				    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
     <title>John Benjamin Mitchell</title>
     <meta name="description" content="My Portfolio">
     <meta name="keywords" content="Portfolio, UALR, Student">
@@ -91,6 +91,7 @@ body {
   </a>
 </div>
 
+<marquee behavior="scroll" direction="left">Welcome to the Arkansas Movie Database Project. This webpage will be updated periodically. Thank you for your visit!</marquee>
 
 
 <script>
@@ -110,12 +111,11 @@ function myFunction() {
 
 
 
-<marquee behavior="scroll" direction="left">Welcome to the Arkansas Movie Database Project. This webpage will be updated periodically. Thank you for your visit!</marquee>
 
 <form id="search-form">
     <div class="search">
       <input type="text" id = "moviename" name="search" class="round" />
-      <input type="button" onclick="MovieSearch()" class="corner" value=""/>
+      <input type="button" onclick="MovieSearch()" class="corner" value="S"/>
     </div>
 </form>
 
@@ -337,8 +337,13 @@ function MovieSearch() {
                     /* Some movies don't have a poster - null is returned */
                     if (msg.results[i].poster_path != null) {
                         document.getElementById("image" + i).style.display = "block";
+                        
+
+                        
                         document.getElementById("image" + i).src = "https://image.tmdb.org/t/p/w500" + msg.results[i].poster_path;
                   
+
+
                   
               document.getElementById("title" + i).style = "color:red;border:1px solid #aaa;text-align:center;";
                                 document.getElementById("title" + i).style.fontSize = "45px";
@@ -354,7 +359,7 @@ function MovieSearch() {
                                 document.getElementById("overview" + i).style = "color:blue;border:1px solid #aaa;text-align:center;";
                                 document.getElementById("overview" + i).style.fontSize = "35px";
                                 document.getElementById("overview" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
-
+      
 
 
 
@@ -367,7 +372,6 @@ function MovieSearch() {
                                 document.getElementById("release_date" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
 
 
-                                document.getElementById("image" + i).style = "float:left;";
 
 						
                   

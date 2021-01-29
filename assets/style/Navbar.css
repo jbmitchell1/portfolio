@@ -88,9 +88,12 @@ body {
 
 
 img {
-   /* vertical-align: middle; Dont delete yet but I think this is from another version of my project. Inspect this!!!*/
-
-
+   /* clear:left vertical-align: middle; Dont delete yet but I think this is from another version of my project. Inspect this!!!*/
+ 
+ 
+ margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 
 }
 

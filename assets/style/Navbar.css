@@ -14,23 +14,16 @@ iframe {
     height: 576px;
 }
 
-footer {
-    bottom: 0;
-    width: 100%;
-    height: 60px; /* Height of the footer */
-    background: #333;
-}
-
-    footer p {
-        color: turquoise;
-    }
 
 marquee {
     color: turquoise;
     background-color: #333;
 }
 
+
+
 /* Container holding the image and the text */
+
 .container {
     position: relative;
 }
@@ -86,7 +79,6 @@ body {
 
 
 
-
 img {
    /* clear:left vertical-align: middle; Dont delete yet but I think this is from another version of my project. Inspect this!!!*/
  
@@ -94,6 +86,7 @@ img {
  margin-left: auto;
   margin-right: auto;
   width: 50%;
+  
 
 }
 
@@ -191,8 +184,10 @@ html, body {
 }
 
 form {
-    width: 500px;
+     
+ width: 500px;
     margin: 50px auto;
+
 
 }
 
@@ -203,7 +198,7 @@ form {
 
 }
 
-.button {
+/*.button {
     position: relative;
     padding: 6px 15px;
     left: -8px;
@@ -216,7 +211,7 @@ form {
         background-color: #fafafa;
         color: #207cca;
     }
-
+*/
 .round {
     width: 100%;
     border-radius: 15px;
@@ -238,7 +233,11 @@ form {
     z-index: 10;
     border-radius: 10px;
     border: none;
-    background: black; /* Set the bg image here. with "no-repeat" */
+    background: black;    /* Set the bg image here. with "no-repeat" */
+
+    
+ 
+    
 }
 
 .search {
@@ -312,14 +311,35 @@ body {
 }
 
 
-.footer {
-    position: fixed;
-    left: 0;
+footer {
     bottom: 0;
     width: 100%;
-    background-color: #333;
-    color: white;
-    text-align: center;
-    overflow:hidden;
+      height: 50px; /* Height of the footer */
+  
+    background: #333;
+}
+
+    footer p {
+        color: turquoise;
+    }
     
+    
+    
+    
+    
+    
+.image1
+{
+width:100%;
+height:100%;
+}
+
+
+
+.header {
+  padding: 1px;
+  text-align: center;
+  background: #333;
+  color: white;
+  font-size: 12px;
 }

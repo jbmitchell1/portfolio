@@ -101,6 +101,7 @@ div.desc {
 div.overview{
     border: 1px solid #ccc;
   text-align:center;
+  padding-bottom:15px;
 }
 
 

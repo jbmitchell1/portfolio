@@ -1,85 +1,93 @@
+
 <!DOCTYPE html>
 <html lang="en">
-    
-   
-  <head>
+
+
+<head>
     <meta charset="utf-8">
-				    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
     <title>John Benjamin Mitchell</title>
     <meta name="description" content="My Portfolio">
     <meta name="keywords" content="Portfolio, UALR, Student">
     <meta name="author" content="John Benjamin Mitchell">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="assets/style/Navbar.css">
-    
-     <!-- Include JQuery to simplify AJAX call - See https://www.w3schools.com/jquery/jquery_get_started.asp -->
+
+    <!-- Include JQuery to simplify AJAX call - See https://www.w3schools.com/jquery/jquery_get_started.asp -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    
-  
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 
 
 
 
 
-<style>
-body {
-  margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
-}
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
 
-.topnav {
-  overflow: hidden;
-  background-color: #333;
-}
+        .topnav {
+            overflow: hidden;
+            background-color: #333;
+        }
 
-.topnav a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
+            .topnav a {
+                float: left;
+                display: block;
+                color: #f2f2f2;
+                text-align: center;
+                padding: 14px 16px;
+                text-decoration: none;
+                font-size: 17px;
+            }
 
-.topnav a:hover {
-  background-color: #ddd;
-  color: black;
-}
+                .topnav a:hover {
+                    background-color: #ddd;
+                    color: black;
+                }
 
-.topnav a.active {
-  background-color: #4CAF50;
-  color: white;
-}
+                .topnav a.active {
+                    background-color: #4CAF50;
+                    color: white;
+                }
 
-.topnav .icon {
-  display: none;
-}
+            .topnav .icon {
+                display: none;
+            }
 
-@media screen and (max-width: 600px) {
-  .topnav a:not(:first-child) {display: none;}
-  .topnav a.icon {
-    float: right;
-    display: block;
-  }
-}
+        @media screen and (max-width: 600px) {
+            .topnav a:not(:first-child) {
+                display: none;
+            }
 
-@media screen and (max-width: 600px) {
-  .topnav.responsive {position: relative;}
-  .topnav.responsive .icon {
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-  .topnav.responsive a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-}
-</style>
+            .topnav a.icon {
+                float: right;
+                display: block;
+            }
+        }
+
+        @media screen and (max-width: 600px) {
+            .topnav.responsive {
+                position: relative;
+            }
+
+                .topnav.responsive .icon {
+                    position: absolute;
+                    right: 0;
+                    top: 0;
+                }
+
+                .topnav.responsive a {
+                    float: none;
+                    display: block;
+                    text-align: left;
+                }
+        }
+    </style>
 
 
 </head>
@@ -90,49 +98,50 @@ body {
 <body>
 
 
-<div class="topnav" id="myTopnav">
-  <a href="#home" class="active">Home</a>
-  <a href="Contact.html">Contact</a>
-  <a href="About.html">About</a>
-  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-    <i class="fa fa-bars"></i>
-  </a>
-</div>
+    <div class="topnav" id="myTopnav">
+        <a href="#home" class="active">Home</a>
+        <a href="Contact.html">Contact</a>
+        <a href="About.html">About</a>
+        <a href="galleryForest.html">Explore</a>
+        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
 
-<marquee behavior="scroll" direction="left">Welcome to the Arkansas Movie Database Project. This webpage will be updated periodically. Thank you for your visit!</marquee>
-
-
-<script>
-function myFunction() {
-  var x = document.getElementById("myTopnav");
-  if (x.className === "topnav") {
-    x.className += " responsive";
-  } else {
-    x.className = "topnav";
-  }
-}
-</script>
-
-<img src="https://i.ytimg.com/vi/Oh493Lyu8fU/maxresdefault.jpg" alt="AR RIVER BRIDGE" class="image1"/>
-
-<h1>I am going to take my own pic to replace the one above. Then use gravit to add text</h1>
+    <marquee behavior="scroll" direction="left">Welcome to the Arkansas Movie Database Project. This webpage will be updated periodically. Thank you for your visit!</marquee>
 
 
-<div class="header">
-  <h1>Search</h1>
-  <p>Use the search bar below to search The Movie Database</p>
-</div>
+    <script>
+        function myFunction() {
+            var x = document.getElementById("myTopnav");
+            if (x.className === "topnav") {
+                x.className += " responsive";
+            } else {
+                x.className = "topnav";
+            }
+        }
+    </script>
+
+    <img src="https://i.ytimg.com/vi/Oh493Lyu8fU/maxresdefault.jpg" alt="AR RIVER BRIDGE" class="image1" />
+
+    <h1>I am going to take my own pic to replace the one above. Then use gravit to add text</h1>
+
+
+    <div class="header">
+        <h1>Search</h1>
+        <p>Use the search bar below to search The Movie Database</p>
+    </div>
 
 
     <form id="search-form">
-      <form>
-        <div class="search">
-            <input type="text" id="moviename" name="search" class="round" />
-            <input type="button" onclick="MovieSearch()" class="corner" value="" />
+        
+            <div class="search">
+                <input type="text" id="moviename" name="search" class="round" />
+                <input type="button" onclick="MovieSearch()" class="corner" value="" />
 
 
-        </div>
-    </form>
+            </div>
+        </form>
 
 
 
@@ -143,418 +152,384 @@ function myFunction() {
 
 
 
+        <div id="url1"></div>
+        <div id="title0"></div>
+        <img id="image0">
+        <div id="overview0"></div>
+        <div id="release_date0"></div>
 
-<!--<img src="https://www.themoviedb.org/assets/2/v4/logos/v2/blue_square_1-5bdc75aaebeb75dc7ae79426ddd9be3b2be1e342510f8202baf6bffa71d7f5c4.svg" alt="TMDB LOGO">-->
 
 
+        <div id="title1"></div>
+        <img id="image1">
+        <div id="overview1"></div>
+        <div id="release_date1"></div>
 
-<!--
-<div class="container">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Yancopin_Bridge.jpg/800px-Yancopin_Bridge.jpg" alt="Snow" style="width:100%;">
-  <div class="bottom-left">Bottom Left</div>
-  <div class="top-left">Top Left</div>
-  <div class="top-right">Top Right</div>
-  <div class="bottom-right">Bottom Right</div>
-  <div class="centered"> <p>Enter Movie Name: <input type="text" id="moviename"></p> <p><input type="button" onclick="MovieSearch()"></button></p></div>
-</div>
--->
+        <div id="title2"></div>
+        <img id="image2">
+        <div id="overview2"></div>
+        <div id="release_date2"></div>
 
-    
+        <div id="title3"></div>
+        <img id="image3">
+        <div id="overview3"></div>
+        <div id="release_date3"></div>
 
- 
-    <!-- Run the MoveSearch function when the button is clicked - See https://www.w3schools.com/js/js_events.asp-->
-       
-    
-      
-  
-      
-     
- 
-    <div id="url1"></div>
-    <div id="title0"></div>
-    <img id="image0">
-    <div id="overview0"></div>
-    <div id="release_date0"></div>
+        <div id="title4"></div>
+        <img id="image4">
+        <div id="overview4"></div>
+        <div id="release_date4"></div>
 
+        <div id="title5"></div>
+        <img id="image5">
+        <div id="overview5"></div>
+        <div id="release_date5"></div>
 
+        <div id="title6"></div>
+        <img id="image6">
+        <div id="overview6"></div>
+        <div id="release_date6"></div>
 
-    <div id="title1"></div>
-    <img id="image1">
-    <div id="overview1"></div>
-    <div id="release_date1"></div>
+        <div id="title7"></div>
+        <img id="image7">
+        <div id="overview7"></div>
+        <div id="release_date7"></div>
 
-    <div id="title2"></div>
-    <img id="image2">
-    <div id="overview2"></div>
-    <div id="release_date2"></div>
+        <div id="title8"></div>
+        <img id="image8">
+        <div id="overview8"></div>
+        <div id="release_date8"></div>
 
-    <div id="title3"></div>
-    <img id="image3">
-    <div id="overview3"></div>
-    <div id="release_date3"></div>
+        <div id="title9"></div>
+        <img id="image9">
+        <div id="overview9"></div>
+        <div id="release_date9"></div>
 
-    <div id="title4"></div>
-    <img id="image4">
-    <div id="overview4"></div>
-    <div id="release_date4"></div>
+        <div id="title10"></div>
+        <img id="image10">
+        <div id="overview10"></div>
+        <div id="release_date10"></div>
 
-    <div id="title5"></div>
-    <img id="image5">
-    <div id="overview5"></div>
-    <div id="release_date5"></div>
+        <div id="title11"></div>
+        <img id="image11">
+        <div id="overview11"></div>
+        <div id="release_date11"></div>
 
-    <div id="title6"></div>
-    <img id="image6">
-    <div id="overview6"></div>
-    <div id="release_date6"></div>
+        <div id="title12"></div>
+        <img id="image12">
+        <div id="overview12"></div>
+        <div id="release_date12"></div>
 
-    <div id="title7"></div>
-    <img id="image7">
-    <div id="overview7"></div>
-    <div id="release_date7"></div>
-
-    <div id="title8"></div>
-    <img id="image8">
-    <div id="overview8"></div>
-    <div id="release_date8"></div>
-
-    <div id="title9"></div>
-    <img id="image9">
-    <div id="overview9"></div>
-    <div id="release_date9"></div>
-
-    <div id="title10"></div>
-    <img id="image10">
-    <div id="overview10"></div>
-    <div id="release_date10"></div>
-
-    <div id="title11"></div>
-    <img id="image11">
-    <div id="overview11"></div>
-    <div id="release_date11"></div>
-
-    <div id="title12"></div>
-    <img id="image12">
-    <div id="overview12"></div>
-    <div id="release_date12"></div>
-
-    <div id="title13"></div>
-    <img id="image13">
-    <div id="overview13"></div>
-    <div id="release_date13"></div>
-
-    <div id="title14"></div>
-    <img id="image14">
-    <div id="overview14"></div>
-    <div id="release_date14"></div>
-
-    <div id="title15"></div>
-    <img id="image15">
-    <div id="overview15"></div>
-    <div id="release_date15"></div>
-
-    <div id="title16"></div>
-    <img id="image16">
-    <div id="overview16"></div>
-    <div id="release_date16"></div>
-
-    <div id="title17"></div>
-    <img id="image17">
-    <div id="overview17"></div>
-    <div id="release_date17"></div>
-
-    <div id="title18"></div>
-    <img id="image18">
-    <div id="overview18"></div>
-    <div id="release_date18"></div>
-
-    <div id="title19"></div>
-    <img id="image19">
-    <div id="overview19"></div>
-    <div id="release_date19"></div>
-
-    <div id="title20"></div>
-    <img id="image20">
-    <div id="overview20"></div>
-    <div id="release_date20"></div>
-
-    <div id="title21"></div>
-    <img id="image21">
-    <div id="overview21"></div>
-    <div id="release_date21"></div>
-
-    <div id="title22"></div>
-    <img id="image22">
-    <div id="overview22"></div>
-    <div id="release_date22"></div>
-
-    <div id="title23"></div>
-    <img id="image23">
-    <div id="overview23"></div>
-    <div id="release_date23"></div>
+        <div id="title13"></div>
+        <img id="image13">
+        <div id="overview13"></div>
+        <div id="release_date13"></div>
 
-    <div id="title24"></div>
-    <img id="image24">
-    <div id="overview24"></div>
-    <div id="release_date24"></div>
-	  
-<script>
+        <div id="title14"></div>
+        <img id="image14">
+        <div id="overview14"></div>
+        <div id="release_date14"></div>
 
-/* Example URL for AJAX Call 
-var myURL = "https://api.themoviedb.org/3/search/movie?api_key=1c3df5b73705f054ad8dfe8bc03f7f33&language=en-US&query=Jack%20Reacher&page=1&include_adult=false";
-*/
+        <div id="title15"></div>
+        <img id="image15">
+        <div id="overview15"></div>
+        <div id="release_date15"></div>
 
-function MovieSearch() {
-    
-    /* Get the movie name for the form */
-    var moviename = document.getElementById("moviename").value;
-    
-    /* Build up the parameters for the URL */
-    var api_key = "1c3df5b73705f054ad8dfe8bc03f7f33";
-    var language = "en-US";
-    var page = "1";
-    var include_adult = "false";
-    var query = encodeURI(moviename);  /* encode the movename since it might have blanks */  
-    var myURL = "https://api.themoviedb.org/3/search/movie?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
+        <div id="title16"></div>
+        <img id="image16">
+        <div id="overview16"></div>
+        <div id="release_date16"></div>
 
-    /* Display the URL */
-    document.getElementById("url1").innerHTML = myURL;
-    
-    /* We will use AJAX to access the database, and JQuery to simplify the call */
-    /* See:
-        https://www.w3schools.com/js/js_ajax_intro.asp         - the entire module
-        https://www.w3schools.com/jquery/default.asp           - the entire module
-        https://www.w3schools.com/jquery/jquery_ajax_intro.asp - the entire module
-    */
-    
-    /* AJAX Method - Use GET since the parameters are in the URL */
-    var myMethod = "GET";
+        <div id="title17"></div>
+        <img id="image17">
+        <div id="overview17"></div>
+        <div id="release_date17"></div>
 
-    /* Make sure the document is ready */
-    $(document).ready(function() { 
+        <div id="title18"></div>
+        <img id="image18">
+        <div id="overview18"></div>
+        <div id="release_date18"></div>
 
-    /* Perform AJAX call - Pass to it the Method (GET) and the URL*/
-    $.ajax({
-      method: myMethod,
-      url: myURL
-    })
+        <div id="title19"></div>
+        <img id="image19">
+        <div id="overview19"></div>
+        <div id="release_date19"></div>
 
-        /* AJAX complete - result is in msg */
-        .done(function(msg) {
+        <div id="title20"></div>
+        <img id="image20">
+        <div id="overview20"></div>
+        <div id="release_date20"></div>
 
-        /* Your code to process the result goes here */          
+        <div id="title21"></div>
+        <img id="image21">
+        <div id="overview21"></div>
+        <div id="release_date21"></div>
 
-        /* Loop through the first 25 results */
-            for (i = 0; i < 25; i++) {
-                
-                /* Display the result */
-                if (i < msg.results.length) {
+        <div id="title22"></div>
+        <img id="image22">
+        <div id="overview22"></div>
+        <div id="release_date22"></div>
 
-                    /* Set the Title to Visible and set title to value in database */
-                    document.getElementById("title" + i).style.display = "block";
-                    document.getElementById("title" + i).innerHTML = i + ". " + msg.results[i].original_title;
+        <div id="title23"></div>
+        <img id="image23">
+        <div id="overview23"></div>
+        <div id="release_date23"></div>
 
+        <div id="title24"></div>
+        <img id="image24">
+        <div id="overview24"></div>
+        <div id="release_date24"></div>
 
- 
+        <script>
 
+            /* Example URL for AJAX Call
+            var myURL = "https://api.themoviedb.org/3/search/movie?api_key=1c3df5b73705f054ad8dfe8bc03f7f33&language=en-US&query=Jack%20Reacher&page=1&include_adult=false";
+            */
 
+            function MovieSearch() {
 
-                    /* Some movies don't have a poster - null is returned */
-                    if (msg.results[i].poster_path != null) {
-                        document.getElementById("image" + i).style.display = "block";
-                        
+                /* Get the movie name for the form */
+                var moviename = document.getElementById("moviename").value;
 
-                        
-                        document.getElementById("image" + i).src = "https://image.tmdb.org/t/p/w500" + msg.results[i].poster_path;
-                  
+                /* Build up the parameters for the URL */
+                var api_key = "1c3df5b73705f054ad8dfe8bc03f7f33";
+                var language = "en-US";
+                var page = "1";
+                var include_adult = "false";
+                var query = encodeURI(moviename);  /* encode the movename since it might have blanks */
+                var myURL = "https://api.themoviedb.org/3/search/movie?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page=" + page + "&include_adult=" + include_adult;
 
+                /* Display the URL */
+                document.getElementById("url1").innerHTML = myURL;
 
-                  
-              document.getElementById("title" + i).style = "color:red;border:1px solid #aaa;text-align:center;";
-                                document.getElementById("title" + i).style.fontSize = "45px";
+                /* We will use AJAX to access the database, and JQuery to simplify the call */
+                /* See:
+                    https://www.w3schools.com/js/js_ajax_intro.asp         - the entire module
+                    https://www.w3schools.com/jquery/default.asp           - the entire module
+                    https://www.w3schools.com/jquery/jquery_ajax_intro.asp - the entire module
+                */
 
+                /* AJAX Method - Use GET since the parameters are in the URL */
+                var myMethod = "GET";
 
+                /* Make sure the document is ready */
+                $(document).ready(function () {
 
+                    /* Perform AJAX call - Pass to it the Method (GET) and the URL*/
+                    $.ajax({
+                        method: myMethod,
+                        url: myURL
+                    })
 
-                                document.getElementById("overview" + i).style.display = "block";
-                                document.getElementById("overview" + i).innerHTML = i + ". " + msg.results[i].overview;
+                        /* AJAX complete - result is in msg */
+                        .done(function (msg) {
 
+                            /* Your code to process the result goes here */
 
+                            /* Loop through the first 25 results */
+                            for (i = 0; i < 25; i++) {
 
-                                document.getElementById("overview" + i).style = "color:blue;border:1px solid #aaa;text-align:center;";
-                                document.getElementById("overview" + i).style.fontSize = "35px";
-                                document.getElementById("overview" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
-      
+                                /* Display the result */
+                                if (i < msg.results.length) {
 
+                                    /* Set the Title to Visible and set title to value in database */
+                                    document.getElementById("title" + i).style.display = "block";
+                                    document.getElementById("title" + i).innerHTML = i + ". " + msg.results[i].original_title;
 
 
 
 
-                                document.getElementById("release_date" + i).style.display = "block";
-                                document.getElementById("release_date" + i).innerHTML = i + ". " + msg.results[i].release_date;
 
 
-                                document.getElementById("release_date" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
-                                document.getElementById("release_date" + i).style = "text-align:center;";
-                                document.getElementById("release_date" + i).style.fontSize = "25px";
+                                    /* Some movies don't have a poster - null is returned */
+                                    if (msg.results[i].poster_path != null) {
+                                        document.getElementById("image" + i).style.display = "block";
 
 
 
-						
-                  
-                  
-                  
-                    }
-                    else
+                                        document.getElementById("image" + i).src = "https://image.tmdb.org/t/p/w500" + msg.results[i].poster_path;
 
-                    /* null move poster - don't display a empty value */
-                    {
-                        document.getElementById("image" + i).src = "";       
-                        document.getElementById("image" + i).style.display = "none";
-                    }
-                }
-                else
-                {
-                    /* Less that 25 movies returned - blank out the rest of the values */
-                    document.getElementById("title" + i).innerHTML = "";
-                    document.getElementById("title" + i).style.display = "none";
-                    document.getElementById("image" + i).src = "";
-                    document.getElementById("image" + i).style.display = "none";
-                }
+
+
+
+                                        document.getElementById("title" + i).style = "color:red;border:1px solid #aaa;text-align:center;";
+                                        document.getElementById("title" + i).style.fontSize = "45px";
+
+
+
+
+                                        document.getElementById("overview" + i).style.display = "block";
+                                        document.getElementById("overview" + i).innerHTML = i + ". " + msg.results[i].overview;
+
+
+
+                                        document.getElementById("overview" + i).style = "color:blue;border:1px solid #aaa;text-align:center;";
+                                        document.getElementById("overview" + i).style.fontSize = "35px";
+                                        document.getElementById("overview" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
+
+
+
+
+
+
+                                        document.getElementById("release_date" + i).style.display = "block";
+                                        document.getElementById("release_date" + i).innerHTML = i + ". " + msg.results[i].release_date;
+
+
+                                        document.getElementById("release_date" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
+                                        document.getElementById("release_date" + i).style = "text-align:center;";
+                                        document.getElementById("release_date" + i).style.fontSize = "25px";
+
+
+
+
+
+
+
+                                    }
+                                    else
+
+                            /* null move poster - don't display a empty value */ {
+                                        document.getElementById("image" + i).src = "";
+                                        document.getElementById("image" + i).style.display = "none";
+                                    }
+                                }
+                                else {
+                                    /* Less that 25 movies returned - blank out the rest of the values */
+                                    document.getElementById("title" + i).innerHTML = "";
+                                    document.getElementById("title" + i).style.display = "none";
+                                    document.getElementById("image" + i).src = "";
+                                    document.getElementById("image" + i).style.display = "none";
+                                }
+                            }
+                        });
+                });
             }
-        });
-    });
-}
-</script>
+        </script>
 
 
-<script src="https://www.w3schools.com/lib/w3.js"></script>
-<body>
+        <script src="https://www.w3schools.com/lib/w3.js"></script>
+        
 
-<div class="header">
-  <h1>Explore Arkansas</h1>
-  <p>Explore the various unique biomes and setting Arkansas has to offer</p>
-</div>
+            <div class="header">
+                <h1>Explore Arkansas's Connection to the Filming Industry</h1>
+               
+            </div>
 
-<body>
-  
-  
+            
 
 
 
-<div class="container">
-  <div class="mySlides">
-    <div class="numbertext">1 / 7</div>
-    <img src="https://i.pinimg.com/736x/fa/57/8f/fa578f584fe18e5d99964d9fed072ffe.jpg" style="width:100%">
-  </div>
 
-  <div class="mySlides">
-    <div class="numbertext">2 / 7</div>
-    <img src="https://arkokhiker.org/wp-content/uploads/2015/04/2015-04-11-petit-jean-080-81-Stitch.jpg" style="width:100%">
-  </div>
 
-  <div class="mySlides">
-    <div class="numbertext">3 / 7</div>
-    <img src="https://bethhallphotography.com/wp-content/uploads/2012/11/White-Rock-Mountain-Arkansas-04.jpg" style="width:100%">
-  </div>
-    
-  <div class="mySlides">
-    <div class="numbertext">4 / 7</div>
-    <img src="https://www.arkansas.com/sites/default/files/styles/hero_image_mobile/public/2018-05/02_-_nc_-_blanchard-springs-caverns-1200x600.jpg?itok=Yn-Vpw75" style="width:100%">
-  </div>
+                <div class="container">
+                    <div class="mySlides">
+                        <div class="numbertext">1 / 6</div>
+                        <img src="https://image.tmdb.org/t/p/original/z8eAIC67eaM2h1dFZvnifq7P8ln.jpg" style="width:100%">
+                    </div>
 
-  <div class="mySlides">
-    <div class="numbertext">5 / 7</div>
-    <img src="https://www.nps.gov/buff/planyourvisit/images/Dale-in-the-UBD-CMS-Spring-2012.jpg" style="width:100%">
-  </div>
-    
-  <div class="mySlides">
-    <div class="numbertext">6 / 7</div>
-    <img src="https://cdn.onlyinyourstate.com/wp-content/uploads/2017/07/12891740_975625302487291_7977106028438299580_o-700x525-1.jpg" style="width:100%">
-  </div>
-  
-   <div class="mySlides">
-    <div class="numbertext">7 / 7</div>
-    <img src="https://www.stavislost.com/images/photography/2018/5b30ff6dc58cc.jpg" style="width:100%">
-  </div>
-    
-  <a class="prev" onclick="plusSlides(-1)">❮</a>
-  <a class="next" onclick="plusSlides(1)">❯</a>
+                    <div class="mySlides">
+                        <div class="numbertext">2 / 6</div>
+                        <img src="https://fanart.tv/fanart/movies/10669/movieposter/deliverance-59d11e04f29a7.jpg" style="width:100%">
+                    </div>
 
-  <div class="caption-container">
-    <p id="caption"></p>
-  </div>
+                    <div class="mySlides">
+                        <div class="numbertext">3 / 6</div>
+                        <img src="https://image.tmdb.org/t/p/original/zMkD6FVikyPNnigoupO7vD5ti9p.jpg" style="width:100%">
+                    </div>
 
-  <div class="row">
-    <div class="column">
-      <img class="demo cursor" src="https://i.pinimg.com/736x/fa/57/8f/fa578f584fe18e5d99964d9fed072ffe.jpg" style="width:100%" onclick="currentSlide(1)" alt="Mirror Lake">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="https://arkokhiker.org/wp-content/uploads/2015/04/2015-04-11-petit-jean-080-81-Stitch.jpg" style="width:100%" onclick="currentSlide(2)" alt=" Cedar Falls at Petit Jean State Park">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="https://bethhallphotography.com/wp-content/uploads/2012/11/White-Rock-Mountain-Arkansas-04.jpg" style="width:100%" onclick="currentSlide(3)" alt="White Rock Mountain">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="https://www.arkansas.com/sites/default/files/styles/hero_image_mobile/public/2018-05/02_-_nc_-_blanchard-springs-caverns-1200x600.jpg?itok=Yn-Vpw75" style="width:100%" onclick="currentSlide(4)" alt=" Blanchard Springs Caverns">
-    </div>
-    <div class="column">
-      <img class="demo cursor" src="https://www.nps.gov/buff/planyourvisit/images/Dale-in-the-UBD-CMS-Spring-2012.jpg" style="width:100%" onclick="currentSlide(5)" alt="The Buffalo River">
-    </div>    
-    <div class="column">
-      <img class="demo cursor" src="https://cdn.onlyinyourstate.com/wp-content/uploads/2017/07/12891740_975625302487291_7977106028438299580_o-700x525-1.jpg" style="width:100%" onclick="currentSlide(6)" alt="Moro Bay">
-    </div>
-     <div class="column">
-      <img class="demo cursor" src="https://www.stavislost.com/images/photography/2018/5b30ff6dc58cc.jpg" style="width:100%" onclick="currentSlide(7)" alt="Hawksbill Crag">
-      </div>
-  </div>
-</div>
+                    <div class="mySlides">
+                        <div class="numbertext">4 / 6</div>
+                        <img src="http://image.tmdb.org/t/p/original/cumHfVrwYYo0eeWKbv78uYeT9lE.jpg" style="width:100%">
+                    </div>
 
-<script>
-var slideIndex = 1;
-showSlides(slideIndex);
+                    <div class="mySlides">
+                        <div class="numbertext">5 / 6</div>
+                        <img src="https://image.tmdb.org/t/p/original/fVi0dT8Yckze9VMup16GGxeeCyN.jpg" style="width:100%">
+                    </div>
 
-function plusSlides(n) {
-  showSlides(slideIndex += n);
-}
+                    <div class="mySlides">
+                        <div class="numbertext">6 / 6</div>
+                        <img src="https://fanart.tv/fanart/movies/770/movieposter/gone-with-the-wind-547010955afc6.jpg" style="width:100%">
+                    </div>
 
-function currentSlide(n) {
-  showSlides(slideIndex = n);
-}
+                   
 
-function showSlides(n) {
-  var i;
-  var slides = document.getElementsByClassName("mySlides");
-  var dots = document.getElementsByClassName("demo");
-  var captionText = document.getElementById("caption");
-  if (n > slides.length) {slideIndex = 1}
-  if (n < 1) {slideIndex = slides.length}
-  for (i = 0; i < slides.length; i++) {
-      slides[i].style.display = "none";
-  }
-  for (i = 0; i < dots.length; i++) {
-      dots[i].className = dots[i].className.replace(" active", "");
-  }
-  slides[slideIndex-1].style.display = "block";
-  dots[slideIndex-1].className += " active";
-  captionText.innerHTML = dots[slideIndex-1].alt;
-}
-</script>
+                    <a class="prev" onclick="plusSlides(-1)">❮</a>
+                    <a class="next" onclick="plusSlides(1)">❯</a>
 
- <a class="button" href = "galleryForest.html">Click to view entire gallery</a>
+                    <div class="caption-container">
+                        <p id="caption"></p>
+                    </div>
 
-<hr>
+                    <div class="row">
+                        <div class="column">
+                            <img class="demo cursor" src="https://image.tmdb.org/t/p/original/z8eAIC67eaM2h1dFZvnifq7P8ln.jpg" style="width:100%" onclick="currentSlide(1)" alt="White Lightning">
+                        </div>
+                        <div class="column">
+                            <img class="demo cursor" src="https://fanart.tv/fanart/movies/10669/movieposter/deliverance-59d11e04f29a7.jpg" style="width:100%" onclick="currentSlide(2)" alt="Deliverance">
+                        </div>
+                        <div class="column">
+                            <img class="demo cursor" src="https://image.tmdb.org/t/p/original/zMkD6FVikyPNnigoupO7vD5ti9p.jpg" style="width:100%" onclick="currentSlide(3)" alt="Walk the Line">
+                        </div>
+                        <div class="column">
+                            <img class="demo cursor" src="http://image.tmdb.org/t/p/original/cumHfVrwYYo0eeWKbv78uYeT9lE.jpg" style="width:100%" onclick="currentSlide(4)" alt="Sling Blade">
+                        </div>
+                        <div class="column">
+                            <img class="demo cursor" src="https://image.tmdb.org/t/p/original/fVi0dT8Yckze9VMup16GGxeeCyN.jpg" style="width:100%" onclick="currentSlide(5)" alt="True Grit 1969">
+                        </div>
+                        <div class="column">
+                            <img class="demo cursor" src="https://fanart.tv/fanart/movies/770/movieposter/gone-with-the-wind-547010955afc6.jpg" style="width:100%" onclick="currentSlide(6)" alt="Gone with the Wind">
+                        </div>
+                       
+                    </div>
+                </div>
 
-</hr>
+                <script>
+                    var slideIndex = 1;
+                    showSlides(slideIndex);
 
-<div align="center"><iframe src="https://maphub.net/embed/115757?legend=1&panel=1&panel_closed=1" frameborder="0"></iframe></div>
+                    function plusSlides(n) {
+                        showSlides(slideIndex += n);
+                    }
 
-<footer>
-  <p>Author: John Benjamin Mitchell. </p>
+                    function currentSlide(n) {
+                        showSlides(slideIndex = n);
+                    }
 
-</footer>
+                    function showSlides(n) {
+                        var i;
+                        var slides = document.getElementsByClassName("mySlides");
+                        var dots = document.getElementsByClassName("demo");
+                        var captionText = document.getElementById("caption");
+                        if (n > slides.length) { slideIndex = 1 }
+                        if (n < 1) { slideIndex = slides.length }
+                        for (i = 0; i < slides.length; i++) {
+                            slides[i].style.display = "none";
+                        }
+                        for (i = 0; i < dots.length; i++) {
+                            dots[i].className = dots[i].className.replace(" active", "");
+                        }
+                        slides[slideIndex - 1].style.display = "block";
+                        dots[slideIndex - 1].className += " active";
+                        captionText.innerHTML = dots[slideIndex - 1].alt;
+                    }
+                </script>
 
-</body>
+                <a class="button" href="famous.html">Click to view all films related to Arkansas</a>
+
+                <hr>
+
+                
+
+                <div align="center"><iframe src="https://maphub.net/embed/115757?legend=1&panel=1&panel_closed=1" frameborder="0"></iframe></div>
+
+                <footer>
+                    <p>Author: John Benjamin Mitchell. </p>
+
+                </footer>
+
+            </body>
 
 
 

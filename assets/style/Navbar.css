@@ -1,13 +1,11 @@
+
 body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: #6B8E23;
   
+
 }
-
-
-
-
 
 iframe {
     width: 1000px;
@@ -25,7 +23,11 @@ marquee {
 /* Container holding the image and the text */
 
 .container {
-    position: relative;
+        position: relative;
+      background: url(https://i.pinimg.com/originals/25/69/05/25690586a845411ead7d21f4c4eb4fb6.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 /* Bottom left text */
@@ -69,6 +71,7 @@ marquee {
 body {
     font-family: Arial;
     margin: 0;
+
 }
 
 * {
@@ -92,15 +95,13 @@ img {
 
 
 
-
-
-
 /* Position the image container (needed to position the left and right arrows) */
 
 
 /* Hide the images by default */
 .mySlides {
     display: none;
+    
 }
 
 /* Add a pointer when hovering over the thumbnail images */
@@ -176,11 +177,15 @@ img {
         opacity: 1;
     }
 
+
+
+
 html, body {
     width: 100%;
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
+    
 }
 
 form {
@@ -199,19 +204,6 @@ form {
 
 }
 
-/*.button {
-    position: relative;
-    padding: 6px 15px;
-    left: -8px;
-    border: 2px solid #207cca;
-    background-color: #207cca;
-    color: #fafafa;
-}
-    .button:hover {
-        background-color: #fafafa;
-        color: #207cca;
-    }
-*/
 .round {
     width: 100%;
     border-radius: 15px;
@@ -326,13 +318,17 @@ footer {
     
     
     
-    
-    
-.image1
+    .image1
 {
 width:100%;
 height:100%;
+
+
+
+
+
 }
+
 
 
 
@@ -342,4 +338,10 @@ height:100%;
   background: #333;
   color: white;
   font-size: 12px;
+  
+  
+  
 }
+
+
+

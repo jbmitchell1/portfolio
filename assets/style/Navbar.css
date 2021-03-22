@@ -363,7 +363,7 @@ background-size: 100% 300px
 
 
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 768px) {
     
     
     .container{
@@ -371,6 +371,78 @@ background-size: 100% 300px
       background: url(https://i.pinimg.com/originals/25/69/05/25690586a845411ead7d21f4c4eb4fb6.png);
       background-repeat: no-repeat;
 background-size: 100% 507px
+}
+    
+    
+    
+}
+
+
+
+
+
+
+@media screen and (min-width: 480px) {
+    
+    
+    .container{
+ position: relative;
+      background: url(https://i.pinimg.com/originals/25/69/05/25690586a845411ead7d21f4c4eb4fb6.png);
+      background-repeat: no-repeat;
+background-size: 100% 415px
+}
+    
+    
+    
+}
+
+
+
+
+
+@media screen and (min-width: 768px) {
+    
+    
+    .container{
+ position: relative;
+      background: url(https://i.pinimg.com/originals/25/69/05/25690586a845411ead7d21f4c4eb4fb6.png);
+      background-repeat: no-repeat;
+background-size: 100% 635px
+}
+    
+    
+    
+}
+
+
+
+
+@media screen and (min-width: 1224px) {
+    
+    
+    .container{
+ position: relative;
+      background: url(https://i.pinimg.com/originals/25/69/05/25690586a845411ead7d21f4c4eb4fb6.png);
+      background-repeat: no-repeat;
+background-size: 100% 980px
+}
+    
+    
+    
+}
+
+
+
+
+
+@media screen and (min-width: 1824px) {
+    
+    
+    .container{
+ position: relative;
+      background: url(https://i.pinimg.com/originals/25/69/05/25690586a845411ead7d21f4c4eb4fb6.png);
+      background-repeat: no-repeat;
+background-size: 100% 1400px
 }
     
     

@@ -26,8 +26,7 @@ marquee {
         position: relative;
       background: url(https://i.pinimg.com/originals/25/69/05/25690586a845411ead7d21f4c4eb4fb6.png);
       background-repeat: no-repeat;
-    background-size: cover;
-
+background-size: 100% 487px
 }
 
 /* Bottom left text */

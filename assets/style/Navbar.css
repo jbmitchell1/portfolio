@@ -16,6 +16,7 @@ iframe {
 marquee {
     color: turquoise;
     background-color: #333;
+    margin-bottom:0px;
 }
 
 
@@ -27,42 +28,7 @@ marquee {
       background-repeat: no-repeat;
 background-size: 100% 504px
 }
-/* Bottom left text */
-.bottom-left {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-}
 
-/* Top left text */
-.top-left {
-    position: absolute;
-    top: 8px;
-    left: 16px;
-}
-
-/* Top right text */
-.top-right {
-    position: absolute;
-    top: 8px;
-    right: 16px;
-}
-
-/* Bottom right text */
-.bottom-right {
-    position: absolute;
-    bottom: 8px;
-    right: 16px;
-}
-
-/* Centered text */
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color: turquoise;
-}
 
 
 body {
@@ -77,18 +43,34 @@ body {
 
 
 
-
-
 img {
    /* clear:left vertical-align: middle; Dont delete yet but I think this is from another version of my project. Inspect this!!!*/
  
  
  margin-left: auto;
-  margin-right: auto;
+  margin-right:auto;
   width: 50%;
-  
+margin-top:10px;
+}
+
+
+
+
+
+
+.image1{
+     display: block;
+     margin-top:0px;
+margin-right:auto;
+margin-left:auto%;
+width:100%;
+height:600px;
+
 
 }
+
+
+
 
 
 
@@ -98,6 +80,7 @@ img {
 /* Hide the images by default */
 .mySlides {
     display: none;
+
     
 }
 
@@ -110,7 +93,8 @@ img {
 .prev,
 .next {
     cursor: pointer;
-    position: absolute;
+        position: absolute;
+
     top: 40%;
     width: auto;
     padding: 16px;
@@ -178,7 +162,7 @@ img {
 
 
 html, body {
-    width: 100%;
+        width:100%;
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
@@ -190,6 +174,8 @@ form {
  width: 350px;
     margin: 25px auto;
    
+ 
+
 
 
 }
@@ -249,7 +235,7 @@ body {
     .topnav a {
         float: left;
         display: block;
-        color: #DEB887;
+        color: #4CAF50;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
@@ -257,12 +243,12 @@ body {
     }
 
         .topnav a:hover {
-            background-color: #8B4513;
+            background-color: #333;
             color: black;
         }
 
         .topnav a.active {
-            background-color: #FF8C00;
+            background-color: #4CAF50;
             color: white;
         }
 
@@ -315,16 +301,7 @@ footer {
     
     
     
-    .image1
-{
-width:100%;
-height:100%;
-
-
-
-
-
-}
+   
 
 
 
@@ -448,3 +425,25 @@ background-size: 100% 1400px
     
     
 }
+
+
+
+
+
+
+/*
+@media screen and (min-width: 2000 ) {
+    
+    
+    .container{
+ position: relative;
+      background: url(https://i.pinimg.com/originals/25/69/05/25690586a845411ead7d21f4c4eb4fb6.png);
+      background-repeat: no-repeat;
+background-size: 100% 2000px
+}
+    
+    
+    
+}
+
+*/

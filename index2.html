@@ -61,12 +61,15 @@ function myFunction() {
 
 <img class="image1" src="Hero image for capstone project.jpg" alt="AR on the big screen">
 
-<h1>I am going to use this space to give a breif description of the websites puropse.</h1>
+<div class = "puropse">
+    <h1>I am going to use this space to give a breif description of the websites puropse.</h1>
+</div>
 
 
-<div class="header">
+<div class="header1">
   <h1>Search</h1>
   <p>Use the search bar below to search The Movie Database</p>
+  <br>
 </div>
 
 
@@ -289,7 +292,7 @@ function MovieSearch() {
 
 
                   
-              document.getElementById("title" + i).style = "color:red;border:1px solid #aaa;text-align:center;";
+              document.getElementById("title" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black";
                                 document.getElementById("title" + i).style.fontSize = "45px";
 
 
@@ -300,10 +303,9 @@ function MovieSearch() {
 
 
 
-                                document.getElementById("overview" + i).style = "color:blue;border:1px solid #aaa;text-align:center;";
+                                document.getElementById("overview" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black;";
                                 document.getElementById("overview" + i).style.fontSize = "35px";
-                                document.getElementById("overview" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
-      
+
 
 
 
@@ -313,8 +315,7 @@ function MovieSearch() {
                                 document.getElementById("release_date" + i).innerHTML = i + ". " + msg.results[i].release_date;
 
 
-                                document.getElementById("release_date" + i).style.fontFamily = "Impact,Charcoal,sans-serif";
-                                document.getElementById("release_date" + i).style = "text-align:center;";
+                                document.getElementById("release_date" + i).style = "color:red;border:1px solid black;text-align:center; background-color:black;";
                                 document.getElementById("release_date" + i).style.fontSize = "25px";
 
 

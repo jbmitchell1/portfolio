@@ -1,9 +1,10 @@
 body {
     background-repeat: no-repeat;
-    background-size: cover;
-    background-color: #6B8E23;
-  
-
+/*    background-color: #6B8E23;*/
+  font-family: Arial;
+    margin: 0;
+    background-size:auto;
+    
 }
 
 
@@ -35,11 +36,7 @@ background-size: 100% 504px
 
 
 
-body {
-    font-family: Arial;
-    margin: 0;
 
-}
 
 * {
     box-sizing: border-box;
@@ -169,7 +166,8 @@ html, body {
     margin: 0px;
     padding: 0px;
     overflow-x: hidden;
-    
+        background-image: url('https://sep.yimg.com/ay/htmarket/cinema-black-custom-home-theater-carpet-3.gif');
+
 }
 
 form {
@@ -224,10 +222,7 @@ form {
 }
 
 
-body {
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;    /*I have two body tags see if they can be merged*/
-}
+
 
 .topnav {
     overflow: hidden;
@@ -319,7 +314,7 @@ footer {
 }
 
 
-
+/*------------------Mobile View-------------------------*/
 @media screen and (min-width: 326px) {
     
     
@@ -373,7 +368,7 @@ background-size: 100% 635px
 }
 
 
-
+/*----------------Full Screen View for my PC-------------------*/
 
 @media screen and (min-width: 1224px) {
     
@@ -382,7 +377,7 @@ background-size: 100% 635px
  position: relative;
       background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
       background-repeat: no-repeat;
-background-size: 100% 1150px;
+background-size: 100% 1155px;
 }
     
     
@@ -394,37 +389,7 @@ background-size: 100% 1150px;
 
 
 
-
-
-
-
-
-
-
-@media screen and (min-width: 1600px ) {
-    
-    
-    .container{
-         position: relative;
-           background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
-      background-repeat: no-repeat;
-background-size: 100% 300px;
-}
-    
-    
-    
-}
-
-
-
-
-
-
-
-
-
-
-
+/*------------------Mobile View-------------------------*/
 @media screen and (min-width: 326px) {
     
     
@@ -466,7 +431,7 @@ height:600px;
 
 
 
-
+/*----------------Full Screen View for my PC-------------------*/
 @media screen and (min-width: 1224x) {
     
     
@@ -476,7 +441,6 @@ height:600px;
 margin-right:auto;
 margin-left:auto;
 width:96%;
-height:1000px;
 
 }
     
@@ -492,3 +456,20 @@ height:1000px;
     
     
     
+.row{
+    background-color:white;
+}
+
+
+.header1{
+    color:blue;
+    background-color:black;
+    text-align:center;
+}
+
+
+.puropse{
+    text-align:center;
+    color:blue;
+    background-color:black;
+}

@@ -378,25 +378,7 @@ background-size: 100% 635px
  position: relative;
       background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
       background-repeat: no-repeat;
-background-size: 100% 1250px
-}
-    
-    
-    
-}
-
-
-
-
-
-@media screen and (min-width: 1824px) {
-    
-    
-    .container{
- position: relative;
-      background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
-      background-repeat: no-repeat;
-background-size: 100% 1800px
+background-size: 100% 1200px;
 }
     
     
@@ -409,14 +391,20 @@ background-size: 100% 1800px
 
 
 
-@media screen and (min-width: 1090px ) {
+
+
+
+
+
+
+@media screen and (min-width: 1600px ) {
     
     
     .container{
          position: relative;
            background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
       background-repeat: no-repeat;
-background-size: 100% 800px
+background-size: 100% 300px;
 }
     
     
@@ -440,7 +428,7 @@ background-size: 100% 800px
      margin-top:0px;
 margin-right:auto;
 margin-left:auto;
-width:100%;
+width:90%;
 height:300px;
 
 }
@@ -464,6 +452,26 @@ margin-left:auto;
 width:100%;
 height:600px;
 
+}
+    
+    
+    
+}
+
+
+
+
+@media screen and (min-width: 1200px ) {
+    
+      .image1{
+ display: block;
+     margin-top:10px;
+margin-right:auto;
+margin-left:auto;
+width:98%;
+height:600px;
+
+    
 }
     
     

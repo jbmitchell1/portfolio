@@ -291,13 +291,16 @@ form {
 footer {
     bottom: 0;
     width: 100%;
-      height: 50px; /* Height of the footer */
-  
-    background: #333;
+      height: 50px; 
+  margin-top:0px;
+    background: black;
 }
 
     footer p {
-        color: turquoise;
+        color: yellow;
+        margin-left:15px;
+        
+       
     }
     
     

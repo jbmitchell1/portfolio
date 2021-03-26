@@ -102,7 +102,7 @@ h1{
 
 /* Add a black background color to the top navigation */
 .topnav {
-  background-color: #333;
+  background-color: black;
   overflow: hidden;
 }
 
@@ -110,7 +110,7 @@ h1{
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color:white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -119,13 +119,14 @@ h1{
 
 /* Add an active class to highlight the current page */
 .active {
-  background-color: #4CAF50;
+  background-color: blue;
   color: white;
 }
 
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
   display: none;
+  color:blue;
 }
 
 /* Dropdown container - needed to position the dropdown content */

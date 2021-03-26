@@ -126,7 +126,7 @@ h1{
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
   display: none;
-  color:blue;
+  color:yellow;
 }
 
 /* Dropdown container - needed to position the dropdown content */

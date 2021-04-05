@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+   
+  <head>
+    <meta charset="utf-8">
+				    <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+    <title>John Benjamin Mitchell</title>
+    <meta name="description" content="My Portfolio">
+    <meta name="keywords" content="Portfolio, UALR, Student">
+    <meta name="author" content="John Benjamin Mitchell">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="assets/style/Navbar.css">
+    
+     <!-- Include JQuery to simplify AJAX call - See https://www.w3schools.com/jquery/jquery_get_started.asp -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+
+
+
+
+
+
+
+
+</head>
+
+
+
+
+<body>
+
+
+<div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="Contact.html">Contact</a>
+  <a href="About.html">About</a>
+    <a href="galleryForest.html">Explore</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+    <i class="fa fa-bars"></i>
+  </a>
+</div>
+
+<marquee behavior="scroll" direction="left">Welcome to the Arkansas Movie Database Project. This webpage will be updated periodically. Thank you for your visit!</marquee>
+
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
+
+<img class="image1" src="Hero image for capstone project.jpg" alt="AR on the big screen">
+
+<div class = "puropse">
+    <h1>I am going to use this space to give a breif description of the websites puropse.</h1>
+</div>
+
+
+<div class="header1">
+  <h1>Search</h1>
+  <p>Use the search bar below to search The Movie Database for Actors and Actoresses</p>
+  <br>
+</div>
+
+
+    <form id="search-form">
+      <form>
+        <div class="search">
+            <input type="text" id="personname" name="search" class="round" >
+            <input type="button" onclick="MovieSearch()" class="corner" value="" >
+ 
+
+
+        </div>
+    </form>
+
+
+
+
+      
+  
+      
+     
+ 
+    <div id="url1"></div>
+    
+     <div id="name0"></div>
+    <img id="image0">
+    <div id="popularity0"></div>
+    <div id="title0"></div>
+
+
+
+  
+ 
+    <div id="name1"></div>
+    <img id="image1">
+    <div id="popularity1"></div>
+
+    
+    
+    <div id="name2"></div>
+    <img id="image2">
+    <div id="popularity2"></div>
+
+   
+    <div id="name3"></div>
+    <img id="image3">
+    <div id="popularity3"></div>
+
+
+   
+    
+    <div id="name4"></div>
+    <img id="image4">
+    <div id="popularity4"></div>
+
+
+    <div id="name5"></div>
+    <img id="image5">
+    <div id="popularity5"></div>
+    
+    
+    
+     <div id="name6"></div>
+    <img id="image6">
+    <div id="popularity6"></div>
+    
+    
+    
+      <div id="name7"></div>
+    <img id="image7">
+    <div id="popularity7"></div>
+    
+    
+    
+      <div id="name8"></div>
+    <img id="image8">
+    <div id="popularity8"></div>
+    
+    
+    
+      <div id="name9"></div>
+    <img id="image9">
+    <div id="popularity9"></div>
+    
+    
+    
+      <div id="name10"></div>
+    <img id="image10">
+    <div id="popularity10"></div>
+    
+    
+    
+      <div id="name11"></div>
+    <img id="image11">
+    <div id="popularity11"></div>
+    
+    
+    
+      <div id="name12"></div>
+    <img id="image12">
+    <div id="popularity12"></div>
+    
+    
+    
+      <div id="name13"></div>
+    <img id="image13">
+    <div id="popularity13"></div>
+    
+    
+    
+      <div id="name14"></div>
+    <img id="image14">
+    <div id="popularity14"></div>
+
+
+
+
+ <div id="name15"></div>
+    <img id="image15">
+    <div id="popularity15"></div>
+
+
+
+
+
+ <div id="name16"></div>
+    <img id="image16">
+    <div id="popularity16"></div>
+
+
+
+
+
+ <div id="name17"></div>
+    <img id="image17">
+    <div id="popularity17"></div>
+
+
+
+
+
+ <div id="name18"></div>
+    <img id="image18">
+    <div id="popularity18"></div>
+
+
+
+
+
+ <div id="name19"></div>
+    <img id="image19">
+    <div id="popularity19"></div>
+
+
+
+
+
+ <div id="name20"></div>
+    <img id="image20">
+    <div id="popularity20"></div>
+
+
+
+
+
+ <div id="name21"></div>
+    <img id="image21">
+    <div id="popularity21"></div>
+
+
+
+
+
+ <div id="name22"></div>
+    <img id="image22">
+    <div id="popularity22"></div>
+
+
+
+
+
+ <div id="name23"></div>
+    <img id="image23">
+    <div id="popularity23"></div>
+
+
+
+
+
+ <div id="name24"></div>
+    <img id="image24">
+    <div id="popularity24"></div>
+
+  
+
+<script>
+
+/* Example URL for AJAX Call 
+var myURL = "https://api.themoviedb.org/3/search/movie?api_key=1c3df5b73705f054ad8dfe8bc03f7f33&language=en-US&query=Jack%20Reacher&page=1&include_adult=false";
+*/
+
+function MovieSearch() {
+    
+    /* Get the movie name for the form */
+    var personname = document.getElementById("personname").value;
+    
+    /* Build up the parameters for the URL */
+    var api_key = "1c3df5b73705f054ad8dfe8bc03f7f33";
+    var language = "en-US";
+    var page = "1";
+    var include_adult = "false";
+    var query = encodeURI(personname);  /* encode the movename since it might have blanks */  
+    var myURL = "https://api.themoviedb.org/3/search/person?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
+
+    /* Display the URL */
+    document.getElementById("url1").innerHTML = myURL;
+    
+    /* We will use AJAX to access the database, and JQuery to simplify the call */
+    /* See:
+        https://www.w3schools.com/js/js_ajax_intro.asp         - the entire module
+        https://www.w3schools.com/jquery/default.asp           - the entire module
+        https://www.w3schools.com/jquery/jquery_ajax_intro.asp - the entire module
+    */
+    
+    /* AJAX Method - Use GET since the parameters are in the URL */
+    var myMethod = "GET";
+
+    /* Make sure the document is ready */
+    $(document).ready(function() { 
+
+    /* Perform AJAX call - Pass to it the Method (GET) and the URL*/
+    $.ajax({
+      method: myMethod,
+      url: myURL
+    })
+
+        /* AJAX complete - result is in msg */
+        .done(function(msg) {
+
+        /* Your code to process the result goes here */          
+
+        /* Loop through the first 25 results */
+            for (i = 0; i < 25; i++) {
+                
+                /* Display the result */
+                if (i < msg.results.length) {
+
+                    /* Set the Title to Visible and set title to value in database */
+                    document.getElementById("name" + i).style.display = "block";
+                    document.getElementById("name" + i).innerHTML = i + ". " + msg.results[i].name;
+
+
+ 
+
+
+
+                    /* Some movies don't have a poster - null is returned */
+                    if (msg.results[i].profile_path != null) {
+                        document.getElementById("image" + i).style.display = "block";
+                        
+
+                        
+                        document.getElementById("image" + i).src = "https://image.tmdb.org/t/p/w500" + msg.results[i].profile_path;
+                  
+
+
+                  
+              document.getElementById("name" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black";
+                                document.getElementById("name" + i).style.fontSize = "45px";
+
+
+
+
+                                document.getElementById("popularity" + i).style.display = "block";
+                                document.getElementById("popularity" + i).innerHTML = i + ". " + msg.results[i].popularity;
+
+
+
+                                document.getElementById("popularity" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black;";
+                                document.getElementById("popularity" + i).style.fontSize = "35px";
+
+
+
+
+
+
+
+
+
+						
+                  
+                  
+                  
+                    }
+                    else
+
+                    /* null move poster - don't display a empty value */
+                    {
+                        document.getElementById("image" + i).src = "";       
+                        document.getElementById("image" + i).style.display = "none";
+                    }
+                }
+                else
+                {
+                    /* Less that 25 movies returned - blank out the rest of the values */
+                    document.getElementById("title" + i).innerHTML = "";
+                    document.getElementById("title" + i).style.display = "none";
+                }
+            }
+        });
+    });
+}
+</script>
+
+
+<body>
+
+
+
+<body>
+    
+    </body>
+
+<footer>
+  <p>Author: John Benjamin Mitchell. </p>
+
+</footer>
+
+</html>

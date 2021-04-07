@@ -1,0 +1,492 @@
+body {
+    background-repeat: no-repeat;
+/*    background-color: #6B8E23;*/
+  font-family: Arial;
+    margin: 0;
+    background-size:auto;
+    
+}
+
+
+
+
+
+
+iframe {
+    width: 1000px;
+    height: 576px;
+}
+
+
+marquee {
+    color: yellow;
+    background-color: black;
+    margin-bottom:0px;
+    /*
+    font-family:Roboto, sans-serif;
+    text-shadow: 0px 0px 9px #0097e8, 0px 0px 15px #f50abe, 0px 0px 5px #f50abe;
+animation: glow 10s infinite;
+    */
+}
+
+
+
+/* Container holding the image and the text */
+.container{
+ position: relative;
+      background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
+      background-repeat: no-repeat;
+background-size: 100% 504px
+}
+
+
+
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+img {
+   /* clear:left vertical-align: middle; Dont delete yet but I think this is from another version of my project. Inspect this!!!*/
+ 
+ 
+ margin-left: auto;
+  margin-right:auto;
+  width: 50%;
+margin-top:10px;
+}
+
+
+
+
+
+
+.image1{
+     display: block;
+     margin-top:10px;
+margin-right:auto;
+margin-left:auto;
+width:96%;
+height:600px;
+
+
+}
+
+
+
+
+
+
+/* Position the image container (needed to position the left and right arrows) */
+
+
+/* Hide the images by default */
+.mySlides {
+    display: none;
+
+}
+
+/* Add a pointer when hovering over the thumbnail images */
+.cursor {
+    cursor: pointer;
+}
+
+/* Next & previous buttons */
+.prev,
+.next {
+    cursor: pointer;
+        position: absolute;
+
+    top: 40%;
+    width: auto;
+    padding: 16px;
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 0 3px 3px 0;
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+/* Position the "next button" to the right */
+.next {
+    right: 0;
+    border-radius: 3px 0 0 3px;
+}
+
+    /* On hover, add a black background color with a little bit see-through */
+    .prev:hover,
+    .next:hover {
+        background-color: rgba(0, 0, 0, 0.8);
+    }
+
+/* Number text (1/3 etc) */
+.numbertext {
+    color: #f2f2f2;
+    font-size: 12px;
+    padding: 8px 12px;
+    position: absolute;
+    top: 0;
+}
+
+/* Container for image text */
+.caption-container {
+    text-align: center;
+    background-color: #222;
+    padding: 2px 16px;
+    color: white;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Six columns side by side */
+.column {
+    float: left;
+    width: 16.66%;
+}
+
+/* Add a transparency effect for thumnbail images */
+.demo {
+    opacity: 0.6;
+}
+
+    .active,
+    .demo:hover {
+        opacity: 1;
+    }
+
+
+
+
+html, body {
+        width:100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+        background-image: url('https://sep.yimg.com/ay/htmarket/cinema-black-custom-home-theater-carpet-3.gif');
+
+}
+
+form {
+     
+ width: 350px;
+    margin: 25px auto;
+   
+ 
+
+
+}
+
+.search {
+    padding: 8px 15px;
+    background: rgba(50, 50, 50, 0.2);
+    border: 0px solid #dbdbdb;
+
+}
+
+.round {
+    width: 100%;
+    border-radius: 15px;
+    border: 1px #000 solid;
+    padding: 5px 5px 5px 25px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 5;
+    background-color: #F0FFF0;
+}
+
+.corner {
+    position: absolute;
+    top: 3px;
+    left: 5px;
+    height: 20px;
+    width: 20px;
+    z-index: 10;
+    border-radius: 10px;
+    border: none;
+    background: black;    /* Set the bg image here. with "no-repeat" */
+
+    
+ 
+    
+}
+
+.search {
+    position: relative;
+    width: 350px;
+    height: 30px;
+}
+
+
+
+
+.topnav {
+    overflow: hidden;
+    background-color:black;
+}
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover {
+            background-color: blue;
+            color: black;
+        }
+
+        .topnav a.active {
+            background-color: blue; /*#4CAF50*/
+            color: white;
+        }
+
+    .topnav .icon {
+        display: none;
+        color:yellow;
+    }
+
+@media screen and (max-width: 600px) {
+    .topnav a:not(:first-child) {
+        display: none;
+    }
+
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .topnav.responsive {
+        position: relative;
+    }
+
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+
+        .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+}
+
+
+footer {
+    bottom: 0;
+    width: 100%;
+      height: 50px; 
+  margin-top:0px;
+    background: black;
+}
+
+    footer p {
+        color: yellow;
+        margin-left:15px;
+        
+       
+    }
+    
+    
+    
+    
+   
+
+
+
+
+.header {
+  padding: 1px;
+  text-align: center;
+  background: #333;
+  color: white;
+  font-size: 12px;
+  
+
+}
+
+
+/*------------------Mobile View-------------------------*/
+@media screen and (min-width: 326px) {
+    
+    
+    .container{
+ position: relative;
+      background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
+      background-repeat: no-repeat;
+background-size: 100% 300px
+}
+    
+    
+    
+}
+
+
+
+
+
+
+
+@media screen and (min-width: 480px) {
+    
+    
+    .container{
+ position: relative;
+      background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
+      background-repeat: no-repeat;
+background-size: 100% 415px
+}
+    
+    
+    
+}
+
+
+
+
+
+@media screen and (min-width: 768px) {
+    
+    
+    .container{
+ position: relative;
+      background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
+      background-repeat: no-repeat;
+background-size: 100% 635px
+}
+    
+    
+    
+}
+
+
+/*----------------Full Screen View for my PC-------------------*/
+
+@media screen and (min-width: 1224px) {
+    
+    
+    .container{
+ position: relative;
+      background: url(http://www.technocrazed.com/wp-content/uploads/2015/12/Brick-wallaper-For-Background-33.jpg);
+      background-repeat: no-repeat;
+background-size: 100% 1155px;
+}
+    
+    
+    
+}
+
+
+
+
+
+
+/*------------------Mobile View-------------------------*/
+@media screen and (min-width: 326px) {
+    
+    
+    .image1{
+ display: block;
+     margin-top:10px;
+margin-right:auto;
+margin-left:auto;
+width:100%;
+height:300px;
+
+}
+    
+    
+    
+}
+
+
+
+
+
+@media screen and (min-width: 600px) {
+    
+    
+    .image1{
+ display: block;
+     margin-top:10px;
+margin-right:auto;
+margin-left:auto;
+width:96%;
+height:600px;
+
+}
+    
+    
+    
+}
+
+
+
+
+/*----------------Full Screen View for my PC-------------------*/
+@media screen and (min-width: 1224x) {
+    
+    
+    .image1{
+ display: block;
+     margin-top:10px;
+margin-right:auto;
+margin-left:auto;
+width:96%;
+
+}
+    
+    
+    
+}
+    
+
+    
+    
+    
+
+    
+    
+    
+.row{
+    background-color:white;
+    margin-bottom:0px;
+}
+
+
+.header1{
+    color:yellow;
+    background-color:black;
+    text-align:center;
+}
+
+
+.puropse{
+    text-align:center;
+    color:yellow;
+    background-color:black;
+}
+
+
+.form1{
+    text-align:center;
+    background-color:red;
+    
+}

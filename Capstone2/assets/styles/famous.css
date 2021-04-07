@@ -1,0 +1,458 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+/* ------ Typography -------*/
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+/*------- Fluid Images ------*/
+img {
+  max-width: 100%;
+  height: auto;
+  
+}
+
+h2{
+    text-align:center;
+}
+
+
+
+li {
+    
+    
+    display:inline;
+}
+
+ul{
+        text-align:center;
+
+}
+
+li a {
+    color:red;
+}
+
+
+.topnav {
+    overflow: hidden;
+    background-color:black;
+}
+
+    .topnav a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+    }
+
+        .topnav a:hover {
+            background-color: blue;
+            color: black;
+        }
+
+        .topnav a.active {
+            background-color: blue; /*#4CAF50*/
+            color: white;
+        }
+
+    .topnav .icon {
+        display: none;
+        color:yellow;
+    }
+
+@media screen and (max-width: 600px) {
+    .topnav a:not(:first-child) {
+        display: none;
+    }
+
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .topnav.responsive {
+        position: relative;
+    }
+
+        .topnav.responsive .icon {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+
+        .topnav.responsive a {
+            float: none;
+            display: block;
+            text-align: left;
+        }
+}
+
+
+
+.header2{
+  color: red;  
+}
+
+
+#div2{
+    background-color:blue;
+     
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ------ Design Time Styles -------*/
+.container {
+  max-width: 1550px;
+  margin: 0 auto;
+}
+
+/* ------ Helper Classes -------*/
+.visuallyhidden {
+  border: 0;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+  white-space: nowrap; /* 1 */
+}
+
+/* ------ Global Styles -------*/
+
+body {
+  background: #efefef;
+  color: #222222;
+  line-height: 1.6;
+}
+
+a:link,
+a:visited {
+  color: #222;
+}
+
+.container {
+  margin: 0 auto;
+  background: rgba(0, 0, 0, 0.15);
+}
+
+
+
+main {
+  padding: 2px 20px;
+}
+
+main h1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  font-weight: 400;
+  font-variant: small-caps;
+}
+main h1:before,
+main h1:after {
+  background-color: #222;
+  content: "\a0";
+  flex-grow: 1;
+  height: 1px;
+  position: relative;
+  top: 0.77em;
+}
+main h1:before {
+  margin-right: 10px;
+}
+main h1:after {
+  margin-left: 10px;
+}
+
+p[itemprop="description"] {
+  font-size: 0.8em;
+}
+
+dl {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: 8em 1fr;
+  /* Shorthand */
+  grid-template: auto / 8em 1fr;
+
+}
+
+dt {
+  font-weight: 800;
+  padding: 10px 0;
+  border-bottom: 1px solid #999;
+  grid-column: 1;
+}
+
+dd {
+  margin: 0;
+  padding: 10px 0;
+  border-bottom: 1px solid #999;
+  grid-column: 2;
+
+}
+
+
+
+
+
+
+
+
+
+
+/* Reorder Source Using Grid */
+
+main.container{
+  text-align:center;
+  display: grid;
+  grid-gap: 1em;
+  grid-template-areas:
+    "title"
+    "about"
+    "experience"
+    "education"
+        "skills";
+
+}
+.page-title{
+  grid-area: title;
+}
+#about{
+  grid-area: about;
+}
+
+
+
+
+
+
+h2{
+
+  font-family: Snell Roundhand impact;
+}
+
+
+
+
+
+
+
+
+
+#about{
+  background:#FFF5EE;
+  padding:10px;
+}
+
+
+
+
+
+
+
+
+/*----------------------Tablet Breakpoint-----------------------*/
+
+@media screen and (min-width:768px){
+  
+  
+main.container {
+      max-width:900px;
+    grid-template-columns:repeat(2, 1fr);
+text-align:center;
+  font-size:1.6em;
+grid-template-areas:
+      "title title"
+      "about about"
+      "education education"
+     "experience experience"
+    "skills skills"
+  }
+
+
+
+  
+
+  
+  
+  header.container{
+    max-width:900px;
+  }  
+  
+  /* Nested Grid Example */
+  #about{
+    display:grid;
+    grid-gap:2em;
+    grid-template-columns: 300px 1fr auto;
+    grid-template-areas:
+      "bio details details "
+      "related related related"
+  }
+  
+.bio{
+  grid-area:bio;
+}
+.details{
+  grid-area:details;
+}
+  
+
+
+
+
+
+
+
+}
+
+
+
+
+
+
+/*----------------------Desktop view Breakpoint-----------------------*/
+
+
+
+@media screen and (min-width:1224px){
+  
+  
+main.container {
+      max-width:5000px;
+    grid-template-columns:repeat(2, 1fr);
+text-align:center;
+  font-size:1.6em;
+  
+grid-template-areas:
+  
+      "title title"
+      "about about"
+     
+     
+  }
+
+  
+
+
+  
+
+  
+  
+  header.container{
+    max-width:100%;
+  }  
+  
+  /* Nested Grid Example */
+  /* Nested Grid Example */
+  #about{
+    display:grid;
+    grid-gap:2em;
+    grid-template-columns: 1fr 1fr;
+    grid-template-areas:
+       "bio details "
+      "related details"
+      
+      
+  
+      
+  }
+  
+  
+  .experience{
+    text-align:center;
+    
+  }
+      
+   .bio{
+  grid-area:bio;
+}
+
+.details{
+  grid-area:details;
+}
+  
+.
+
+
+
+ 
+      
+  }
+  
+
+
+
+
+
+
+
+
+     
+  
+  
+  
+  
+ 
+
+
+
+
+
+
+/*----------------------Edge Case Tweaks-----------------------*/
+
+@media only screen and (max-width: 460px) {
+  .related-links li a svg{display:none;}
+  
+}
+
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 480px) {
+  .related-links li{margin-right:1px;}
+
+}

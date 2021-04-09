@@ -320,10 +320,16 @@ h2{
 
 
 
+footer{
+  text-align:center;
+  background-color:black;
+  overflow:hidden;
+}
 
 
-
-
+footer p{
+  color:white;
+}
 
 
 

@@ -23,6 +23,9 @@ img {
 
 h2{
     text-align:center;
+     font-family: Snell Roundhand impact;
+     margin-top:15px;
+     margin-bottom:15px;
 }
 
 
@@ -265,17 +268,6 @@ main.container{
 #about{
   grid-area: about;
 }
-
-
-
-
-
-
-h2{
-
-  font-family: Snell Roundhand impact;
-}
-
 
 
 

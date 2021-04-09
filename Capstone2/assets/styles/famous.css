@@ -45,7 +45,8 @@ li a {
     float: left;
     font-size: 12px;
     text-decoration: none;
-  
+
+ 
   background-color:red;
   
   
@@ -126,7 +127,11 @@ li a {
 
 
 
-
+.letter{
+  color:red;
+  text-align:left;
+  margin-left:25px;
+}
 
 
 
@@ -289,6 +294,39 @@ h2{
 
 
 
+
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 20px; /* Place the button at the bottom of the page */
+  right: 20px; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color: red; /* Set a background color */
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: 10px; /* Some padding */
+  border-radius: 10px; /* Rounded corners */
+  font-size: 10px; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*----------------------Tablet Breakpoint-----------------------*/
 
 @media screen and (min-width:768px){
@@ -437,14 +475,19 @@ grid-template-areas:
 /*----------------------Edge Case Tweaks-----------------------*/
 
 @media only screen and (max-width: 460px) {
-  .related-links li a svg{display:none;}
+ 
   
 }
 
 
-@media only screen 
-and (min-device-width : 320px) 
-and (max-device-width : 480px) {
-  .related-links li{margin-right:1px;}
+@media only screen and (min-device-width : 362px) 
+ {
+ 
+
+
+
+
+
+
 
 }

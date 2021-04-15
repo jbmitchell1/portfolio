@@ -96,7 +96,7 @@ function myFunction() {
      <div id="name0"></div>
     <img id="image0">
     <div id="popularity0"></div>
-    <div id="title0"></div>
+    <div id="profile_path0"></div>
 
 
 
@@ -281,7 +281,7 @@ function MovieSearch() {
     var page = "1";
     var include_adult = "false";
     var query = encodeURI(personname);  /* encode the movename since it might have blanks */  
-    var myURL = "https://api.themoviedb.org/3/search/person?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
+    var myURL = "https://api.themoviedb.org/3/person/{person_id}?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
 
     /* Display the URL */
     document.getElementById("url1").innerHTML = myURL;
@@ -352,6 +352,15 @@ function MovieSearch() {
 
 
 
+
+
+                                document.getElementById("profile_path" + i).style.display = "block";
+                                document.getElementById("profile_path" + i).innerHTML = i + ". " + msg.results[i].profile_path;
+
+
+
+                                document.getElementById("profile_path" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black;";
+                                document.getElementById("profile_path" + i).style.fontSize = "35px";
 
 
 

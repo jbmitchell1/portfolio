@@ -1,11 +1,4 @@
 
-
-
-
-
-
-
-
 * {
   box-sizing: border-box;
 }
@@ -218,3 +211,10 @@ h1{
   }
 }
 
+
+
+
+iframe {
+    width: 570px;
+    height: 476px;
+}

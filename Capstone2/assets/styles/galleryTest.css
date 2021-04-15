@@ -212,9 +212,44 @@ h1{
 }
 
 
+.siteFooterBar {
+    position: relative;
+    padding-top: 0px;
+    
+    overflow:hidden;
+    width: 100%;
+    box-shadow: 0px 0px 25px rgb(207, 207, 207);
+    height: 88px;
+    color: #9B9B9B;
+    background: #F3F3F3;
+    background-color:black;
+}
+
+.content {
+    display: block;
+    padding: 10px;
+    text-align: center;
+    font: 25px Georgia, "Times New Roman", Times, serif;
+    font-size: 14px;
+}
+.foot {
+ display:inline;
+    line-height: 100px;
+    color:white;
+}
+.content img {
+ height:70px;
+    width: 70px;
+    float:left;
+    
+}
 
 
 iframe {
     width: 570px;
     height: 476px;
 }
+
+
+
+

@@ -12,6 +12,8 @@ s
 /* ------ Typography -------*/
 body {
   font-family: "Open Sans", sans-serif;
+
+
 }
 
 /*------- Fluid Images ------*/
@@ -61,13 +63,14 @@ li a {
     overflow: hidden;
     background-color:black;
 
+      
+
 }
 
     .topnav a {
         float: left;
         display: block;
-        background-color: black;
-      
+        color: white;
         text-align: center;
         padding: 14px 16px;
         text-decoration: none;
@@ -76,7 +79,7 @@ li a {
 
         .topnav a:hover {
             background-color: blue;
-            color: white;
+            color: black;
         }
 
         .topnav a.active {
@@ -168,7 +171,7 @@ li a {
 body {
   background: #efefef;
   color: #222222;
-  line-height: 1.6;
+    line-height: 1.6;
 }
 
 a:link,

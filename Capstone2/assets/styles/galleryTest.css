@@ -1,3 +1,9 @@
+html{
+  height:100%;
+  
+}
+
+
 
 * {
   box-sizing: border-box;
@@ -209,6 +215,11 @@ h1{
     width: 100%;
     text-align: left;
   }
+  
+
+
+
+  
 }
 
 
@@ -223,6 +234,7 @@ h1{
     color: #9B9B9B;
     background: #F3F3F3;
     background-color:black;
+    clear:both;
 }
 
 .content {
@@ -234,7 +246,7 @@ h1{
 }
 .foot {
  display:inline;
-    line-height: 100px;
+    inline height: 100px;
     color:white;
 }
 .content img {
@@ -249,7 +261,3 @@ iframe {
     width: 570px;
     height: 476px;
 }
-
-
-
-

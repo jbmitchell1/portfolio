@@ -234,7 +234,6 @@ h1{
     color: #9B9B9B;
     background: #F3F3F3;
     background-color:black;
-    clear:both;
 }
 
 .content {
@@ -246,7 +245,7 @@ h1{
 }
 .foot {
  display:inline;
-    inline height: 100px;
+    line-height: 100px;
     color:white;
 }
 .content img {
@@ -255,6 +254,8 @@ h1{
     float:left;
     
 }
+
+
 
 
 iframe {

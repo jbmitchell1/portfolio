@@ -71,8 +71,9 @@ div.desc {
 
 div.overview{
     border: 1px solid #ccc;
-  text-align:center;
   padding-bottom:15px;
+    width:100%;
+
 }
 
 
@@ -268,4 +269,11 @@ iframe {
 
 .desc{
   width:360px;
+}
+
+.overview p{
+  width:360px;
+text-align:center;
+margin-right:auto;
+margin-left:auto;
 }

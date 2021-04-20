@@ -220,7 +220,7 @@ h1{
 }
 
 .siteFooterBar {
-    position: fixed;
+    position: relative;
     bottom: 0;
     padding-top: 0px;
     width: 100%;
@@ -228,12 +228,13 @@ h1{
     height: 78px;
     color: white;
     background: black;
+    overflow:hidden;
 }
 
 .content {
     display: block;
     padding: 10px;
-    text-align: center;
+    text-align: left;
     font: 25px Georgia, "Times New Roman", Times, serif;
     font-size: 14px;
     width:250px;
@@ -253,4 +254,18 @@ h1{
 iframe {
     width: 570px;
     height: 476px;
+}
+
+.desc{
+  margin-bottom:30px;
+}
+
+
+.column img{
+  width:360px;
+  height:250px;
+}
+
+.desc{
+  width:360px;
 }

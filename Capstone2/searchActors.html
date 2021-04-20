@@ -62,9 +62,10 @@ function myFunction() {
 
 
 
+
 <div class="header1">
   <h1>Search</h1>
-  <p>Use the search bar below to search The Movie Database for Actors and Actoresses</p>
+  <p>Use the search bar below to search The Movie Database for actors and actresses.</p>
   <br>
 </div>
 
@@ -72,7 +73,7 @@ function myFunction() {
     <form id="search-form">
       <form>
         <div class="search">
-            <input type="text" id="personname" name="search" class="round" >
+            <input type="text" id="moviename" name="search" class="round" >
             <input type="button" onclick="MovieSearch()" class="corner" value="" >
  
 
@@ -90,177 +91,99 @@ function myFunction() {
  
     <div id="url1"></div>
     
-     <div id="name0"></div>
+    <div id="name0"></div>
     <img id="image0">
-    <div id="popularity0"></div>
-    <div id="profile_path0"></div>
 
-
-
-  
  
+
+
     <div id="name1"></div>
     <img id="image1">
-    <div id="popularity1"></div>
 
-    
-    
+
     <div id="name2"></div>
     <img id="image2">
-    <div id="popularity2"></div>
-
    
     <div id="name3"></div>
     <img id="image3">
-    <div id="popularity3"></div>
-
-
    
-    
+
     <div id="name4"></div>
     <img id="image4">
-    <div id="popularity4"></div>
-
+   
 
     <div id="name5"></div>
     <img id="image5">
-    <div id="popularity5"></div>
-    
-    
-    
-     <div id="name6"></div>
-    <img id="image6">
-    <div id="popularity6"></div>
-    
-    
-    
-      <div id="name7"></div>
-    <img id="image7">
-    <div id="popularity7"></div>
-    
-    
-    
-      <div id="name8"></div>
-    <img id="image8">
-    <div id="popularity8"></div>
-    
-    
-    
-      <div id="name9"></div>
-    <img id="image9">
-    <div id="popularity9"></div>
-    
-    
-    
-      <div id="name10"></div>
-    <img id="image10">
-    <div id="popularity10"></div>
-    
-    
-    
-      <div id="name11"></div>
-    <img id="image11">
-    <div id="popularity11"></div>
-    
-    
-    
-      <div id="name12"></div>
-    <img id="image12">
-    <div id="popularity12"></div>
-    
-    
-    
-      <div id="name13"></div>
-    <img id="image13">
-    <div id="popularity13"></div>
-    
-    
-    
-      <div id="name14"></div>
-    <img id="image14">
-    <div id="popularity14"></div>
-
-
-
-
- <div id="name15"></div>
-    <img id="image15">
-    <div id="popularity15"></div>
-
-
-
-
-
- <div id="name16"></div>
-    <img id="image16">
-    <div id="popularity16"></div>
-
-
-
-
-
- <div id="name17"></div>
-    <img id="image17">
-    <div id="popularity17"></div>
-
-
-
-
-
- <div id="name18"></div>
-    <img id="image18">
-    <div id="popularity18"></div>
-
-
-
-
-
- <div id="name19"></div>
-    <img id="image19">
-    <div id="popularity19"></div>
-
-
-
-
-
- <div id="name20"></div>
-    <img id="image20">
-    <div id="popularity20"></div>
-
-
-
-
-
- <div id="name21"></div>
-    <img id="image21">
-    <div id="popularity21"></div>
-
-
-
-
-
- <div id="name22"></div>
-    <img id="image22">
-    <div id="popularity22"></div>
-
-
-
-
-
- <div id="name23"></div>
-    <img id="image23">
-    <div id="popularity23"></div>
-
-
-
-
-
- <div id="name24"></div>
-    <img id="image24">
-    <div id="popularity24"></div>
-
   
 
+    <div id="name6"></div>
+    <img id="image6">
+   
+
+    <div id="name7"></div>
+    <img id="image7">
+   
+
+    <div id="name8"></div>
+    <img id="image8">
+   
+
+    <div id="name9"></div>
+    <img id="image9">
+   
+
+    <div id="name10"></div>
+    <img id="image10">
+   
+    <div id="name11"></div>
+    <img id="image11">
+   
+
+    <div id="name12"></div>
+    <img id="image12">
+  
+    <div id="name13"></div>
+    <img id="image13">
+  
+
+    <div id="name14"></div>
+    <img id="image14">
+  
+    <div id="name15"></div>
+    <img id="image15">
+  
+
+    <div id="name16"></div>
+    <img id="image16">
+  
+    <div id="name17"></div>
+    <img id="image17">
+  
+
+    <div id="name18"></div>
+    <img id="image18">
+  
+    <div id="name19"></div>
+    <img id="image19">
+   
+    <div id="name20"></div>
+    <img id="image20">
+   >
+
+    <div id="name21"></div>
+    <img id="image21">
+  
+    <div id="name22"></div>
+    <img id="image22">
+   
+    <div id="name23"></div>
+    <img id="image23">
+   
+
+    <div id="name24"></div>
+    <img id="image24">
+  
+	  
 <script>
 
 /* Example URL for AJAX Call 
@@ -270,15 +193,15 @@ var myURL = "https://api.themoviedb.org/3/search/movie?api_key=1c3df5b73705f054a
 function MovieSearch() {
     
     /* Get the movie name for the form */
-    var personname = document.getElementById("personname").value;
+    var moviename = document.getElementById("moviename").value;
     
     /* Build up the parameters for the URL */
     var api_key = "1c3df5b73705f054ad8dfe8bc03f7f33";
     var language = "en-US";
     var page = "1";
     var include_adult = "false";
-    var query = encodeURI(personname);  /* encode the movename since it might have blanks */  
-    var myURL = "https://api.themoviedb.org/3/person/{person_id}?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
+    var query = encodeURI(moviename);  /* encode the movename since it might have blanks */  
+    var myURL = "https://api.themoviedb.org/3/search/person?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
 
     /* Display the URL */
     document.getElementById("url1").innerHTML = myURL;
@@ -339,25 +262,18 @@ function MovieSearch() {
 
 
 
-                                document.getElementById("popularity" + i).style.display = "block";
-                                document.getElementById("popularity" + i).innerHTML = i + ". " + msg.results[i].popularity;
-
-
-
-                                document.getElementById("popularity" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black;";
-                                document.getElementById("popularity" + i).style.fontSize = "35px";
+                              
 
 
 
 
 
-                                document.getElementById("profile_path" + i).style.display = "block";
-                                document.getElementById("profile_path" + i).innerHTML = i + ". " + msg.results[i].profile_path;
 
 
 
-                                document.getElementById("profile_path" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black;";
-                                document.getElementById("profile_path" + i).style.fontSize = "35px";
+
+
+
 
 
 

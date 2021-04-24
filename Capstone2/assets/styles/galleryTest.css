@@ -192,6 +192,9 @@ h1{
     display: block;
     color:yellow; /*trying to figure out why the icon is not turning yellow on my personal mobile device even though it is showing it to be on aws on all breakpoints.*/
   }
+  body{
+    max-width:100%;
+  }
 }
 
 
@@ -223,18 +226,6 @@ h1{
 
 
 
-@media screen and (min-width: 326px) {
-    
-    
-    body{
-width:100%;
-
-
-}
-    
-    
-    
-}
 
 
 

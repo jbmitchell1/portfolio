@@ -195,6 +195,8 @@ h1{
   body{
     max-width:100%;
   }
+  
+  
 }
 
 
@@ -226,7 +228,14 @@ h1{
 
 
 
-
+@media screen and (max-width: 600px) {
+  
+ iframe{
+   width:300px;
+   background-color:red;
+ }
+  
+}
 
 
 
@@ -269,7 +278,7 @@ h1{
   
 
 iframe {
-    width: 100%;
+    width: 50%;
     height: 476px;
     padding-top:50px;
 }

@@ -172,6 +172,7 @@ body {
   background: #efefef;
   color: #222222;
     line-height: 1.6;
+    max-width:100%;
 }
 
 a:link,

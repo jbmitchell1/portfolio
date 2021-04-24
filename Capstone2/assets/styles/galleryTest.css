@@ -9,6 +9,7 @@
 body {
   margin: 0;
   font-family: Arial;
+  max-width:100%;
 }
 
 .header {
@@ -261,6 +262,7 @@ h1{
 iframe {
     width: 570px;
     height: 476px;
+    padding-top:50px;
 }
 
 .desc{
@@ -278,13 +280,17 @@ iframe {
 }
 
 .overview p{
-  width:360px;
+font-size:22px;
 text-align:center;
-margin-right:auto;
-margin-left:auto;
 }
 
 
 .bgroup{
 text-align:center;
+padding-bottom:25px;
+}
+
+.bgroup p {
+  text-align:center;
+  display:block;
 }

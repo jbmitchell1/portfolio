@@ -1,4 +1,6 @@
-
+html{
+  max-width:100%;
+}
 
 
 
@@ -37,7 +39,7 @@ body {
 .column img {
   margin-top: 8px;
   vertical-align: middle;
-  width: 100%;
+/* max-width: 90%; */
 
 }
 
@@ -214,7 +216,7 @@ h1{
   .topnav.responsive .dropdown-content {position: relative;}
   .topnav.responsive .dropdown .dropbtn {
     display: block;
-    width: 100%;
+    max-width: 100%;
     text-align: left;
   }
   
@@ -281,6 +283,8 @@ iframe {
 
 .desc{
   margin-bottom:30px;
+  width:360px; /* Testing trying to fix a problem with header and footer. I believe the problem is caused by the width of the image.*/
+
 }
 
 
@@ -289,9 +293,7 @@ iframe {
   height:250px;
 }
 
-.desc{
-  width:360px;
-}
+
 
 .overview p{
 font-size:22px;

@@ -310,3 +310,22 @@ padding-bottom:25px;
   text-align:center;
   display:block;
 }
+
+
+
+@media screen and (max-width: 370px) {
+
+.desc{
+  margin-bottom:30px;
+  width:330px; /* Testing trying to fix a problem with header and footer. I believe the problem is caused by the width of the image.*/
+
+}
+
+
+.column img{
+  width:330px;
+  height:250px;
+}
+
+
+}

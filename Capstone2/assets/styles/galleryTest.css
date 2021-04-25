@@ -9,7 +9,7 @@
 body {
   margin: 0;
   font-family: Arial;
-  max-width:100%;
+  min-width:100%;
 }
 
 .header {
@@ -26,7 +26,7 @@ body {
   padding: 0 4px;
 }
 
-/* Create four equal columns that sits next to each other */
+
 .column {
   -ms-flex: 25%; /* IE10 */
   flex: 25%;
@@ -41,7 +41,7 @@ body {
 
 }
 
-/* Responsive layout - makes a two column-layout instead of four columns */
+
 @media screen and (max-width: 800px) {
   .column {
     -ms-flex: 50%;
@@ -50,7 +50,7 @@ body {
   }
 }
 
-/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
 @media screen and (max-width: 600px) {
   .column {
     -ms-flex: 100%;
@@ -98,13 +98,14 @@ h1{
 
 
 
-/* Add a black background color to the top navigation */
+
 .topnav {
   background-color: black;
   overflow: hidden;
+  min-width:100%;
 }
 
-/* Style the links inside the navigation bar */
+
 .topnav a {
   float: left;
   display: block;
@@ -115,25 +116,25 @@ h1{
   font-size: 17px;
 }
 
-/* Add an active class to highlight the current page */
+
 .active {
   background-color: blue;
   color: white;
 }
 
-/* Hide the link that should open and close the topnav on small screens */
+
 .topnav .icon {
   display: none;
   color:yellow;
 }
 
-/* Dropdown container - needed to position the dropdown content */
+
 .dropdown {
   float: left;
   overflow: hidden;
 }
 
-/* Style the dropdown button to fit inside the topnav */
+
 .dropdown .dropbtn {
   font-size: 17px;
   border: none;
@@ -145,7 +146,7 @@ h1{
   margin: 0;
 }
 
-/* Style the dropdown content (hidden by default) */
+
 .dropdown-content {
   display: none;
   position: absolute;
@@ -155,7 +156,7 @@ h1{
   z-index: 1;
 }
 
-/* Style the links inside the dropdown */
+
 .dropdown-content a {
   float: none;
   color: black;
@@ -165,24 +166,23 @@ h1{
   text-align: left;
 }
 
-/* Add a dark background on topnav links and the dropdown button on hover */
+
 .topnav a:hover, .dropdown:hover .dropbtn {
   background-color: blue;
   color: white;
 }
 
-/* Add a grey background to dropdown links on hover */
+
 .dropdown-content a:hover {
   background-color: yellow;
   color: black;
 }
 
-/* Show the dropdown menu when the user moves the mouse over the dropdown button */
+
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
-/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
 @media screen and (max-width: 600px) {
   .topnav a:not(:first-child), .dropdown .dropbtn {
     display: none;
@@ -239,7 +239,7 @@ h1{
  
   .siteFooterBar {
     position: relative;
-    width:100%;
+  
     padding-top: 0px;
     
     overflow:hidden;

@@ -329,3 +329,15 @@ padding-bottom:25px;
 
 
 }
+
+
+
+@media screen and (max-width: 370px) {
+
+.center{
+width:100%;
+height:100%;
+  
+}
+
+}

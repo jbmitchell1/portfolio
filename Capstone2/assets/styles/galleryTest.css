@@ -317,13 +317,13 @@ padding-bottom:25px;
 
 .desc{
   margin-bottom:30px;
-  width:330px; /* Testing trying to fix a problem with header and footer. I believe the problem is caused by the width of the image.*/
+  width:345px; /* Testing trying to fix a problem with header and footer. I believe the problem is caused by the width of the image.*/
 
 }
 
 
 .column img{
-  width:330px;
+  width:345px;
   height:250px;
 }
 

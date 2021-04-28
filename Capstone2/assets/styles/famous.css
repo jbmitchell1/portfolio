@@ -91,6 +91,12 @@ li a {
         display: none;
         color:yellow;
     }
+    
+    
+    
+    
+    
+    
 
 @media screen and (max-width: 600px) {
     .topnav a:not(:first-child) {

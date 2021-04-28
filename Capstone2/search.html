@@ -90,10 +90,15 @@ function myFunction() {
      
  
     <div id="url1"></div>
+        <div id="url2"></div>
+
     <div id="title0"></div>
     <img id="image0">
     <div id="overview0"></div>
     <div id="release_date0"></div>
+    
+        <div id="id0"></div>
+
 
 
     <div id="title1"></div>
@@ -227,16 +232,37 @@ function MovieSearch() {
     /* Get the movie name for the form */
     var moviename = document.getElementById("moviename").value;
     
+    
+
+    
+    
+    
+    
     /* Build up the parameters for the URL */
     var api_key = "1c3df5b73705f054ad8dfe8bc03f7f33";
     var language = "en-US";
     var page = "1";
     var include_adult = "false";
+    
+    
+    
     var query = encodeURI(moviename);  /* encode the movename since it might have blanks */  
     var myURL = "https://api.themoviedb.org/3/search/movie?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
 
+  /*  var myURL2 = "https://api.themoviedb.org/3/discover/movie?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
+
+*/
+
+
     /* Display the URL */
     document.getElementById("url1").innerHTML = myURL;
+    
+    
+    
+       /* document.getElementById("url2").innerHTML = myURL2; */
+
+    
+    
     
     /* We will use AJAX to access the database, and JQuery to simplify the call */
     /* See:
@@ -320,6 +346,12 @@ function MovieSearch() {
 
 
 
+                                document.getElementById("id" + i).style.display = "block";
+                                document.getElementById("id" + i).innerHTML = i + ". " + msg.results[i].id;
+
+
+                                document.getElementById("id" + i).style = "color:red;border:1px solid black;text-align:center; background-color:black;";
+                                  document.getElementById("id" + i).style.fontSize = "25px";
 
 
 

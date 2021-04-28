@@ -1,4 +1,4 @@
-html {
+html { /*---------------Some of this code comes from the mobile Resume assignment from Mr. Wallaces mobile web 3342 class-------------------*/
   box-sizing: border-box;
 }
 *,
@@ -250,28 +250,6 @@ dd {
 
 
 
-
-
-/* Reorder Source Using Grid */
-
-main.container{
-  text-align:center;
-  display: grid;
-  grid-gap: 1em;
-  grid-template-areas:
-    "title"
-    "about"
-    "experience"
-    "education"
-        "skills";
-
-}
-.page-title{
-  grid-area: title;
-}
-#about{
-  grid-area: about;
-}
 
 
 

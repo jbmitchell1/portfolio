@@ -90,14 +90,16 @@ function myFunction() {
      
  
     <div id="url1"></div>
-        <div id="url2"></div>
 
-    <div id="title0"></div>
+
+   
+   <div id="title0"></div>
     <img id="image0">
     <div id="overview0"></div>
     <div id="release_date0"></div>
     
-        <div id="id0"></div>
+
+        
 
 
 
@@ -106,40 +108,48 @@ function myFunction() {
     <div id="overview1"></div>
     <div id="release_date1"></div>
 
+
     <div id="title2"></div>
     <img id="image2">
     <div id="overview2"></div>
     <div id="release_date2"></div>
+
 
     <div id="title3"></div>
     <img id="image3">
     <div id="overview3"></div>
     <div id="release_date3"></div>
 
+
     <div id="title4"></div>
     <img id="image4">
     <div id="overview4"></div>
     <div id="release_date4"></div>
+
 
     <div id="title5"></div>
     <img id="image5">
     <div id="overview5"></div>
     <div id="release_date5"></div>
 
+
     <div id="title6"></div>
     <img id="image6">
     <div id="overview6"></div>
     <div id="release_date6"></div>
+
 
     <div id="title7"></div>
     <img id="image7">
     <div id="overview7"></div>
     <div id="release_date7"></div>
 
+
     <div id="title8"></div>
     <img id="image8">
     <div id="overview8"></div>
     <div id="release_date8"></div>
+
 
     <div id="title9"></div>
     <img id="image9">
@@ -223,9 +233,7 @@ function myFunction() {
 	  
 <script>
 
-/* Example URL for AJAX Call 
-var myURL = "https://api.themoviedb.org/3/search/movie?api_key=1c3df5b73705f054ad8dfe8bc03f7f33&language=en-US&query=Jack%20Reacher&page=1&include_adult=false";
-*/
+
 
 function MovieSearch() {
     
@@ -234,7 +242,7 @@ function MovieSearch() {
     
     
 
-    
+
     
     
     
@@ -244,22 +252,24 @@ function MovieSearch() {
     var page = "1";
     var include_adult = "false";
     
-    
-    
+    var movie_id = "id";
+
+
     var query = encodeURI(moviename);  /* encode the movename since it might have blanks */  
+    
+
+    
+    
     var myURL = "https://api.themoviedb.org/3/search/movie?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
 
-  /*  var myURL2 = "https://api.themoviedb.org/3/discover/movie?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
 
-*/
 
 
     /* Display the URL */
-    document.getElementById("url1").innerHTML = myURL;
+   document.getElementById("url1").innerHTML = myURL; 
     
+
     
-    
-       /* document.getElementById("url2").innerHTML = myURL2; */
 
     
     
@@ -346,18 +356,6 @@ function MovieSearch() {
 
 
 
-                                document.getElementById("id" + i).style.display = "block";
-                                document.getElementById("id" + i).innerHTML = i + ". " + msg.results[i].id;
-
-
-                                document.getElementById("id" + i).style = "color:red;border:1px solid black;text-align:center; background-color:black;";
-                                  document.getElementById("id" + i).style.fontSize = "25px";
-
-
-
-
-
-
 
 
 						
@@ -386,11 +384,12 @@ function MovieSearch() {
 </script>
 
 
-<body>
-
-
 
 <body>
+  
+ 
+
+  
     
     </body>
 

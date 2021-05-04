@@ -65,13 +65,13 @@ function myFunction() {
 
 <div class="header1">
   <h1>Search</h1>
-  <p>Use the search bar below to search The Movie Database for actors and actresses.</p>
+  <p>Use the search bar below to search The Movie Database</p>
   <br>
 </div>
 
 
     <form id="search-form">
-      <form>
+  <form onsubmit="changeFormAction()">
         <div class="search">
             <input type="text" id="moviename" name="search" class="round" >
             <input type="button" onclick="MovieSearch()" class="corner" value="" >
@@ -84,127 +84,201 @@ function myFunction() {
 
 
 
-      
+ 
+  
+  
+  
+  
+ 
+ 
   
       
      
  
     <div id="url1"></div>
-    
-    <div id="name0"></div>
+
+
+   
+   <div id="title0"></div>
     <img id="image0">
+    <div id="overview0"></div>
+    <div id="release_date0"></div>
+    
+            <div id="id0"></div>
 
- 
 
 
-    <div id="name1"></div>
+
+    <div id="title1"></div>
     <img id="image1">
+    <div id="overview1"></div>
+    <div id="release_date1"></div>
 
 
-    <div id="name2"></div>
+    <div id="title2"></div>
     <img id="image2">
-   
-    <div id="name3"></div>
+    <div id="overview2"></div>
+    <div id="release_date2"></div>
+
+
+    <div id="title3"></div>
     <img id="image3">
-   
+    <div id="overview3"></div>
+    <div id="release_date3"></div>
 
-    <div id="name4"></div>
+
+    <div id="title4"></div>
     <img id="image4">
-   
+    <div id="overview4"></div>
+    <div id="release_date4"></div>
 
-    <div id="name5"></div>
+
+    <div id="title5"></div>
     <img id="image5">
-  
+    <div id="overview5"></div>
+    <div id="release_date5"></div>
 
-    <div id="name6"></div>
+
+    <div id="title6"></div>
     <img id="image6">
-   
+    <div id="overview6"></div>
+    <div id="release_date6"></div>
 
-    <div id="name7"></div>
+
+    <div id="title7"></div>
     <img id="image7">
-   
+    <div id="overview7"></div>
+    <div id="release_date7"></div>
 
-    <div id="name8"></div>
+
+    <div id="title8"></div>
     <img id="image8">
-   
+    <div id="overview8"></div>
+    <div id="release_date8"></div>
 
-    <div id="name9"></div>
+
+    <div id="title9"></div>
     <img id="image9">
-   
+    <div id="overview9"></div>
+    <div id="release_date9"></div>
 
-    <div id="name10"></div>
+    <div id="title10"></div>
     <img id="image10">
-   
-    <div id="name11"></div>
+    <div id="overview10"></div>
+    <div id="release_date10"></div>
+
+    <div id="title11"></div>
     <img id="image11">
-   
+    <div id="overview11"></div>
+    <div id="release_date11"></div>
 
-    <div id="name12"></div>
+    <div id="title12"></div>
     <img id="image12">
-  
-    <div id="name13"></div>
+    <div id="overview12"></div>
+    <div id="release_date12"></div>
+
+    <div id="title13"></div>
     <img id="image13">
-  
+    <div id="overview13"></div>
+    <div id="release_date13"></div>
 
-    <div id="name14"></div>
+    <div id="title14"></div>
     <img id="image14">
-  
-    <div id="name15"></div>
+    <div id="overview14"></div>
+    <div id="release_date14"></div>
+
+    <div id="title15"></div>
     <img id="image15">
-  
+    <div id="overview15"></div>
+    <div id="release_date15"></div>
 
-    <div id="name16"></div>
+    <div id="title16"></div>
     <img id="image16">
-  
-    <div id="name17"></div>
+    <div id="overview16"></div>
+    <div id="release_date16"></div>
+
+    <div id="title17"></div>
     <img id="image17">
-  
+    <div id="overview17"></div>
+    <div id="release_date17"></div>
 
-    <div id="name18"></div>
+    <div id="title18"></div>
     <img id="image18">
-  
-    <div id="name19"></div>
+    <div id="overview18"></div>
+    <div id="release_date18"></div>
+
+    <div id="title19"></div>
     <img id="image19">
-   
-    <div id="name20"></div>
+    <div id="overview19"></div>
+    <div id="release_date19"></div>
+
+    <div id="title20"></div>
     <img id="image20">
-   >
+    <div id="overview20"></div>
+    <div id="release_date20"></div>
 
-    <div id="name21"></div>
+    <div id="title21"></div>
     <img id="image21">
-  
-    <div id="name22"></div>
-    <img id="image22">
-   
-    <div id="name23"></div>
-    <img id="image23">
-   
+    <div id="overview21"></div>
+    <div id="release_date21"></div>
 
-    <div id="name24"></div>
+    <div id="title22"></div>
+    <img id="image22">
+    <div id="overview22"></div>
+    <div id="release_date22"></div>
+
+    <div id="title23"></div>
+    <img id="image23">
+    <div id="overview23"></div>
+    <div id="release_date23"></div>
+
+    <div id="title24"></div>
     <img id="image24">
-  
+    <div id="overview24"></div>
+    <div id="release_date24"></div>
 	  
 <script>
 
-/* Example URL for AJAX Call 
-var myURL = "https://api.themoviedb.org/3/search/movie?api_key=1c3df5b73705f054ad8dfe8bc03f7f33&language=en-US&query=Jack%20Reacher&page=1&include_adult=false";
-*/
+
 
 function MovieSearch() {
     
     /* Get the movie name for the form */
     var moviename = document.getElementById("moviename").value;
     
+    
+
+  
+
+    
+    
+    
     /* Build up the parameters for the URL */
     var api_key = "1c3df5b73705f054ad8dfe8bc03f7f33";
     var language = "en-US";
     var page = "1";
     var include_adult = "false";
+
+
     var query = encodeURI(moviename);  /* encode the movename since it might have blanks */  
-    var myURL = "https://api.themoviedb.org/3/search/person?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
+    
+
+    
+    var myURL = "https://api.themoviedb.org/3/movie/moviename?api_key=" + api_key + "&language=" + language + "&query=" + query + "&page="  + page + "&include_adult=" + include_adult;
+
+
+
 
     /* Display the URL */
-    document.getElementById("url1").innerHTML = myURL;
+   document.getElementById("url1").innerHTML = myURL; 
+    
+
+    
+ 
+ 
+  
+    
+
     
     /* We will use AJAX to access the database, and JQuery to simplify the call */
     /* See:
@@ -228,6 +302,38 @@ function MovieSearch() {
         /* AJAX complete - result is in msg */
         .done(function(msg) {
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
         /* Your code to process the result goes here */          
 
         /* Loop through the first 25 results */
@@ -237,8 +343,8 @@ function MovieSearch() {
                 if (i < msg.results.length) {
 
                     /* Set the Title to Visible and set title to value in database */
-                    document.getElementById("name" + i).style.display = "block";
-                    document.getElementById("name" + i).innerHTML = i + ". " + msg.results[i].name;
+                    document.getElementById("title" + i).style.display = "block";
+                    document.getElementById("title" + i).innerHTML = i + ". " + msg.results[i].original_title;
 
 
  
@@ -246,33 +352,52 @@ function MovieSearch() {
 
 
                     /* Some movies don't have a poster - null is returned */
-                    if (msg.results[i].profile_path != null) {
+                    if (msg.results[i].poster_path != null) {
                         document.getElementById("image" + i).style.display = "block";
                         
 
                         
-                        document.getElementById("image" + i).src = "https://image.tmdb.org/t/p/w500" + msg.results[i].profile_path;
+                        document.getElementById("image" + i).src = "https://image.tmdb.org/t/p/w500" + msg.results[i].poster_path;
                   
 
 
                   
-              document.getElementById("name" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black";
-                                document.getElementById("name" + i).style.fontSize = "45px";
+              document.getElementById("title" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black";
+                                document.getElementById("title" + i).style.fontSize = "45px";
 
 
 
 
-                              
+                                document.getElementById("overview" + i).style.display = "block";
+                                document.getElementById("overview" + i).innerHTML = i + ". " + msg.results[i].overview;
+
+
+
+                                document.getElementById("overview" + i).style = "color:red;border:1px solid #aaa;text-align:center; background-color:black;";
+                                document.getElementById("overview" + i).style.fontSize = "35px";
 
 
 
 
 
 
+                                document.getElementById("release_date" + i).style.display = "block";
+                                document.getElementById("release_date" + i).innerHTML = i + ". " + msg.results[i].release_date;
+
+
+                                document.getElementById("release_date" + i).style = "color:red;border:1px solid black;text-align:center; background-color:black;";
+                                document.getElementById("release_date" + i).style.fontSize = "25px";
 
 
 
 
+
+                                document.getElementById("id" + i).style.display = "block";
+                                document.getElementById("id" + i).innerHTML = i + ". " + msg.results[i].id;
+
+
+                                document.getElementById("id" + i).style = "color:red;border:1px solid black;text-align:center; background-color:black;";
+                                document.getElementById("id" + i).style.fontSize = "25px";
 
 
 
@@ -306,11 +431,12 @@ function MovieSearch() {
 </script>
 
 
-<body>
-
-
 
 <body>
+  
+ 
+
+  
     
     </body>
 

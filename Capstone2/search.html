@@ -86,6 +86,24 @@ function myFunction() {
 
       
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
       
      
  
@@ -98,8 +116,8 @@ function myFunction() {
     <div id="overview0"></div>
     <div id="release_date0"></div>
     
+            <div id="id0"></div>
 
-        
 
 
 
@@ -296,6 +314,13 @@ function MovieSearch() {
         /* AJAX complete - result is in msg */
         .done(function(msg) {
 
+
+
+
+
+
+
+
         /* Your code to process the result goes here */          
 
         /* Loop through the first 25 results */
@@ -351,6 +376,15 @@ function MovieSearch() {
                                 document.getElementById("release_date" + i).style.fontSize = "25px";
 
 
+
+
+
+                                document.getElementById("id" + i).style.display = "block";
+                                document.getElementById("id" + i).innerHTML = i + ". " + msg.results[i].id;
+
+
+                                document.getElementById("id" + i).style = "color:red;border:1px solid black;text-align:center; background-color:black;";
+                                document.getElementById("id" + i).style.fontSize = "25px";
 
 
 

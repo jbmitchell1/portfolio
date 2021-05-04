@@ -284,7 +284,11 @@ dd {
 
 
 
-
+.carousel-caption {
+    position: relative;
+    left: auto;
+    right: auto;
+}
 
 
 

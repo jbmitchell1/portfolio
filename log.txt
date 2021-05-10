@@ -1,0 +1,2830 @@
+commit 9624da167b000403abe8026affb1f5730c340a18
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed May 5 17:04:43 2021 +0000
+
+    fixing issue.
+
+commit 429f40d5f9a866b4c638714fabeba7da76cf73b8
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue May 4 20:19:04 2021 +0000
+
+    finalizing.
+
+commit 8642736f34eed819bb64fc6e33d90e358af2ed43
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue May 4 03:40:53 2021 +0000
+
+    test
+
+commit afc02ba53535864dbb0f1c097e9a0ca40ea233a5
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue May 4 03:13:34 2021 +0000
+
+    changing famous.html
+
+commit aee59f703a2d05539f91e4c50c5ed99284a4c4f4
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue May 4 02:04:04 2021 +0000
+
+    testing.
+
+commit c00903f73a73bbcf692c2a9ea7e96e08f49363a9
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue May 4 01:58:23 2021 +0000
+
+    adding
+
+commit df8f24a9f05dd42c9ffa9c2913cccdc45cfe1bba
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue May 4 01:42:54 2021 +0000
+
+    changing famous.html
+
+commit 811a9b2edbaa27d00d04506d5fb0d4f53e2ccab0
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon May 3 21:42:04 2021 +0000
+
+    changing famous.html
+
+commit 1c2a987fb7294aca5e3742f67330100fae6559e2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun May 2 20:18:44 2021 +0000
+
+    testing.
+
+commit 8ef6f0d4870d291ed5866539a753118fa684ff37
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun May 2 18:53:01 2021 +0000
+
+    testing
+
+commit f30d85bbf1e065a410708704ebbd9cb115f0e63e
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Apr 28 21:22:29 2021 +0000
+
+    working on api
+
+commit 5278ef42b7af9c41dc85c22f36444b3d62b45e28
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Apr 28 19:17:21 2021 +0000
+
+    fixing issues.
+
+commit d213e21cd633af8b683cdbd260732e0f5c4d2711
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Apr 28 18:42:17 2021 +0000
+
+    finishing up capstone project.
+
+commit cdf0e8ecd9bf889db966464a59285f072d06f37b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 22:30:23 2021 +0000
+
+    adding images to galleries.
+
+commit 98eba9107e92bef64f621b357a8a1c4a17027dbf
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 22:11:54 2021 +0000
+
+    adding images.
+
+commit 0fd2232ebcaa8518530427aacb2bab7381e06784
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 21:58:37 2021 +0000
+
+    adding images.
+
+commit c83c27640dce6457695f7afb3c7feca5fffb5596
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 21:44:38 2021 +0000
+
+    adding images.
+
+commit 754d5a318f8c4de0c322c2821fcecc607695c9b4
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 21:29:09 2021 +0000
+
+    adding images.
+
+commit 17fc772e53e29447382c2c18573dda885cbc2b9a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 21:16:17 2021 +0000
+
+    adding images.
+
+commit 1776ca7d072c5f5b021689117549d8f86297feee
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 20:21:19 2021 +0000
+
+    adding images.
+
+commit fcdd7c382ff939e5b7400e0ff153a64734e716e4
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 19:35:56 2021 +0000
+
+    adding images.
+
+commit 6aa3ec62907cc5f4b16aaca43eb330287e11623c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 19:10:17 2021 +0000
+
+    adding images and overviews
+
+commit 633254e987ae11c3be41fe2849b961a44519455c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 19:07:47 2021 +0000
+
+    adding images to galleries.
+
+commit 91290c986717a3688b2d2d713b2203a6e2cde1dd
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 26 18:40:55 2021 +0000
+
+    adding images to galleries.
+
+commit 28ff7a5ce77dd6bbda77a01a59deed85611e2b9d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 03:47:16 2021 +0000
+
+    fixing problems.
+
+commit f1692c4692ba8085b9a9d9eeb41c0490a38c46bb
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 03:42:51 2021 +0000
+
+    testing.
+
+commit ed6c7f8e346b4ea5666b5a91525d427e5fad2be2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 03:38:35 2021 +0000
+
+    testing.
+
+commit 57845d5bd82192f22bf0f153ff20256011bd34fa
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 03:36:47 2021 +0000
+
+    added media query for resizing image set.
+
+commit 4d9654af8112be5b88d5bc9e3f0d1dc645a81491
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 03:20:38 2021 +0000
+
+    testing.
+
+commit 3f7e6d256bf1afc22cff1a5b0891ae905279d469
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 03:13:33 2021 +0000
+
+    testing fix.
+
+commit fda04a82aaeddb8c20d7f23c8d5d9f8abcfcdb60
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 03:09:45 2021 +0000
+
+    writing media query trying to fix a problem.
+
+commit 5bbd0d95aac2d8e7314564dff88af99a7aea6cf9
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 01:47:01 2021 +0000
+
+    have been trying to fix a small issue with the footer and topnav displaying a small amount of space on mobile view if you zoom out.
+
+commit 4bc5cb04003620e4b0f7aab83b31af59db85236c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 01:30:27 2021 +0000
+
+    fixed footer.
+
+commit d1840114d5fc20a910c32ff420acab4844ab5c3e
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 01:27:45 2021 +0000
+
+    working on mobile view.
+
+commit fe573b37b1f9f19c4452e2d2f0bc7079bd5730ce
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 01:16:45 2021 +0000
+
+    testing.
+
+commit c90d50c1bbdcde0ae9a0c1f9c5466d7c042f36ec
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 01:06:24 2021 +0000
+
+    finishing up galleries.
+
+commit 76a55b2d304c93876091e3cbe3d510f8a340d00b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Apr 25 00:54:03 2021 +0000
+
+    adding overview info to galleries.
+
+commit 11c630f310bfe2e19660ef35e88f352b5d0c281d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 23:54:31 2021 +0000
+
+    adding images to galleries.
+
+commit f506655f3b53c6f5bfc4884f4a809933db6b2d91
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 23:23:09 2021 +0000
+
+    set footer to 100%  width
+
+commit 8b81bf3a1f4e967d075d67a6aa969da53f13f02f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 23:20:14 2021 +0000
+
+    adding pictures to galleries.
+
+commit 7e6e7fc5f631afe1e3b5e76f75f4bf736742e770
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 21:40:21 2021 +0000
+
+    saving b4 aws can screw me over again.
+
+commit e35cc26093f9a694a46222027ddfc2f470d00441
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 19:50:19 2021 +0000
+
+    testing.
+
+commit 3694b45e61271c3b3a10db24269e1ab4219a5924
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 19:44:22 2021 +0000
+
+    still working with iframe.
+
+commit 392f8c7ad731ea49eee15d8754efa63cc126cdb6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 19:42:05 2021 +0000
+
+    testing iframe.
+
+commit b6b36e1369f736c42b6198897be7935735558f06
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 19:34:59 2021 +0000
+
+    The iframe is the problem. Trying to fix now.
+
+commit 5f972d757bbb79d9b922d0cdaae33e0842e02996
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 19:31:55 2021 +0000
+
+    removing iframe to see if it is the cause of the problem.
+
+commit d163a3370796feca7ee6d4064f429ef72898962a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 19:22:13 2021 +0000
+
+    testing.
+
+commit 92b1b81fc733bd843761f8c7934f416b32241923
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 18:56:53 2021 +0000
+
+    styling and testing everything one last time.
+
+commit e4ad8b39fa8018bc3a1cf21b362f647d3a40a79a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Apr 24 17:02:18 2021 +0000
+
+    fixing footer on mobile view.
+
+commit e0d98fff5aa6a0ca561025f3179d43240714ffbd
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Apr 20 23:52:39 2021 +0000
+
+    fixing a problem with my galleries.
+
+commit 53211e137d5a53e8d4650f86a4182c2a12975811
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Apr 20 23:16:46 2021 +0000
+
+    populated galleryCave with images.
+
+commit 8ec5f4742964b3c467819a17d2cc11355fb52fe6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Apr 20 22:09:14 2021 +0000
+
+    fixed overview.
+
+commit 5ab0d799bbcd82e234ae3b844510c4f6884f7b44
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Apr 20 22:04:05 2021 +0000
+
+    completed galleryBridge. Populated Gallery and styled it.
+
+commit a1973409ae383699b8e698b01ed650947199e447
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 16 00:44:03 2021 +0000
+
+    Best I can do for right now.
+
+commit 63eace2b709d8f73c8ee349dde9fc9c25da6b5b9
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 16 00:23:55 2021 +0000
+
+    think I fixed the problem. went back to fixed footer.
+
+commit 561c7d26545a3a7ceee00c657b51d0a4b2b9f4cb
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 16 00:17:44 2021 +0000
+
+    testing.
+
+commit fca9aa240e81a307a7ea651b1a004c874ebfa82c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 16 00:13:43 2021 +0000
+
+    testing
+
+commit 04fec6ccc50601ee773101e449d3a201e8ea42a3
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 16 00:00:09 2021 +0000
+
+    testing.
+
+commit da2d642c8749f79e54db8f175c6cbe1ea1d222ba
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 23:58:20 2021 +0000
+
+    testing.
+
+commit aa3f992dd469321d62238bf3501dc92d44187126
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 23:55:37 2021 +0000
+
+    adding text to push footer down.
+
+commit 78637c7f5472644d6e0e43a14f0cbd68f44d43da
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 23:53:54 2021 +0000
+
+    trying to fix footer.
+
+commit 0bc694ad05b5ffa70977f472edd4958da856c8ef
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 21:44:21 2021 +0000
+
+    linked search.html and searchactors.html to home page.
+
+commit 43d1536bf1a6904d066e858b36fa223eb971bc99
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 21:40:21 2021 +0000
+
+    added connect to topnav on landing page.
+
+commit fb3492f9f1e86428592e7961a687aca52ac19809
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 21:37:38 2021 +0000
+
+    Working on galleries.
+
+commit 58680763387442f3f6e28bc15d0a3a7044a0601a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 21:25:22 2021 +0000
+
+    working on galleries.
+
+commit 34968ade7aa02d35faecb95dcf34357dcc5c0471
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 21:07:32 2021 +0000
+
+    working on galleries.
+
+commit 669537b546236dffbf90af1a19b5aa18f39bf675
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 20:37:46 2021 +0000
+
+    working on galleries.
+
+commit 58affb3ccb878ed399be5a42c829f9c0122c503e
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 20:06:44 2021 +0000
+
+    finishing up galleries.
+
+commit c8a76a14ce8178c94c723f306c9c505648ada926
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 19:10:23 2021 +0000
+
+    finishing up gallery pages.
+
+commit 71d1b2366e004dddcc2eb061d35d04ee87d33b46
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 18:27:29 2021 +0000
+
+    working on galleries.
+
+commit e3bcb7783221cd6f445f2c5971f85aa5795ad350
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 16:42:14 2021 +0000
+
+    trying to fix problem with topnav.
+
+commit c05634b5c95eb5d6a5e9d0061e9e70994bd3b7e9
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 16:15:25 2021 +0000
+
+    styling
+
+commit 6d69e1fae4b0d31e097aa094b298a0cd4f3e1927
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 15 15:59:13 2021 +0000
+
+    Cleaning up project.
+
+commit 122c8552b829af53b2a920fac31a6772312fc7f6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 20:45:30 2021 +0000
+
+    fixing and testing microdata.
+
+commit a8d4a0bcc1d8549fa943a28dcf21036550397b5b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 20:29:59 2021 +0000
+
+    testing microdata.
+
+commit 83c2bd5299a1504e0037349a0708bda37b4118d0
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 20:28:21 2021 +0000
+
+    testing micro data.
+
+commit 6d1c8cdd8043d1d23c2d89b557badc15897700d4
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 20:24:34 2021 +0000
+
+    fixing and testing microdata.
+
+commit 6c48738b12dbc10be41627ec025a65e458179ab6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 20:16:52 2021 +0000
+
+    fixing links and testing.
+
+commit 385730325174ecdc441dd6ede89020fc5047fc25
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 19:59:45 2021 +0000
+
+    styling and testing.
+
+commit 02211ac11e38f6492557d530dacc6f406642638b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 19:09:30 2021 +0000
+
+    saving.
+
+commit 82312378175b7f6c5b15ed5d6ceb475f734f4dbd
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 19:02:28 2021 +0000
+
+    styling and testing.
+
+commit 89ead22c1f47e1bd355a718ef18aa5f8dad36896
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 18:53:56 2021 +0000
+
+    added back to top button for famous.html
+
+commit 4b191722b5aedac2ebf960e4c9e41d7e4cbd75d7
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Apr 9 17:55:25 2021 +0000
+
+    styling nav on famous.html
+
+commit 1fa016dc8f16feb00d853acfa20816fd4b6742ad
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 8 22:02:28 2021 +0000
+
+    relinking my capstone2 project to my portfolio
+
+commit 6cd5150fb32609fb0140dc059f257ef0dd96333c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 8 21:59:05 2021 +0000
+
+    finally done hard codeing famous.html with all the data I could find.
+
+commit d4a8f0f03d251ce3ea11e0119ca80012d076cc6b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 8 20:26:15 2021 +0000
+
+    still adding content to famous.html.
+
+commit 8aad35432ff355da74972d8bde4ef8d70d963b66
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Apr 8 16:31:47 2021 +0000
+
+    adding content to famous.html.
+
+commit 8daa7a1cc513646859063dbb3ce1d6c0a8a67a59
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Apr 7 23:20:44 2021 +0000
+
+    adding content to famous.html.
+
+commit 7fb386f7889d3e826ec7f1c84166a4c6a2e94f6d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Apr 7 22:11:07 2021 +0000
+
+    something is wrong with aws. It wont update/save my work. Going to come back in an hour.
+
+commit 99cfdf14a178fc9400b821a068110900b842893c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Apr 7 21:48:56 2021 +0000
+
+    moving my files around because aws doesnt seem to see the capstone2 folder when I try to push to github.
+
+commit eeb5402377ba567a5e9d388421f0f6e4c20c8dc5
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Apr 7 18:48:02 2021 +0000
+
+    working on famous.html. Just finished nav with anchor links.
+
+commit 7381e7922ad22cb1c7d46fb39f7bfb8c3238bf0d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Apr 5 22:37:46 2021 +0000
+
+    splitting my landing page into 3 sections.
+
+commit 732bf35260f6a9ee00b98d1be643cd8f50c001c2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 02:54:14 2021 +0000
+
+    styling and testing.
+
+commit 507404a91f5a37275851d3a0b72d3888db9e9643
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 02:47:12 2021 +0000
+
+    styling and testing.
+
+commit 433f669e750bc18d47eb00428bb993221ca77ab4
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 02:40:09 2021 +0000
+
+    styling and testing.
+
+commit b05436c315e0d16d880ae1e3a7cc8c93b0126380
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 02:32:54 2021 +0000
+
+    styling.
+
+commit 0158e8371190fdddb676599faeeac245988fcb1c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 02:23:23 2021 +0000
+
+    styling topnavs.
+
+commit 09780e0257d8616fa7aeb98293c890bd3aa35c36
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 02:15:53 2021 +0000
+
+    styling
+
+commit 99f6fa44ec0794b86c7f29f7eecdbf24dc0c0320
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 02:14:17 2021 +0000
+
+    working on styling. testing on personal mobile divice.
+
+commit a2905696fbf8856addda89434d169bfbe722e856
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 01:56:44 2021 +0000
+
+    doing some styling.
+
+commit 7a64a9e68c39ce9e14833ae7eb1ea72928076711
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 00:52:02 2021 +0000
+
+    added a break.
+
+commit 962b56fd8bc6dd70500daf7558ecf736fc9e4e08
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 00:31:15 2021 +0000
+
+    removed hr that was causing a problem.
+
+commit eba378170b5c60665d72255dbeb6b33a6bc7a5cb
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 00:08:58 2021 +0000
+
+    still working on color scheme for homepage.
+
+commit 866efc90e65e783ca7d9c2209e77ea0b1b27f6a3
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Mar 26 00:04:34 2021 +0000
+
+    trying to get thing to match the color scheme of my background image.
+
+commit 0de4f6816532bdbbfde8f36d1bc73d344f957615
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 25 23:42:54 2021 +0000
+
+    worked on background image and css for things pulled from the movie db.
+
+commit 6efea6dfb3945d52be0a597f5d54ecdf5ee770cf
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 25 21:47:09 2021 +0000
+
+    something went wrong and my work got skewed. I believe I have it back to where it was.
+
+commit 013dec41f4ed134679b4a9dea8eeb943aced4c5a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 25 20:52:27 2021 +0000
+
+    removed old link.
+
+commit 1a50f6d2925afe530271ced38d544be53e03e11d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 25 20:37:21 2021 +0000
+
+    took out link at bottom and replaced it by making header a link.
+
+commit e835e7ba34e78ea31374aded9322d51446a520d7
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 25 19:40:27 2021 +0000
+
+    testing hero image.
+
+commit 269eb9bbb5a1eda9f70ef5b68cf37fb4dc465394
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 25 19:37:35 2021 +0000
+
+    changing width again on hero image. mobile breakpoint.
+
+commit 447ab8a05b5b7f4c16cd67b31a729ba5a8e0dea2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 25 19:29:33 2021 +0000
+
+    changing hero image width for mobile view.
+
+commit 4750bba771264f148b56e5b456694ab493aa8298
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 25 19:24:19 2021 +0000
+
+    trying out new hero image I made.
+
+commit 0fe04c2775b92a1d235afc9001da219c0567d23e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Mar 25 14:08:18 2021 -0500
+
+    Add files via upload
+
+commit afd0d0105b9a470d4242c1b5a6de93946e092932
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Mar 25 14:08:03 2021 -0500
+
+    Delete Arkansas cinema hero image.gvdesign
+
+commit abf1092a39dac8b7ce6776869e13341470916357
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Mar 25 14:05:06 2021 -0500
+
+    Add files via upload
+
+commit 109d65bef25b4f5990f4be480c9a1d278bc64111
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Mar 23 01:49:51 2021 +0000
+
+    still working on media querys. changed background image for slideshow.
+
+commit 4fff45554eeccff56bebeac76c61e98d3eca2e44
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Mar 23 00:45:01 2021 +0000
+
+    created media query to resize image1 for mobile view.
+
+commit c50bb23dda5b58ce42432439b8160d00f833db61
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Mar 23 00:41:39 2021 +0000
+
+    styling image1 my main image on drop page.
+
+commit 0dc007ad9acdfc403a09ff3ee4fc29d90f73cd15
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Mar 22 21:24:42 2021 +0000
+
+    made media querys for different screen sizes and tested them.
+
+commit 01f73eeabe1d25e4aa8d5c0a5ebf4f1b0e1aa041
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Mar 22 21:07:11 2021 +0000
+
+    not sure if the last push took
+
+commit d1e784e21ddfdb69806c54cbbda2bf1dec2fb70a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Mar 22 20:59:49 2021 +0000
+
+    testing media query breakpoints for background image. mobile view.
+
+commit c969a9f8643cb4973a39c10e006b826294abdfdc
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Mar 22 20:50:13 2021 +0000
+
+    working on making media querys for my background image.
+
+commit ba768baed3423f488069bebc6c81ef09c0090f8a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Mar 22 20:30:48 2021 +0000
+
+    used css to make background for slideshow img gallery fit.
+
+commit 109acc67a24bce74899744599e85f25218c2bfdc
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Mar 22 19:02:28 2021 +0000
+
+    working on promoting websites overall theme.
+
+commit 1e735b7579736b46ddedad57cf4d7236736c2285
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Mar 22 17:21:24 2021 +0000
+
+    made my gallery on home page smaller and centered
+
+commit f9985b6d73302923728fc4d3dbea71c08a6c6c74
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 19:51:30 2021 +0000
+
+    the name of one of my galleries was misspelled. I corrected it.
+
+commit cf9f731d386d1d9912f1b3347eafbe77b7aae4dd
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 19:48:49 2021 +0000
+
+    somehow my active home button in the nav bar got removed from one of my galleries.
+
+commit ee06d4f650423f52b227e880dc22ae131438e020
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 19:33:34 2021 +0000
+
+    still fixing problems.
+
+commit 2bf3f5ebca5a108ee5ba337fe035b7c37ba04ca6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 19:29:26 2021 +0000
+
+    I think I had readded all the missing files from when I was using VS.
+
+commit be7404e0ca0fefa1c1736a40a1f241488d334cb6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 19:15:52 2021 +0000
+
+    fixed mistake caused by changing IDEs.
+
+commit 4bd0ebaaba7ccaa533103bef388e16deb6817f7a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 19:13:46 2021 +0000
+
+    forgot to add explore to the topnav on landing page.
+
+commit 000b473dc08f5a11a1d1387cea38b1292cdc4850
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 19:08:10 2021 +0000
+
+    I think I got everything moved over and corrected.
+
+commit 88d057ad01a517a77b3096a2754eff1eb4ecb01a
+Merge: 6937275 ed16a6a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 18:47:58 2021 +0000
+
+    still trying to get changes to go through.
+
+commit 69372752331e4df1793f75861759a249d27d2a0a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Mar 4 18:41:00 2021 +0000
+
+    modifying files to reflect changes I made while using V.S.
+
+commit ed16a6a29cb77c76edb3588249141d615ac5b9c3
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Mar 1 17:39:59 2021 -0600
+
+    no message
+
+commit fe5b471ce65262cf698f2b3d392ce7417ffb7f94
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Feb 26 19:40:30 2021 +0000
+
+    adding info to galleries.
+
+commit 9fe2a786e9485e369e3e6a388903598d2971b652
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Feb 26 18:58:37 2021 +0000
+
+    moved navbar.
+
+commit 7c80ced1b6fc6980f8e8de230d8c895c3ca5fb02
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Feb 23 22:33:00 2021 +0000
+
+    still working on navbar.
+
+commit a1ee6410e0574b672d96b2d55de09775b2407524
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Feb 23 21:50:45 2021 +0000
+
+    finished changing other button groups into navbars with drop downs.
+
+commit 467a907f3dbf03079f79d590b7269240c1a0666b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Feb 23 21:34:11 2021 +0000
+
+    switching from button group to cleaner looking nav bar with drop downs.
+
+commit 8c3e2e2a6fa4b311037eecf038d606cba33bcdaf
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Feb 23 20:50:34 2021 +0000
+
+    changing button group to navbar.
+
+commit 564bb37e0bc670550a71664fa8283a45fa1ece15
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Feb 23 19:35:23 2021 +0000
+
+    trying to make subcatagories for some of my galleries.
+
+commit b5d06c3a1b8ccc3dc46bf31f3850a7dcb9b8c2e1
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 22 22:46:29 2021 +0000
+
+    forgot to add the viewport meta name.
+
+commit 864f2d37d1f8bc9f333958afb69de06ad743cec5
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 22 22:35:40 2021 +0000
+
+    Made galleries all responsive.
+
+commit b61db6100f85f65748cbf28df936620f684392e2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 22 19:14:11 2021 +0000
+
+    saving work.
+
+commit e5536b58c0080f9d30e1d8c77600e253494e424f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 22 18:19:52 2021 +0000
+
+    fixed problem I was having. All 4 columns are now presant.
+
+commit f797e9c16c68112c3cbf07f2d7b397bee2287041
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 22 18:06:57 2021 +0000
+
+    trying to fix a problem with image gallery not be responsive.
+
+commit 7e613900e33d308dc9975f29bb556090a7945fd2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 22 17:45:16 2021 +0000
+
+    trying to make my descriptions reactive. As of right now some are a little strange looking.
+
+commit 87b57fece6e429999b3e0927ab253c4190e93173
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 22 17:37:25 2021 +0000
+
+    I think I successfully made one of my galleries reactive.
+
+commit 4bc447216360a6d0fc0a3c13a7c5d0afe15214c6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 22 15:31:32 2021 +0000
+
+    galleryPage got renamed and disabled link. Now Fixed.
+
+commit 83e8c8274ad6b8ed29b43359a545c9ead7022eb1
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Feb 9 02:11:57 2021 +0000
+
+    added more catagories
+
+commit f8f9b64c5954ee7629cfabd44f42b8da498c5c6f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Feb 9 01:08:45 2021 +0000
+
+    removed 2 catagories from button group
+
+commit b0eca54cf5bbd630be3b689f8a68ed2ac83fd701
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Feb 8 23:11:09 2021 +0000
+
+    made more gallery pages
+
+commit b6bf7878cfe7e9171a2883c4bdea952dc44a8f44
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Jan 31 20:20:17 2021 +0000
+
+    adding another gallery with some pics
+
+commit 2ff67f2de2b0cc8cd582fa60f7dad8bd49ac7025
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 31 14:05:20 2021 -0600
+
+    Add files via upload
+
+commit f341438c27914bd5e9d7a8cce9bfbbfd4ce7931e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 31 13:44:48 2021 -0600
+
+    Add files via upload
+
+commit b5e83aaa0be2acb178ac4662a97b36159076e97a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Jan 30 22:51:37 2021 +0000
+
+    Created scaffolding for galleries.
+
+commit 1d900fb8151ee089bd5067c4d7b556e6c5e92c32
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Jan 30 22:37:38 2021 +0000
+
+    making gallery pages Using buttons as links to each gallery page.
+
+commit 39d0582686f0040aa494843d2acc6d2673430b7c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Jan 30 21:00:52 2021 +0000
+
+    added another header and tried putting search bar in the middle of page
+
+commit fb1b26b7ae63d5516398f00157bc8b19b46da510
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sat Jan 30 20:40:48 2021 +0000
+
+    added new img and header
+
+commit 12e13cc76bf9a322531fa2227e3dc64af6ec3dd0
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Jan 29 19:05:06 2021 +0000
+
+    modified some of the css code
+
+commit 8a50e65273f2d0cdbf17ee7c0beb666b5f3f4f4c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Jan 29 18:09:08 2021 +0000
+
+    readded new html page for Arkansas and its link to the filming industry.
+
+commit 5324ff9078459f9b60293c9816b50ba968efd352
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Jan 29 17:57:43 2021 +0000
+
+    changed size of release_date
+
+commit f5757d751fd5468d2a8581e276b178e4fa009baa
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Jan 29 17:49:27 2021 +0000
+
+    I think I fixed the commit issue I was having
+
+commit 7364708752ec71b80d71ec583e2bb99153ea4410
+Merge: 7caab9b d00d1a0
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Jan 29 16:38:21 2021 +0000
+
+    Merge branch 'master' of https://github.com/jbmitchell1/portfolio
+    
+    g
+
+commit 7caab9b23cdc58cb380c8d1112b2f8a9fb32729f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Jan 29 16:37:10 2021 +0000
+
+    Having issues with pushing to github
+
+commit d00d1a0001afa7e0d9d1752a55434736f17fb4df
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Jan 28 14:31:25 2021 -0600
+
+    Delete ConsoleApp1.zip
+
+commit 28f09c6264f8eda61a580432716ee477f43a5a17
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Jan 28 14:29:42 2021 -0600
+
+    Delete Capstone 1 Layout for results page.png
+
+commit 7e29bd2677ed548b29b78b69ed846f979b6db5b6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Jan 28 14:29:25 2021 -0600
+
+    Delete Site Map 2 for Capstone Project.png
+
+commit 031bc2920805247b378e1fb97334624b8033fa8d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Jan 28 14:27:39 2021 -0600
+
+    Delete Lake-Ouachita-map NEW.jpg
+
+commit d76ba4989c1e10c47478ea9a262252d292f8cfe8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 20:38:48 2021 -0600
+
+    Delete apitest4.css
+
+commit 4edae20dd428fd193a6ca8e75aaadbf85f32fc68
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 20:38:00 2021 -0600
+
+    Delete API AJAX JQuery tests.txt
+
+commit e9ad377b9b2a271623ad3efe918a7fdab87a45f8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 17:57:55 2021 -0600
+
+    Create apitest4.css
+
+commit ef23aec3525e3a1f81698d6f28d75778efa604c9
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 17:56:34 2021 -0600
+
+    Update API AJAX JQuery tests.txt
+
+commit 4653eecc7805e82a644456cdee372da95cb9ca72
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 14:46:15 2021 -0600
+
+    Update API AJAX JQuery tests.txt
+
+commit b3bf547d6198696020eb984d1f715f1e4153475c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 14:18:27 2021 -0600
+
+    Update API AJAX JQuery tests.txt
+
+commit 4a98497921351ab1cd0a5f7d43308da3a51b5fc7
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 14:01:02 2021 -0600
+
+    Add files via upload
+
+commit 1ee181f057e98597324cf34a8098a7fe27cf7a8b
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 13:57:48 2021 -0600
+
+    Delete The Movie DB Tests.html
+
+commit 944aff35893b1fd9c58e666823ef3a29d2ecd3d9
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Jan 24 13:57:28 2021 -0600
+
+    Delete The Movie DB Tests
+
+commit 676effdf46dc46b5f8c085375b05bf5bce90accf
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Jan 19 22:35:24 2021 +0000
+
+    fixed problem with links
+
+commit f4e1fef49f2e8f981deb7851d2a0d8cb31da503f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Jan 19 22:23:47 2021 +0000
+
+    connected content page to nav bar
+
+commit 629f87e7164871b089ef267561957634590ab621
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Jan 19 22:12:26 2021 +0000
+
+    adding content to Contact page
+
+commit fa1a8e97cb1466272bc7269aa4c8974129c388a6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Jan 19 22:00:51 2021 +0000
+
+    fixed problem with search bar and button that was messing up the search
+
+commit c9dfe14283bdb79aae0ee50f163af4928a3a42e1
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Jan 19 21:49:44 2021 +0000
+
+    last commit did NOT messup mobile view it was already like that
+
+commit 9cfbdad589998507f5c368bc4aa24d07bc665586
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Jan 19 21:46:13 2021 +0000
+
+    last change messed up mobile view
+
+commit 66b0e7deb5642578238327787df3be9274d7e448
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Jan 19 21:35:42 2021 +0000
+
+    changed search bar/button and retested moviesearch function
+
+commit 6c91aa58b2dd64bc84a4e6324c29faac324bc8f2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Jan 19 19:35:31 2021 +0000
+
+    Begining to work on website again
+
+commit 4f317f6b0329633616f6388c7d2a913d7f997066
+Merge: b306a7a 8a4b44e
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Dec 16 07:50:05 2020 +0000
+
+    Short Description about Changes
+
+commit b306a7a1afcb8176265f8c64e846411079639029
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Dec 16 07:47:53 2020 +0000
+
+    Short Description about Changes
+
+commit 8a4b44e893b7464154384ac8c1f7b68f99bff25b
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Dec 16 01:47:07 2020 -0600
+
+    Add files via upload
+
+commit 60b20ed74facbe2db9ccf5c9e75fe18fb8afc32c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Dec 9 20:03:41 2020 +0000
+
+    Short Description about Changes
+
+commit 429cf1c796f711988112b64668d8bc6872fd9a77
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Dec 9 19:58:00 2020 +0000
+
+    Short Description about Changes
+
+commit 9129038592dd828b09fa190c8044bca0c7efe0f1
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Dec 9 13:46:34 2020 -0600
+
+    Add files via upload
+
+commit 3f069387bc13f7e7e44b4029aee24c4c9ae0a525
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Dec 9 13:44:40 2020 -0600
+
+    Delete AMDB Site Map.png
+
+commit 44f17bba3503417e5739cf45c5a01e54dc8839cc
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Dec 9 18:32:09 2020 +0000
+
+    Short Description about Changes
+
+commit d1fa8241c23d2ccbbc36d7dd5a9b4cc024407270
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Dec 9 18:26:30 2020 +0000
+
+    Short Description about Changes
+
+commit 86c96bb6e565e954fab2414226e1fb51c5daf20b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Dec 9 18:07:27 2020 +0000
+
+    changed navbar
+
+commit 0cbf8b25289251e1b852c3c7fa06bba20bfc148e
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 23:43:07 2020 +0000
+
+    Short Description about Changes
+
+commit ebbff0cf02077456b0b58dc9771c1f41a1f2f798
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 23:18:19 2020 +0000
+
+    Short Description about Changes
+
+commit 41cb0b799019b6e5f6cbb6daa8d72d79afa6acdb
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 23:13:58 2020 +0000
+
+    Short Description about Changes
+
+commit a5d33023042cf676a63ad92496e31148fc457d45
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 23:08:49 2020 +0000
+
+    Short Description about Changes
+
+commit 71c9a2fb374a5dd207d148db9493150bf380c699
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Sun Nov 29 16:59:21 2020 -0600
+
+    Add files via upload
+
+commit f84e0aaaec590e9ed0db8c2f06f1ad04ff63cb09
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 21:47:42 2020 +0000
+
+    Short Description about Changes
+
+commit 5549aba1a997c0921d3378d16870f7206f8edf33
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 20:59:34 2020 +0000
+
+    Short Description about Changes
+
+commit a1aee16048decf2b105a7a8530b6460d18fc3a2b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 20:52:50 2020 +0000
+
+    Short Description about Changes
+
+commit 417f7b9039e6c4d572e10a01da7a3e2cf1e6d825
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 20:50:48 2020 +0000
+
+    Short Description about Changes
+
+commit 4bdff636085a98acc8ca1b9ffbbe0420958c8384
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 20:46:22 2020 +0000
+
+    Short Description about Changes
+
+commit fb9e40b851ed325a115331af3d1318fa1d2232df
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 20:23:19 2020 +0000
+
+    Short Description about Changes
+
+commit 2df5085bd86796ce5f6f3d48d26da087dc1af22b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 20:12:30 2020 +0000
+
+    Short Description about Changes
+
+commit 9bca1d404d8ad4092326268acfb3ee63cd59de41
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 20:09:14 2020 +0000
+
+    Short Description about Changes
+
+commit 3b23757cce26a35d5ae98002dd7443aa48e8974b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 20:04:49 2020 +0000
+
+    Short Description about Changes
+
+commit 61ddf7f21879d611bd7c73a36e396cef47e820ce
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 19:56:34 2020 +0000
+
+    Short Description about Changes
+
+commit 1645726cde97b181825d780a68c24563ff0b448d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 19:54:32 2020 +0000
+
+    Short Description about Changes
+
+commit 5e7ddb9a33c1c30427b755b590c90a6c7bf79d93
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 19:45:24 2020 +0000
+
+    Short Description about Changes
+
+commit c325837176094ac136a3d2730acbeb8372a4fe3d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 19:43:38 2020 +0000
+
+    Short Description about Changes
+
+commit 7cf2c35df1627ca2891bc575dee046dd6d5ceaa9
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 19:40:18 2020 +0000
+
+    Short Description about Changes
+
+commit ceadb326aeec028636782807e17cb1b7d4e6a6b2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Sun Nov 29 19:14:27 2020 +0000
+
+    working on webpage
+
+commit 5357636d4339a87ced11ce5520c07fcd57c2bf4a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 23:17:23 2020 +0000
+
+    Short Description about Changes
+
+commit ced1078ed449e415bdc7645a73a40ddaba2e046c
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 23:08:02 2020 +0000
+
+    Short Description about Changes
+
+commit 89f2791047bfde022e39a5870e9386374688a6eb
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 22:51:21 2020 +0000
+
+    Short Description about Changes
+
+commit ca7504e61b8c37bf4569e102f85fc509b777f604
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 22:47:30 2020 +0000
+
+    Short Description about Changes
+
+commit e0d0071dab4405c1f900719d8ce63b9e16e3df93
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 22:43:44 2020 +0000
+
+    Short Description about Changes
+
+commit b9210c39d4f27c5a0621e7b91326e7619dfa4158
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 22:37:51 2020 +0000
+
+    Short Description about Changes
+
+commit 7baded9613e7185de4a49ed05db613c60a6035fc
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 21:34:45 2020 +0000
+
+    Short Description about Changes
+
+commit dd3324e5de3abf871ef9639bc027a63ee37c775f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 21:24:08 2020 +0000
+
+    Short Description about Changes
+
+commit 79304006e971c91056c37da5941aeb6c1a28ba81
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 20:55:35 2020 +0000
+
+    Short Description about Changes
+
+commit 641076b56b469b6464acae18521f8b24ee925ef8
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 20:23:32 2020 +0000
+
+    Short Description about Changes
+
+commit 02bef6cb9a373eed7582c4bbb22dac21b20917da
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:42:56 2020 +0000
+
+    Short Description about Changes
+
+commit 8939d8f3a747e05e0356529d0ac5d46ee24c475e
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:37:43 2020 +0000
+
+    Short Description about Changes
+
+commit 407a5fb5c766846357b32d21d14ae0d70c36e084
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:34:39 2020 +0000
+
+    Short Description about Changes
+
+commit 502f83ebb53ae453afdd5aac19a246fda1835cd0
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:27:07 2020 +0000
+
+    Short Description about Changes
+
+commit 2f78c7da0fa592df087f511cc3d7da76641692be
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:25:48 2020 +0000
+
+    Short Description about Changes
+
+commit 5c58e45500cbbd6f07b38d3bf382af31520ff12e
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:20:10 2020 +0000
+
+    Short Description about Changes
+
+commit b2551169625891aaaff0a05162303e95496dcac6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:18:27 2020 +0000
+
+    changing map positioning
+
+commit e10697202575b9cb445d9acbb90a9b386d5072bd
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:11:00 2020 +0000
+
+    Short Description about Changes
+
+commit aa618b6bad91d73573a2c78207247370febebd9a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 19:00:33 2020 +0000
+
+    Short Description about Changes
+
+commit e646feae8a820b6ecbcf380d3fa8254e14772b01
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 23 17:19:17 2020 +0000
+
+    added text scroller and pics to slideshow gallery
+
+commit 36606e8f2012a35b3e900159b42fa6ba459f5eb8
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 20 03:04:49 2020 +0000
+
+    Short Description about Changes
+
+commit e0497a93eee436576dc5b6738defbce300d593bd
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 20 02:53:25 2020 +0000
+
+    tesing open in new window function
+
+commit a8a2b64aa2cedc09bf29d8b8ad0181091eea6c6f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 20 00:12:08 2020 +0000
+
+    Short Description about Changes
+
+commit 8151671bf9263437544a1ae3cb628843bc83b85d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Nov 19 21:38:54 2020 +0000
+
+    adding work on my AR movie db project html webpage
+
+commit f2d9906204d72a7e3ff38a65444cb684a3cd0197
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Nov 19 21:28:29 2020 +0000
+
+    Short Description about Changes
+
+commit e3d7f2ec71dfd3e4ec9d89223a23609e89981d26
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Nov 19 17:32:27 2020 +0000
+
+    Short Description about Changes
+
+commit 455e18c72db86b7ec019db7077994ad6d872937e
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 9 20:09:41 2020 +0000
+
+    Short Description about Changes
+
+commit 2b0c15d4c3b6fccccd757737a69fccac7ec5174d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Nov 9 20:07:48 2020 +0000
+
+    added a zip file to my c# .NET app
+
+commit 026f4d41bc93b3b539df4de4f0fb872e4d02115d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:58:08 2020 -0600
+
+    Add files via upload
+
+commit b9b8cebd01c3fe054436f6627507e67ef6d1d361
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:53:16 2020 -0600
+
+    Delete bens resume capstone word revised.docx
+
+commit 39b02cde9a0ad7f6908b2f402149e203e9703895
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:53:08 2020 -0600
+
+    Delete empty.txt
+
+commit a5077969760be1f633e67370a8f2440a99fa61c6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:38:38 2020 -0600
+
+    Delete GUI2.java
+
+commit 79f26bb2130abb1b85be48acf9531b70a4330281
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:38:28 2020 -0600
+
+    Delete Ingredient.java
+
+commit 4c0008e70eb8fc52bdb46c02fc325c4ad3658583
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:38:18 2020 -0600
+
+    Delete IngredientNameComparator.java
+
+commit a11298ec8cba0583e07815a705b80cccf1a68697
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:38:09 2020 -0600
+
+    Delete Recipe.java
+
+commit 85debe79df7fc28213b4ae119a431b73ee44145d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:37:59 2020 -0600
+
+    Delete RecipeManagementSystem.java
+
+commit 2231e3a404affd3ea2448639226dd48ecf2a65d9
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:37:50 2020 -0600
+
+    Delete RecipeNameComparator.java
+
+commit a7cece00468a6f8bdae4c04a43d491a2549aac14
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:37:34 2020 -0600
+
+    Delete build.xml
+
+commit f94823e509f22f7dba93fa66ffc001d05e572b8a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:37:20 2020 -0600
+
+    Delete manifest.mf
+
+commit 4883b9c01ca2e8269aea032034396a99ac714531
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:33:47 2020 -0600
+
+    Delete private.properties
+
+commit efdeecf7e13fdde45f26598ec22857e6efbcf338
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:33:36 2020 -0600
+
+    Delete build-impl.xml
+
+commit 7ee6727059e41a1f7f61b4758a9280ea447b5a5a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:33:26 2020 -0600
+
+    Delete genfiles.properties
+
+commit fc7f535417317e0a43d5a44e38eabe7f05c1db45
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:33:14 2020 -0600
+
+    Delete project.properties
+
+commit 5e89b9845b089472dddcd56fc7ab5b7ba9bcc39b
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:33:03 2020 -0600
+
+    Delete project.xml
+
+commit e44ebeb448e3c37401b041d18120d92e0d38cdfa
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:32:51 2020 -0600
+
+    Delete GUI2.form
+
+commit e977b010af72dc61a74ff7fafd9c1eeca35d0f16
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:32:20 2020 -0600
+
+    Delete GUI2.java
+
+commit 145448a92f1c1f2c139afbe2c135282f17003cfb
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:32:11 2020 -0600
+
+    Delete Ingredient.java
+
+commit 617307c7aa185285ab741a496f1da6248da1f88c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:32:02 2020 -0600
+
+    Delete IngredientNameComparator.java
+
+commit 18f4898fb1affd27cf3f0db1467357ce31b3b120
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:31:52 2020 -0600
+
+    Delete Recipe.java
+
+commit 050dab1420fe7bcb8ce7a93c0aa99edfd5507e05
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:31:39 2020 -0600
+
+    Delete RecipeManagementSystem.java
+
+commit a3ace7f44439f3d1641fbd9c6ca49ca58d473d9f
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:31:24 2020 -0600
+
+    Delete RecipeNameComparator.java
+
+commit 01377adffe329ce7336f4691f304907735ae6793
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:31:10 2020 -0600
+
+    Delete GUI2$10.class
+
+commit c6f49638ab5f4eb8107f1c26d927eccde292ab0a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:31:01 2020 -0600
+
+    Delete GUI2$11.class
+
+commit 2b7cdc9890228b909f9137ab82cffb4fbcd73b00
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:30:54 2020 -0600
+
+    Delete GUI2$12.class
+
+commit 3e939d09d2345c4e483faf758dc665ba8977359c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:30:47 2020 -0600
+
+    Delete GUI2$13.class
+
+commit c2f37b41bc48dd10af3c3cfc45267bb579ee7251
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:30:40 2020 -0600
+
+    Delete GUI2$14.class
+
+commit 87860ad6cb259dfc6066b9eebf67856317f58005
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:30:32 2020 -0600
+
+    Delete GUI2$15.class
+
+commit c61e0d56c5206c665c3c17a79eb809602a3240f8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:30:23 2020 -0600
+
+    Delete GUI2$16.class
+
+commit 1a325ba24ea3ed3c769aee540e12a09b464a3751
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:30:14 2020 -0600
+
+    Delete GUI2$17.class
+
+commit 513d59a942530dc4bcceffa3551e1b37a2243653
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:30:05 2020 -0600
+
+    Delete GUI2$18.class
+
+commit 79844412d0106d21329ff9a8290e09b0eba2e122
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:29:57 2020 -0600
+
+    Delete GUI2$19.class
+
+commit ab8d04f367aae708782cba7c008f0a70904c9581
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:29:49 2020 -0600
+
+    Delete GUI2$2.class
+
+commit a1382ee7a3736edd4086d05e1011b981a61d96e4
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:29:40 2020 -0600
+
+    Delete GUI2$20.class
+
+commit ec6a9eafd21d89e97073138cdf6f422cdbfe5659
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:29:31 2020 -0600
+
+    Delete GUI2$21.class
+
+commit 0d46781b4ec3014c8dad87530797dae4c91ee618
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:29:03 2020 -0600
+
+    Delete GUI2$22.class
+
+commit de4b8e5587c4cad5f095944c2e20e4c04393ee6b
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:28:52 2020 -0600
+
+    Delete GUI2$23.class
+
+commit 973bbe3fdfb0ae7e5366ec1db2e0bbc2198f7a9c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:28:44 2020 -0600
+
+    Delete GUI2$24.class
+
+commit 8e1ec5ac2b4419b637d6fb33c77e6ff6fb48baa6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:27:35 2020 -0600
+
+    Delete GUI2$25.class
+
+commit e2a7c5a830644c767f6454b76463e71523144409
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:27:15 2020 -0600
+
+    Delete GUI2$3.class
+
+commit ed42e95c43e50c97078b1fe389bd06e8fc62ce29
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:27:06 2020 -0600
+
+    Delete GUI2$4.class
+
+commit 6bfbb137f67be65f8b21b0a7e694a15d82b1a82d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:26:58 2020 -0600
+
+    Delete GUI2$5.class
+
+commit 48ccd630294a2786a90665fbb574c5b14b3fca16
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:26:49 2020 -0600
+
+    Delete GUI2$6.class
+
+commit 97e6a5d72815833c678b16c1b2d904171018cd5b
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:26:39 2020 -0600
+
+    Delete GUI2$7.class
+
+commit 039e26e4d3f4d8af833bb42002e3ae3a8e6444fc
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:26:31 2020 -0600
+
+    Delete GUI2$8.class
+
+commit a34a6a22b3b0d652f039f62bc5d321dc8ed2f19e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:26:22 2020 -0600
+
+    Delete GUI2$9.class
+
+commit 2ffe523d615c59aa1d13ccd42a329ff3b75e2b14
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:26:11 2020 -0600
+
+    Delete GUI2.class
+
+commit 39929c23e98815207c26ce33ded398b924497137
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:26:04 2020 -0600
+
+    Delete Ingredient.class
+
+commit 86babcb0557d1550864c9b733aa73a26d246d637
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:25:52 2020 -0600
+
+    Delete IngredientNameComparator.class
+
+commit db740902c5f9ee0aa2d32976f080e728c3b0227c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:25:40 2020 -0600
+
+    Delete build.xml
+
+commit a6cd4961141fe5e9ee293dda8198e54600b17892
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:25:29 2020 -0600
+
+    Delete manifest.mf
+
+commit 3026a5d1ed3ad09131be78569827a1f3fd62f76e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:22:24 2020 -0600
+
+    Delete Recipe.class
+
+commit 19289d38592d49cd6ca9f78617f13fce64c960c1
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:22:13 2020 -0600
+
+    Delete RecipeManagementSystem.class
+
+commit a362b22937a56b9cbfcb4ba1493ed802b84cd84b
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:22:04 2020 -0600
+
+    Delete RecipeNameComparator.class
+
+commit f6359d843bd3242cb23ca22ad74567122a44e4ae
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:20:57 2020 -0600
+
+    Delete GUI2$1.class
+
+commit cb821ab6205e0d26a5baf05e251e737ec1ea924e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:20:42 2020 -0600
+
+    Delete built-jar.properties
+
+commit da9b068b4920536410e14399ec0c6594f6b4531b
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:19:36 2020 -0600
+
+    Add files via upload
+
+commit 9458bd8db03e1a46fbc692e47be642fbbbfa9683
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:14:38 2020 -0600
+
+    Delete ConsoleApp1.sln
+
+commit e41692e11cb4f30e3f294aae30f2c2651765ae99
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Nov 9 13:01:39 2020 -0600
+
+    Add files via upload
+
+commit 63f4a5c485698965141be9124a73ba0c1d980e3a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 6 23:06:21 2020 +0000
+
+    Short Description about Changes
+
+commit 979a77f4787c9de9840ef4719715fcaffa6eb558
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Fri Nov 6 17:03:58 2020 -0600
+
+    Add files via upload
+
+commit 0a7393be226fc1e1ba0712b9d0399729cadb5789
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 6 22:57:09 2020 +0000
+
+    Short Description about Changes
+
+commit 858732cef327dba3b29985b0a34509c23532ad1e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Fri Nov 6 16:52:25 2020 -0600
+
+    Add files via upload
+
+commit eee283f60109204c65fadf0fc178d7953f8965f2
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 6 22:23:32 2020 +0000
+
+    Short Description about Changes
+
+commit ebf38cc861a20860621d399309da81214e28832d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Fri Nov 6 16:21:42 2020 -0600
+
+    Add files via upload
+
+commit a9045c2f0ac469b53c09c5b57ba66a4616bf3b06
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 6 22:08:23 2020 +0000
+
+    Short Description about Changes
+
+commit d89ea4c0d4ced356db3818f77b18691be00c707a
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 6 22:04:16 2020 +0000
+
+    Short Description about Changes
+
+commit 9dac3a29930f237209ea08a70f9bd302cdfa19d0
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Fri Nov 6 12:54:57 2020 -0600
+
+    Add files via upload
+
+commit c2afc693d965f61bf0af7f1d635db7fd032cd224
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 6 15:28:55 2020 +0000
+
+    trying to make my folder link downloadable.
+
+commit 87de150c34a58f49657b4411c4f85032cdbf76d6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Fri Nov 6 09:10:50 2020 -0600
+
+    Add files via upload
+
+commit 26bd0c9e7a718c0095df1f58afe05b2f1656e307
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Fri Nov 6 09:09:29 2020 -0600
+
+    Delete hello.java
+
+commit 6395a936609615e0996f5d983277edbae7575448
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Fri Nov 6 09:09:18 2020 -0600
+
+    Delete hello.class
+
+commit 31faf6a02329d12918efccc3b5d9b8217ecbc5a3
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Nov 6 14:59:45 2020 +0000
+
+    Short Description about Changes
+
+commit a0da87941cf59e71b6dac729259525a6f2d654db
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Nov 5 23:25:33 2020 +0000
+
+    added essay for writing example 2 and a java program for programing example
+
+commit b7cea9e13aadd5df71b2ecb684f776f0c5413743
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Nov 5 16:37:22 2020 -0600
+
+    Add files via upload
+
+commit 0542cea32bf1b285bcb2183132d50012d8780cf7
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Nov 5 16:30:39 2020 -0600
+
+    Add files via upload
+
+commit 347bab12724ed62295943c2df23a485f82116ac8
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Oct 29 19:37:15 2020 +0000
+
+    added pdf of database example 1
+
+commit 9f98b1a1c946b8ac6c722abdd4432c5ca3e68c3a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Oct 29 14:28:37 2020 -0500
+
+    Add files via upload
+
+commit 8fb644ee75185b445614d61286c1799f94f5136f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Oct 21 20:02:43 2020 +0000
+
+    fixed an error caused by last update
+
+commit e5e5a6afd3f0ca43b0ac0614f68be51a95dac894
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Oct 21 19:51:05 2020 +0000
+
+    added things to the skills and education tabs
+
+commit c7c926802fd3be30740695c5149b93c27228ab71
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Wed Oct 21 19:00:36 2020 +0000
+
+    Updated resume page
+
+commit 8701ade97cde6dc337632f3a6d4c5c483c9aa5b2
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 21 13:57:06 2020 -0500
+
+    Add files via upload
+
+commit 08a5a8ef15598a6219ff255f4938a6ccb3c66ad3
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 21 13:56:36 2020 -0500
+
+    Add files via upload
+
+commit c64716a27872a88eaae11318593b1fa7ea5cb98c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 21 13:56:19 2020 -0500
+
+    Add files via upload
+
+commit 1ac59840219a58c964db7b9a115be8b5c77ffe39
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 21 13:55:38 2020 -0500
+
+    Delete bens resume capstone word .docx
+
+commit f45f62064058bcc4e3ed8bbe00e0453186aa48d9
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 21 13:55:29 2020 -0500
+
+    Delete bens resume capstone revision 1.pdf
+
+commit 62b14390ba7cd34c15df26a98745acdcadd80d8e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 21 13:39:16 2020 -0500
+
+    Add files via upload
+
+commit 93a7f638e3993da556cb6c9132e7fa9e224c9504
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 21 13:32:36 2020 -0500
+
+    Add files via upload
+
+commit 5b2b4f8e415cfbfda4ccabdd65062a66237db2d0
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 21 13:32:17 2020 -0500
+
+    Delete John Benjamin Mitchell Resume for Capstone Portfolio pdf.pdf
+
+commit 7ff86d8d03f05da0c59fd9e05072463d7f9570b6
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Oct 19 23:04:22 2020 +0000
+
+    changed wording of link to resume
+
+commit 98bdc1597aa61b5c20577071e45c3630b83f6116
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Oct 19 22:13:51 2020 +0000
+
+    added link to my pdf resume
+
+commit 59a09bf77d450fbf0dda50171df9a26221aa9f26
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 16:57:08 2020 -0500
+
+    Add files via upload
+
+commit 640a12eeb7572c116f766803102fce21d149b476
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 16:45:54 2020 -0500
+
+    Add files via upload
+
+commit 7257897354e1819edc8e5b6e3ec16bdbb43732cf
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Oct 19 20:05:58 2020 +0000
+
+    added site map pic under capstone
+
+commit d249e2643cdfdf62df5418509865fba3437b4b6a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 15:01:35 2020 -0500
+
+    Add files via upload
+
+commit e9ee22cce9fee2b003a99d0c56eb032be4cdf20f
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Oct 19 19:35:04 2020 +0000
+
+    added Pic of project homepages layout as a link
+
+commit 8e77eb05c08756fe91c6f70768023bee0d22bc31
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Oct 19 19:00:07 2020 +0000
+
+    adding pic to capstone
+
+commit e1fbc44ef071f7fe41c33f96353d462476d13211
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 13:53:24 2020 -0500
+
+    Update workexamples.html
+
+commit 7fbf5e34d59a36b5f659b0efe660d4d2e5d6292d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 13:49:40 2020 -0500
+
+    Update workexamples.html
+
+commit ff1a8e0e078bc96a938ae3e8e8aa2ad6d8239dd0
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 13:48:17 2020 -0500
+
+    Update workexamples.html
+
+commit 60fe2dcfcfdbc974a288a799784117dc6838ba5a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 13:43:14 2020 -0500
+
+    Update workexamples.html
+
+commit 583154417fa8fa5979e4838c8de4a265f9751782
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 13:41:59 2020 -0500
+
+    Update workexamples.html
+
+commit 672359d18fb1109fa8147e15b523b4b46bb58ee7
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 13:39:08 2020 -0500
+
+    Add files via upload
+
+commit 2bccf52d12162b9bbe94c3cc0b919cb10e2c81e6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 13:37:12 2020 -0500
+
+    Delete AMDB Webpage Layout Draft 1.png
+
+commit 6a29ffacbdb0338dd7aa1751ce6b6321f28d11c8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 19 13:36:59 2020 -0500
+
+    Delete AMDB Site Map.png
+
+commit 38ca5672b96059c76ff370a0c8c54103e8772d6d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Oct 14 12:00:19 2020 -0500
+
+    Add files via upload
+
+commit dd67fc77be17d2809dcd6acae978be0d62e08985
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:59:40 2020 -0500
+
+    Update workexamples.html
+
+commit 55a65ae60e30a9462f80950442ac2f01c327c27d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:58:54 2020 -0500
+
+    Update workexamples.html
+
+commit 7af9e31751aed2f0a4ee69923b13246d53a2859f
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:48:25 2020 -0500
+
+    Update studentportfolio.css
+
+commit 679f42a9ae36fcf0aa8de5f58f0c35233fbc7e27
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:42:39 2020 -0500
+
+    Update studentportfolio.css
+
+commit fc5fe58f181e2885541be6279c8f343eeab74e3a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:37:37 2020 -0500
+
+    Update studentportfolio.css
+
+commit eb9f69a486c71759f20b7680c8b77aed18657319
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:34:54 2020 -0500
+
+    Update studentportfolio.css
+
+commit 8c1f83142265a86d59d9bc64bca027383956ed92
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:31:53 2020 -0500
+
+    Update studentportfolio.css
+
+commit 9a4aff4e5f97bfca180115d401046dd879318cd0
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:30:04 2020 -0500
+
+    Update studentportfolio.css
+
+commit b587061c4398887d9dc3967950f7a27b93afeb6a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:22:47 2020 -0500
+
+    Update studentportfolio.css
+
+commit 24f58a8b798f3f50703014673d860f8250bd3a9f
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:18:43 2020 -0500
+
+    Update studentportfolio.css
+
+commit 61c52b5e8651264032cdd8dc5304de714e290ab2
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:11:36 2020 -0500
+
+    Update studentportfolio.css
+
+commit a3b3eeb4acd4af2c54a45f4b2a56caa9913b50b6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:10:30 2020 -0500
+
+    Delete Pic of me for Portfolio 2020 capstone.jpg
+
+commit a14f0df0f41c058d8444ef23bc9bfe57a26ced3e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:09:42 2020 -0500
+
+    Update index.html
+
+commit a40ec4efde34aaecbfde73fa5dfd7a1e0f58c07d
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:08:38 2020 -0500
+
+    Add files via upload
+
+commit 29e1cf5e68b8bc336d6fb1bf31445a057477ae23
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:07:55 2020 -0500
+
+    Update index.html
+
+commit 2fb005185e1fcc732a551d9ae1d88473075abadf
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:05:48 2020 -0500
+
+    Update studentportfolio.css
+
+commit dfc30b954bad5c1911995a43fefcc1c62df42fc4
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 20:02:01 2020 -0500
+
+    Update studentportfolio.css
+
+commit 61986451b00e528ac56b98779debf4868f696939
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:58:33 2020 -0500
+
+    Update index.html
+
+commit b5d918c3340fe80b40785689a76df63b18ffc811
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:56:37 2020 -0500
+
+    Update index.html
+
+commit acdf013664fc45c44ec85c6661726826dd3276d2
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:46:06 2020 -0500
+
+    Update index.html
+
+commit 739a445d0e2e582aecdfc386d497bfc8fd6a4dc7
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:41:56 2020 -0500
+
+    Update index.html
+
+commit 0f3831b672f9490b691a5583ca4b6b5ad1aaf942
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:38:56 2020 -0500
+
+    Update index.html
+
+commit 06e476e6f596ee3b2e42c1749c4b06149bc23347
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:33:00 2020 -0500
+
+    Update index.html
+
+commit 3bdd47260d689d3782abbde05310b1371c93c02e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:30:50 2020 -0500
+
+    Update index.html
+
+commit 2fb0a9d32f344aa039287aea55db45edf4cf1d1a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:29:59 2020 -0500
+
+    Update index.html
+
+commit 8df091a2d7f4cd16d1cc5fef1ec6a31e0d5789f3
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:26:25 2020 -0500
+
+    Update index.html
+
+commit 9a971f13998d733723476da5f1c1a4af9fdade28
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:22:58 2020 -0500
+
+    Update index.html
+
+commit c8a84cb0eff93a1c08f46a9b9ecfbef0af3463c2
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:14:44 2020 -0500
+
+    Update index.html
+
+commit bb60adad1f4d64eab940a01c81362f0d34a14d70
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:13:27 2020 -0500
+
+    Update index.html
+
+commit 939c69d7a69cc34c16048bfe838aebe5d79e2506
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:11:53 2020 -0500
+
+    Update index.html
+
+commit ff9b89776c40a876a31d8454eb329ede4e58dc86
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:09:15 2020 -0500
+
+    Update index.html
+
+commit c7cfc21ad15a30eb3916ac218b41d05380fab6ca
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:05:56 2020 -0500
+
+    Update index.html
+
+commit d91f2305b78c2c446d1784253548a7547d331388
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:04:41 2020 -0500
+
+    Update index.html
+
+commit f68a9894fbd772502c9fbb794081f7e40a9cc675
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:02:42 2020 -0500
+
+    Update studentportfolio.css
+
+commit 70e74d4d71aff145413f50f77eb5c6de87e6893c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 19:01:54 2020 -0500
+
+    Update index.html
+
+commit 60c48290773ea40e6c536cf329696f2177de915f
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:58:36 2020 -0500
+
+    Update studentportfolio.css
+
+commit fe66d368f60c6d672bee39474c7f89e2ba1f94b2
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:56:38 2020 -0500
+
+    Update index.html
+
+commit 8092eb8e4f477039cc8c993fd6782f2389518cb8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:52:51 2020 -0500
+
+    Update studentportfolio.css
+
+commit e77d9988e13d6e1cea405c43d25462a5c6962b02
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:49:59 2020 -0500
+
+    Update index.html
+
+commit 19e433b8fd5fa598db3b7b7b9f020549fdd7bbed
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:45:24 2020 -0500
+
+    Update index.html
+
+commit 0ea418a5cdd6f8ce0c3e9142f365818fc2662fe2
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:42:25 2020 -0500
+
+    Update index.html
+
+commit 9712d45dd3f605dc461bab41268003eb7320c3d6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:38:56 2020 -0500
+
+    Update studentportfolio.css
+
+commit f4ada9327db1fe76d36f5e769ae1a92060757790
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:33:31 2020 -0500
+
+    Update studentportfolio.css
+
+commit 363567ee1c76a9a0bebd8fd81a7aaa018b5371f7
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:30:31 2020 -0500
+
+    Update studentportfolio.css
+
+commit 35b7944b8e793c1fafb2ee13b82a44e118775527
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:27:19 2020 -0500
+
+    Update studentportfolio.css
+
+commit 84ffbcb874bea3b80d4ecb54e232c959168567c8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:10:40 2020 -0500
+
+    Update workexamples.html
+
+commit 650c4dc0fd1d63da67e777c027fbdc16cad0ab18
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:09:42 2020 -0500
+
+    Delete Project Charter Plan for Arkansas Films Website.docx
+
+commit 01c180a7eba9ab19892d513a2bb802a1aba3123e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:08:56 2020 -0500
+
+    Update index.html
+
+commit 307d91ab39eb32e39fce6621c60e66e9d4609264
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:07:13 2020 -0500
+
+    Update index.html
+
+commit 9c9c4d898899317e92fc65e69522e4a6cb0b0dc4
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:06:31 2020 -0500
+
+    Update index.html
+
+commit 51933fe513e35867d003452c63b1ec2f21254526
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:06:08 2020 -0500
+
+    Update index.html
+
+commit 538702f84a452af02b35786f43d6a2740f66fe99
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:03:46 2020 -0500
+
+    Update index.html
+
+commit 3efd168cefca0080208b5f4ec908b0e4d8efd91e
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:03:07 2020 -0500
+
+    Update index.html
+
+commit d009611794a7d0d8f8a3a7b40c70c76be916966c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:02:09 2020 -0500
+
+    Update index.html
+
+commit 399978e0b259ca3a83705cf4412b45151b4a8f9f
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 18:00:27 2020 -0500
+
+    Update index.html
+
+commit b84622f2b021c4efef5fcd3a0e1db805cf1942a6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 17:57:49 2020 -0500
+
+    Update index.html
+
+commit 9843f71efef540f9ccad295329ec3f496cc3d007
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 17:53:16 2020 -0500
+
+    Update index.html
+
+commit e73caac5b62f9b9b5c1bb6282cee08ed6c7331f7
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 17:46:35 2020 -0500
+
+    Update index.html
+
+commit 2e8fc9ed6e93198f90f5ad7318fbcf4ec88e2ea4
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 17:40:16 2020 -0500
+
+    Update index.html
+
+commit 63f2dd25cb2aed522c235cce7aa5b55c6468de27
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 17:38:15 2020 -0500
+
+    Update index.html
+
+commit 737f4d08dbfcdc8b84a666502fa3ac4d69cd5f68
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Tue Oct 13 17:36:05 2020 -0500
+
+    Add files via upload
+
+commit 194a2fea49633050d58cda4698a213639e7009fb
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 12 13:13:11 2020 -0500
+
+    Create screen.css
+
+commit e40328b9a0a5441b8a3098f497f22c7c5d66aeb8
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Oct 12 17:48:37 2020 +0000
+
+    added css page and a link to my Project Charter
+
+commit f530354601b05166b2aa75864b931fa9ab3ec7e8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 12 12:35:29 2020 -0500
+
+    Create screen.css
+
+commit 35575a13f8f6438bb8bf7416114013fb6aefe1d7
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Oct 12 17:26:18 2020 +0000
+
+    Added Sample.html
+
+commit b134e2275b3f51a9d4809411308645cadeda74a7
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 12 12:12:47 2020 -0500
+
+    Update workexamples.html
+
+commit 43fd423119b547620186297bbba52ed63ac78524
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 12 12:10:53 2020 -0500
+
+    Update workexamples.html
+
+commit 641df8f53d239344faa55d8d194f2f330d598dd1
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 12 12:07:12 2020 -0500
+
+    Update workexamples.html
+
+commit 05d0d60f25361527986e9120b803bb0148de4e9f
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 12 12:02:49 2020 -0500
+
+    Update workexamples.html
+
+commit 961a2b03ea9c8aabcc8218f9364d0896b17d09db
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 12 11:56:15 2020 -0500
+
+    Create Sample.html
+
+commit 2e5ab26d90b3eacc2edb895a100e7c17203fb6ce
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 12 11:55:02 2020 -0500
+
+    Rename index.html to Sample.html
+
+commit 225e43c1b1177df9fc51a2c07f247d74771a7f7c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 14:57:28 2020 -0500
+
+    Add files via upload
+
+commit 655d1b02abbcf78d4a3e8e14f59034586e953736
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 14:29:21 2020 -0500
+
+    Update workexamples.html
+
+commit 88ac0ddffc375c9c6ccaabaa1ddc123317ea3bb0
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 14:09:20 2020 -0500
+
+    Update workexamples.html
+
+commit 91484e9f94a43ac477f50a5e6967e20247719352
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 14:07:54 2020 -0500
+
+    Update workexamples.html
+
+commit bb018e20faa1dc3f0c4c53e1f4a8dbd9273cf7e8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 14:02:59 2020 -0500
+
+    Update workexamples.html
+
+commit bf4ef08a8d1e205d56da9df6361ee2bb7caabe33
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 13:58:49 2020 -0500
+
+    Update workexamples.html
+
+commit d985ec629bb192236235c6295a563efa04a95451
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 13:44:54 2020 -0500
+
+    Update workexamples.html
+
+commit ba3ecc7ca825513fc186bf89ddfa19462778b284
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 13:42:48 2020 -0500
+
+    Update workexamples.html
+
+commit 638c4ae0e0fea046fcef79479da4d0f8c11eaeff
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 13:08:41 2020 -0500
+
+    Update workexamples.html
+
+commit fabedef315c1d9dd7a863002b5b2405a9b4b488f
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 13:06:57 2020 -0500
+
+    Update workexamples.html
+
+commit c869ec53584ca4389ac7a8de9a64644d3cce556a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 13:04:43 2020 -0500
+
+    Update workexamples.html
+
+commit b2c10b576434c4e5a11ac5aaa9a963a0acb5a7cd
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 13:02:27 2020 -0500
+
+    Add files via upload
+
+commit 82b981a99b341cccc0205d923af7ce1fabc380b8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 12:47:36 2020 -0500
+
+    Update workexamples.html
+
+commit 03e8c65f81a14ec837ea4349e6c9a02d44e9d1ad
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 12:41:36 2020 -0500
+
+    Update workexamples.html
+
+commit a3260626000a8de9eb469b032e4e7694cd14d003
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 12:39:56 2020 -0500
+
+    Update workexamples.html
+
+commit 503883a027bb4f7df9d1bfcd57cde7ba1d71fa26
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 12:36:54 2020 -0500
+
+    Update workexamples.html
+
+commit 6e647afb0f8667b5491bfaccaffea6991f0e2062
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 12:34:42 2020 -0500
+
+    Update workexamples.html
+
+commit f027aa8718aef53100d2d010c699aa4cd8923e08
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Mon Oct 5 12:30:49 2020 -0500
+
+    Update workexamples.html
+
+commit cf67289732835ba2ac280fc85e53a75a2401fb98
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Sep 30 17:30:57 2020 -0500
+
+    Update workexamples.html
+
+commit 894a948e3be32602527663bf5e31b0db06f22957
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Sep 30 17:12:42 2020 -0500
+
+    Update workexamples.html
+
+commit e013834e6f2747a715c0f90e61adb1d5a81a51d2
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Sep 30 17:03:35 2020 -0500
+
+    Delete Project Charter Plan for Arkansas Films Website.docx
+
+commit 4e50ee7471f8032e23878794179c735526e6e2f3
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Sep 30 17:01:50 2020 -0500
+
+    Add files via upload
+
+commit cf8204bfdcc8b772a4653408671a729533fc3e55
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Sep 30 16:58:55 2020 -0500
+
+    Delete Project
+
+commit 1237293c61d025b34f876a876bbdf8e2f2dce1b1
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Sep 30 16:57:20 2020 -0500
+
+    Add files via upload
+
+commit c97089d2c52a84861911246e3cd40f92857df0b8
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Sep 30 12:16:32 2020 -0500
+
+    Create Project
+
+commit cb89c78c047bb653fbe54e66acd9f8a5ed90393b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Sep 15 20:51:50 2020 +0000
+
+    Short Description about Changes
+
+commit 701da8697c96dd9884caf45a6bb6c35360679d02
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Sep 15 20:29:57 2020 +0000
+
+    Short Description about Changes
+
+commit 6527a6b670b6f92f254d91050a3fc8420866689d
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Tue Sep 15 20:28:16 2020 +0000
+
+    probably my last update for this assignment
+
+commit f79447f18576576e03ef573c9e5279ca8bdf18cf
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Sep 14 20:48:51 2020 +0000
+
+    More work on my assignment
+
+commit f625a539a3de17a578aa88868b54bbdd5608a2ef
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Fri Sep 11 17:56:48 2020 +0000
+
+    Todays work on assignment 1
+
+commit d81ede0c1c6f4151eab207dfb280d6bc0b3fc00b
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Sep 10 22:29:23 2020 +0000
+
+    Todays work for website 1
+
+commit b4f022970e03d9c42a4423c2574a5acedc2ae596
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Sep 10 17:49:39 2020 +0000
+
+    Short Description about Changes
+
+commit 3d804abda32184b7b27b4f358f2f37d8a6d415b6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Sep 10 12:37:59 2020 -0500
+
+    Add files via upload
+
+commit cf8a04cf6c2502b4e1902f2088c51c5818f55919
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Sep 10 12:32:19 2020 -0500
+
+    Add files via upload
+
+commit d037b240e34333aac9e7444b421edfaef7eb5ee2
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Sep 10 12:31:56 2020 -0500
+
+    Delete webpage-image-1.jpg
+
+commit 0fa7c1fd966eb544e9bb08d63f169f0054f88e4c
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Sep 10 12:31:25 2020 -0500
+
+    Add files via upload
+
+commit 8d46fd41cd0c36a6d7ed7653ab2cc50ea700efb3
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Sep 10 15:55:55 2020 +0000
+
+    Short Description about Changes
+
+commit 15ec0c4742cc74e03a7e6e508165aa6cf4575f04
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Sep 10 15:52:51 2020 +0000
+
+    Short Description about Changes
+
+commit f2f39aed136838631d176c1f311a41d6547e77b7
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Sep 10 10:37:20 2020 -0500
+
+    Delete webpage-header.jpg
+
+commit df310590cca6488af9a34d50c452bc8fba8a8ddb
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Thu Sep 10 10:36:44 2020 -0500
+
+    Add files via upload
+
+commit 89ecb2e6006c5aa6b2a49ae6f22d263a72d26891
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Mon Aug 31 17:31:41 2020 +0000
+
+    update
+
+commit cb610fa7c3faab50fe8a0b494ad834191721b392
+Author: EC2 Default User <ec2-user@ip-172-31-32-112.ec2.internal>
+Date:   Thu Aug 27 01:01:27 2020 +0000
+
+    short discription about changes
+
+commit 7e7ff9adc44f43e0d2c4c241b27ae6ca5b54660a
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Aug 26 17:39:30 2020 -0500
+
+    Delete workexamples.html.txt
+
+commit e0382be4eaf59e37edaacfbdb71b8d84389c9484
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Aug 26 17:39:13 2020 -0500
+
+    Delete index.html.txt
+
+commit 049575a21a3b8bae991cb3b930c00d66d39360af
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Aug 26 17:38:57 2020 -0500
+
+    Delete studentporfolio.css.txt
+
+commit 264513e57ce0601aeaedac6620f64ceeec562aa3
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Aug 26 17:38:43 2020 -0500
+
+    Delete index.js.txt
+
+commit 60af35cbe1ef336a8d6c3e6e6d30d966202358d6
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Aug 26 13:44:54 2020 -0500
+
+    Add files via upload
+
+commit b0b5afa915baa81944be66c323158777ad8ba4e0
+Author: jbmitchell1 <70283252+jbmitchell1@users.noreply.github.com>
+Date:   Wed Aug 26 12:15:51 2020 -0500
+
+    Create README.md

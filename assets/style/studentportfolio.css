@@ -16,8 +16,7 @@ body {
 p {
 	style="text-align:left;"
 	margin-bottom: 20px;
-	  font-size: 16px;
-	color:red;
+	 
 	}
 
 .listmargin  {
@@ -106,5 +105,10 @@ p {
 
 ul{
     display: inline-block;
+}
+
+p{
+	  font-size: 25px;
+	color:red;
 }
 

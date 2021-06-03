@@ -105,7 +105,10 @@ p {
 
 ul{
     display: inline-block;
-	font-size:15px;
+}
+
+li{
+font-size:16px;	
 }
 
 p{
